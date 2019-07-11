@@ -1,0 +1,723 @@
+{
+  "releases" : {
+    "nodes" : [ {
+      "id" : "MDc6UmVsZWFzZTE0MjA2OTQ5",
+      "name" : "jdk-10.0.2+13.1",
+      "prerelease" : null,
+      "publishedAt" : "2018-11-27T13:21:54Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK10U-jdk_aarch64_linux_hotspot_10.0.2_13.tar.gz",
+          "size" : 191222154,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_aarch64_linux_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 543,
+          "updatedAt" : "2018-11-27T13:22:05Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_aarch64_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_aarch64_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 1123,
+          "updatedAt" : "2018-11-27T13:22:07Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_arm_linux_hotspot_10.0.2_13.tar.gz",
+          "size" : 188997442,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_arm_linux_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 12,
+          "updatedAt" : "2018-11-27T13:22:16Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_arm_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 116,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_arm_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 4,
+          "updatedAt" : "2018-11-27T13:22:17Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_ppc64_aix_hotspot_10.0.2_13.tar.gz",
+          "size" : 198006828,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_ppc64_aix_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 3,
+          "updatedAt" : "2018-11-27T13:22:30Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_ppc64_aix_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 116,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_ppc64_aix_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-11-27T13:22:30Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_ppc64le_linux_hotspot_10.0.2_13.tar.gz",
+          "size" : 191000143,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_ppc64le_linux_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 222,
+          "updatedAt" : "2018-11-27T13:22:41Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_ppc64le_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_ppc64le_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 1122,
+          "updatedAt" : "2018-11-27T13:22:41Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_x64_linux_hotspot_10.0.2_13.tar.gz",
+          "size" : 206829381,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_x64_linux_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 2493,
+          "updatedAt" : "2018-11-27T13:22:52Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_x64_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 116,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_x64_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 1176,
+          "updatedAt" : "2018-11-27T13:22:53Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_x64_mac_hotspot_10.0.2_13.tar.gz",
+          "size" : 201752256,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_x64_mac_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 2851,
+          "updatedAt" : "2018-11-27T13:23:09Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_x64_mac_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 114,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_x64_mac_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 13,
+          "updatedAt" : "2018-11-27T13:23:10Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_x64_windows_hotspot_10.0.2_13.zip",
+          "size" : 205265420,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_x64_windows_hotspot_10.0.2_13.zip",
+          "downloadCount" : 266,
+          "updatedAt" : "2018-11-27T13:23:20Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_x64_windows_hotspot_10.0.2_13.zip.sha256.txt",
+          "size" : 115,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_x64_windows_hotspot_10.0.2_13.zip.sha256.txt",
+          "downloadCount" : 11,
+          "updatedAt" : "2018-11-27T13:23:21Z"
+        }, {
+          "name" : "OpenJDK10U-jre_aarch64_linux_hotspot_10.0.2_13.tar.gz",
+          "size" : 38830123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_aarch64_linux_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2018-11-27T13:23:24Z"
+        }, {
+          "name" : "OpenJDK10U-jre_aarch64_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_aarch64_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 3,
+          "updatedAt" : "2018-11-27T13:23:25Z"
+        }, {
+          "name" : "OpenJDK10U-jre_arm_linux_hotspot_10.0.2_13.tar.gz",
+          "size" : 37601643,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_arm_linux_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 7,
+          "updatedAt" : "2018-11-27T13:23:31Z"
+        }, {
+          "name" : "OpenJDK10U-jre_arm_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 116,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_arm_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 3,
+          "updatedAt" : "2018-11-27T13:23:31Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64_aix_hotspot_10.0.2_13.tar.gz",
+          "size" : 44065279,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_ppc64_aix_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-11-27T13:23:35Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64_aix_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 116,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_ppc64_aix_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-11-27T13:23:35Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64le_linux_hotspot_10.0.2_13.tar.gz",
+          "size" : 38588605,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_ppc64le_linux_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-11-27T13:23:38Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64le_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_ppc64le_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 3,
+          "updatedAt" : "2018-11-27T13:23:39Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_hotspot_10.0.2_13.tar.gz",
+          "size" : 42481011,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_x64_linux_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 50,
+          "updatedAt" : "2018-11-27T13:23:42Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 116,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_x64_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 7,
+          "updatedAt" : "2018-11-27T13:23:42Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_mac_hotspot_10.0.2_13.tar.gz",
+          "size" : 38962113,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_x64_mac_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 22,
+          "updatedAt" : "2018-11-27T13:23:46Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_mac_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 114,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_x64_mac_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 6,
+          "updatedAt" : "2018-11-27T13:23:46Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_windows_hotspot_10.0.2_13.zip",
+          "size" : 39471140,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_x64_windows_hotspot_10.0.2_13.zip",
+          "downloadCount" : 230,
+          "updatedAt" : "2018-11-27T13:23:51Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_windows_hotspot_10.0.2_13.zip.sha256.txt",
+          "size" : 115,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_x64_windows_hotspot_10.0.2_13.zip.sha256.txt",
+          "downloadCount" : 11,
+          "updatedAt" : "2018-11-27T13:23:51Z"
+        }, {
+          "name" : "OpenJDK10U-jre_s390x_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_s390x_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-03T11:09:46Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_s390x_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_s390x_linux_hotspot_10.0.2_13.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-03T11:09:48Z"
+        }, {
+          "name" : "OpenJDK10U-jre_s390x_linux_hotspot_10.0.2_13.tar.gz",
+          "size" : 39239812,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jre_s390x_linux_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-03T11:10:35Z"
+        }, {
+          "name" : "OpenJDK10U-jdk_s390x_linux_hotspot_10.0.2_13.tar.gz",
+          "size" : 192076233,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk-10.0.2%2B13.1/OpenJDK10U-jdk_s390x_linux_hotspot_10.0.2_13.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-03T11:14:38Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : "Y3Vyc29yOnYyOpHOAM5zZg=="
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk10-binaries/releases/tag/jdk-10.0.2%2B13.1",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/tag/jdk-10.0.2%2B13.1"
+    }, {
+      "id" : "MDc6UmVsZWFzZTEyMTY5ODU3",
+      "name" : "jdk10u-2018-07-30-18-04",
+      "prerelease" : null,
+      "publishedAt" : "2018-07-30T18:04:57Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK10U_aarch64_linux_hotspot_2018-07-30-16-37.tar.gz",
+          "size" : 191027734,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_aarch64_linux_hotspot_2018-07-30-16-37.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:05:11Z"
+        }, {
+          "name" : "OpenJDK10U_aarch64_linux_hotspot_2018-07-30-16-37.tar.gz.sha256.txt",
+          "size" : 152,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_aarch64_linux_hotspot_2018-07-30-16-37.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:05:12Z"
+        }, {
+          "name" : "OpenJDK10U-jre_aarch64_linux_hotspot_2018-07-30-16-37.tar.gz",
+          "size" : 38738324,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_aarch64_linux_hotspot_2018-07-30-16-37.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:05:19Z"
+        }, {
+          "name" : "OpenJDK10U-jre_aarch64_linux_hotspot_2018-07-30-16-37.tar.gz.sha256.txt",
+          "size" : 156,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_aarch64_linux_hotspot_2018-07-30-16-37.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:05:19Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64_aix_hotspot_2018-07-30-09-48.tar.gz",
+          "size" : 44133683,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_ppc64_aix_hotspot_2018-07-30-09-48.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:05:35Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64_aix_hotspot_2018-07-30-09-48.tar.gz.sha256.txt",
+          "size" : 148,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_ppc64_aix_hotspot_2018-07-30-09-48.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:05:36Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64_aix_openj9_2018-07-30-08-39.tar.gz",
+          "size" : 49626992,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_ppc64_aix_openj9_2018-07-30-08-39.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-07-30T18:05:49Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64_aix_openj9_2018-07-30-08-39.tar.gz.sha256.txt",
+          "size" : 146,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_ppc64_aix_openj9_2018-07-30-08-39.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-07-30T18:05:50Z"
+        }, {
+          "name" : "OpenJDK10U-jre_s390x_linux_openj9_2018-07-30-10-36.tar.gz",
+          "size" : 44483487,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_s390x_linux_openj9_2018-07-30-10-36.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:05:55Z"
+        }, {
+          "name" : "OpenJDK10U-jre_s390x_linux_openj9_2018-07-30-10-36.tar.gz.sha256.txt",
+          "size" : 150,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_s390x_linux_openj9_2018-07-30-10-36.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:05:55Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_hotspot_2018-07-30-14-52.tar.gz",
+          "size" : 42305966,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_x64_linux_hotspot_2018-07-30-14-52.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:05:59Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_hotspot_2018-07-30-14-52.tar.gz.sha256.txt",
+          "size" : 148,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_x64_linux_hotspot_2018-07-30-14-52.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:05:59Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_openj9_2018-07-30-15-14.tar.gz",
+          "size" : 43394712,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_x64_linux_openj9_2018-07-30-15-14.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-07-30T18:06:03Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_openj9_2018-07-30-15-14.tar.gz.sha256.txt",
+          "size" : 146,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_x64_linux_openj9_2018-07-30-15-14.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:06:04Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_openj9_linuxXL_2018-07-30-15-24.tar.gz",
+          "size" : 43375372,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_x64_linux_openj9_linuxXL_2018-07-30-15-24.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:06:08Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_openj9_linuxXL_2018-07-30-15-24.tar.gz.sha256.txt",
+          "size" : 154,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_x64_linux_openj9_linuxXL_2018-07-30-15-24.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:06:09Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_mac_hotspot_2018-07-30-07-44.tar.gz",
+          "size" : 38958993,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_x64_mac_hotspot_2018-07-30-07-44.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:06:12Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_mac_hotspot_2018-07-30-07-44.tar.gz.sha256.txt",
+          "size" : 144,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_x64_mac_hotspot_2018-07-30-07-44.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:06:13Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_windows_hotspot_2018-07-30-09-35.zip",
+          "size" : 64884862,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_x64_windows_hotspot_2018-07-30-09-35.zip",
+          "downloadCount" : 3,
+          "updatedAt" : "2018-07-30T18:06:18Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_windows_hotspot_2018-07-30-09-35.zip.sha256.txt",
+          "size" : 149,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_x64_windows_hotspot_2018-07-30-09-35.zip.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:06:18Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_windows_openj9_2018-07-30-10-40.zip",
+          "size" : 48457279,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_x64_windows_openj9_2018-07-30-10-40.zip",
+          "downloadCount" : 6,
+          "updatedAt" : "2018-07-30T18:06:22Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_windows_openj9_2018-07-30-10-40.zip.sha256.txt",
+          "size" : 147,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U-jre_x64_windows_openj9_2018-07-30-10-40.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-07-30T18:06:23Z"
+        }, {
+          "name" : "OpenJDK10U_ppc64_aix_hotspot_2018-07-30-09-48.tar.gz",
+          "size" : 198129916,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_ppc64_aix_hotspot_2018-07-30-09-48.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:06:36Z"
+        }, {
+          "name" : "OpenJDK10U_ppc64_aix_hotspot_2018-07-30-09-48.tar.gz.sha256.txt",
+          "size" : 144,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_ppc64_aix_hotspot_2018-07-30-09-48.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:06:37Z"
+        }, {
+          "name" : "OpenJDK10U_ppc64_aix_openj9_2018-07-30-08-39.tar.gz",
+          "size" : 211105507,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_ppc64_aix_openj9_2018-07-30-08-39.tar.gz",
+          "downloadCount" : 6,
+          "updatedAt" : "2018-07-30T18:06:49Z"
+        }, {
+          "name" : "OpenJDK10U_ppc64_aix_openj9_2018-07-30-08-39.tar.gz.sha256.txt",
+          "size" : 142,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_ppc64_aix_openj9_2018-07-30-08-39.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:06:50Z"
+        }, {
+          "name" : "OpenJDK10U_s390x_linux_openj9_2018-07-30-10-36.tar.gz",
+          "size" : 212009695,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_s390x_linux_openj9_2018-07-30-10-36.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-07-30T18:07:02Z"
+        }, {
+          "name" : "OpenJDK10U_s390x_linux_openj9_2018-07-30-10-36.tar.gz.sha256.txt",
+          "size" : 146,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_s390x_linux_openj9_2018-07-30-10-36.tar.gz.sha256.txt",
+          "downloadCount" : 7,
+          "updatedAt" : "2018-07-30T18:07:03Z"
+        }, {
+          "name" : "OpenJDK10U_x64_linux_hotspot_2018-07-30-14-52.tar.gz",
+          "size" : 206455107,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_x64_linux_hotspot_2018-07-30-14-52.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:07:16Z"
+        }, {
+          "name" : "OpenJDK10U_x64_linux_hotspot_2018-07-30-14-52.tar.gz.sha256.txt",
+          "size" : 144,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_x64_linux_hotspot_2018-07-30-14-52.tar.gz.sha256.txt",
+          "downloadCount" : 5,
+          "updatedAt" : "2018-07-30T18:07:16Z"
+        }, {
+          "name" : "OpenJDK10U_x64_linux_openj9_2018-07-30-15-14.tar.gz",
+          "size" : 209664403,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_x64_linux_openj9_2018-07-30-15-14.tar.gz",
+          "downloadCount" : 7,
+          "updatedAt" : "2018-07-30T18:07:44Z"
+        }, {
+          "name" : "OpenJDK10U_x64_linux_openj9_2018-07-30-15-14.tar.gz.sha256.txt",
+          "size" : 142,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_x64_linux_openj9_2018-07-30-15-14.tar.gz.sha256.txt",
+          "downloadCount" : 7,
+          "updatedAt" : "2018-07-30T18:07:44Z"
+        }, {
+          "name" : "OpenJDK10U_x64_linux_openj9_linuxXL_2018-07-30-15-24.tar.gz",
+          "size" : 209638302,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_x64_linux_openj9_linuxXL_2018-07-30-15-24.tar.gz",
+          "downloadCount" : 3,
+          "updatedAt" : "2018-07-30T18:07:58Z"
+        }, {
+          "name" : "OpenJDK10U_x64_linux_openj9_linuxXL_2018-07-30-15-24.tar.gz.sha256.txt",
+          "size" : 150,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_x64_linux_openj9_linuxXL_2018-07-30-15-24.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-07-30T18:07:59Z"
+        }, {
+          "name" : "OpenJDK10U_x64_mac_hotspot_2018-07-30-07-44.tar.gz",
+          "size" : 201740164,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_x64_mac_hotspot_2018-07-30-07-44.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:08:11Z"
+        }, {
+          "name" : "OpenJDK10U_x64_mac_hotspot_2018-07-30-07-44.tar.gz.sha256.txt",
+          "size" : 140,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_x64_mac_hotspot_2018-07-30-07-44.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:08:12Z"
+        }, {
+          "name" : "OpenJDK10U_x64_windows_hotspot_2018-07-30-09-35.zip",
+          "size" : 230934838,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_x64_windows_hotspot_2018-07-30-09-35.zip",
+          "downloadCount" : 3,
+          "updatedAt" : "2018-07-30T18:08:27Z"
+        }, {
+          "name" : "OpenJDK10U_x64_windows_hotspot_2018-07-30-09-35.zip.sha256.txt",
+          "size" : 145,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_x64_windows_hotspot_2018-07-30-09-35.zip.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:08:27Z"
+        }, {
+          "name" : "OpenJDK10U_x64_windows_openj9_2018-07-30-10-40.zip",
+          "size" : 218484321,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_x64_windows_openj9_2018-07-30-10-40.zip",
+          "downloadCount" : 7,
+          "updatedAt" : "2018-07-30T18:08:41Z"
+        }, {
+          "name" : "OpenJDK10U_x64_windows_openj9_2018-07-30-10-40.zip.sha256.txt",
+          "size" : 143,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-07-30-18-04/OpenJDK10U_x64_windows_openj9_2018-07-30-10-40.zip.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-07-30T18:08:42Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : "Y3Vyc29yOnYyOpHOAHsKyg=="
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk10-binaries/releases/tag/jdk10u-2018-07-30-18-04",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/tag/jdk10u-2018-07-30-18-04"
+    }, {
+      "id" : "MDc6UmVsZWFzZTEzMTYzMTE0",
+      "name" : "jdk10u-2018-09-29-10-32",
+      "prerelease" : null,
+      "publishedAt" : "2018-09-29T10:32:49Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK10U_aarch64_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "size" : 188846310,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_aarch64_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 123,
+          "updatedAt" : "2018-09-29T10:33:00Z"
+        }, {
+          "name" : "OpenJDK10U_aarch64_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_aarch64_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 596,
+          "updatedAt" : "2018-09-29T10:33:00Z"
+        }, {
+          "name" : "OpenJDK10U-jre_aarch64_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "size" : 37625449,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_aarch64_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 9,
+          "updatedAt" : "2018-09-29T10:33:03Z"
+        }, {
+          "name" : "OpenJDK10U-jre_aarch64_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_aarch64_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T10:33:04Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64_aix_hotspot_2018-09-29-10-32.tar.gz",
+          "size" : 44063999,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_ppc64_aix_hotspot_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T10:33:07Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64_aix_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_ppc64_aix_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T10:33:07Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64_aix_openj9_2018-09-29-10-32.tar.gz",
+          "size" : 89631849,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_ppc64_aix_openj9_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T10:33:12Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64_aix_openj9_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_ppc64_aix_openj9_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T10:33:13Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64le_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "size" : 37355567,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_ppc64le_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T10:33:16Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64le_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_ppc64le_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T10:33:16Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64le_linux_openj9_2018-09-29-10-32.tar.gz",
+          "size" : 42441983,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_ppc64le_linux_openj9_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T10:33:19Z"
+        }, {
+          "name" : "OpenJDK10U-jre_ppc64le_linux_openj9_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_ppc64le_linux_openj9_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T10:33:20Z"
+        }, {
+          "name" : "OpenJDK10U-jre_s390x_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "size" : 39001431,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_s390x_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 6,
+          "updatedAt" : "2018-09-29T10:33:23Z"
+        }, {
+          "name" : "OpenJDK10U-jre_s390x_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_s390x_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T10:33:23Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "size" : 42232041,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_x64_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 13,
+          "updatedAt" : "2018-09-29T10:33:26Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_x64_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T10:33:27Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_openj9_2018-09-29-10-32.tar.gz",
+          "size" : 43962551,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_x64_linux_openj9_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 16,
+          "updatedAt" : "2018-09-29T10:33:30Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_openj9_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_x64_linux_openj9_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 4,
+          "updatedAt" : "2018-09-29T10:33:31Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_openj9_linuxXL_2018-09-29-10-32.tar.gz",
+          "size" : 43939174,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_x64_linux_openj9_linuxXL_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-09-29T10:33:34Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_linux_openj9_linuxXL_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 130,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_x64_linux_openj9_linuxXL_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 3,
+          "updatedAt" : "2018-09-29T10:33:34Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_windows_hotspot_2018-09-29-10-32.zip",
+          "size" : 64884544,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_x64_windows_hotspot_2018-09-29-10-32.zip",
+          "downloadCount" : 44,
+          "updatedAt" : "2018-09-29T10:33:38Z"
+        }, {
+          "name" : "OpenJDK10U-jre_x64_windows_hotspot_2018-09-29-10-32.zip.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U-jre_x64_windows_hotspot_2018-09-29-10-32.zip.sha256.txt",
+          "downloadCount" : 5,
+          "updatedAt" : "2018-09-29T10:33:39Z"
+        }, {
+          "name" : "OpenJDK10U_ppc64_aix_hotspot_2018-09-29-10-32.tar.gz",
+          "size" : 197999220,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_ppc64_aix_hotspot_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T10:33:49Z"
+        }, {
+          "name" : "OpenJDK10U_ppc64_aix_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 119,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_ppc64_aix_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T10:33:49Z"
+        }, {
+          "name" : "OpenJDK10U_ppc64_aix_openj9_2018-09-29-10-32.tar.gz",
+          "size" : 280882072,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_ppc64_aix_openj9_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 5,
+          "updatedAt" : "2018-09-29T10:34:02Z"
+        }, {
+          "name" : "OpenJDK10U_ppc64_aix_openj9_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_ppc64_aix_openj9_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T10:34:03Z"
+        }, {
+          "name" : "OpenJDK10U_ppc64le_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "size" : 188543036,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_ppc64le_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 104,
+          "updatedAt" : "2018-09-29T10:34:12Z"
+        }, {
+          "name" : "OpenJDK10U_ppc64le_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_ppc64le_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 595,
+          "updatedAt" : "2018-09-29T10:34:13Z"
+        }, {
+          "name" : "OpenJDK10U_ppc64le_linux_openj9_2018-09-29-10-32.tar.gz",
+          "size" : 206832394,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_ppc64le_linux_openj9_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 316,
+          "updatedAt" : "2018-09-29T10:34:23Z"
+        }, {
+          "name" : "OpenJDK10U_ppc64le_linux_openj9_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_ppc64le_linux_openj9_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 1686,
+          "updatedAt" : "2018-09-29T10:34:24Z"
+        }, {
+          "name" : "OpenJDK10U_s390x_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "size" : 191623302,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_s390x_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 385,
+          "updatedAt" : "2018-09-29T10:34:33Z"
+        }, {
+          "name" : "OpenJDK10U_s390x_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_s390x_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 1692,
+          "updatedAt" : "2018-09-29T10:34:34Z"
+        }, {
+          "name" : "OpenJDK10U_x64_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "size" : 206312208,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_linux_hotspot_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 254,
+          "updatedAt" : "2018-09-29T10:34:45Z"
+        }, {
+          "name" : "OpenJDK10U_x64_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 119,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_linux_hotspot_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 595,
+          "updatedAt" : "2018-09-29T10:34:46Z"
+        }, {
+          "name" : "OpenJDK10U_x64_linux_openj9_2018-09-29-10-32.tar.gz",
+          "size" : 209874746,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_linux_openj9_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 747,
+          "updatedAt" : "2018-09-29T10:34:59Z"
+        }, {
+          "name" : "OpenJDK10U_x64_linux_openj9_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_linux_openj9_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 1689,
+          "updatedAt" : "2018-09-29T10:34:59Z"
+        }, {
+          "name" : "OpenJDK10U_x64_linux_openj9_linuxXL_2018-09-29-10-32.tar.gz",
+          "size" : 209855956,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_linux_openj9_linuxXL_2018-09-29-10-32.tar.gz",
+          "downloadCount" : 15,
+          "updatedAt" : "2018-09-29T10:35:10Z"
+        }, {
+          "name" : "OpenJDK10U_x64_linux_openj9_linuxXL_2018-09-29-10-32.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_linux_openj9_linuxXL_2018-09-29-10-32.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T10:35:10Z"
+        }, {
+          "name" : "OpenJDK10U_x64_windows_hotspot_2018-09-29-10-32.zip",
+          "size" : 230938190,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_windows_hotspot_2018-09-29-10-32.zip",
+          "downloadCount" : 70,
+          "updatedAt" : "2018-09-29T10:35:24Z"
+        }, {
+          "name" : "OpenJDK10U_x64_windows_hotspot_2018-09-29-10-32.zip.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/download/jdk10u-2018-09-29-10-32/OpenJDK10U_x64_windows_hotspot_2018-09-29-10-32.zip.sha256.txt",
+          "downloadCount" : 5,
+          "updatedAt" : "2018-09-29T10:35:24Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : "Y3Vyc29yOnYyOpHOAIfGcw=="
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk10-binaries/releases/tag/jdk10u-2018-09-29-10-32",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk10-binaries/releases/tag/jdk10u-2018-09-29-10-32"
+    } ],
+    "pageInfo" : {
+      "hasNextPage" : false,
+      "endCursor" : null
+    }
+  }
+}

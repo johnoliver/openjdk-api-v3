@@ -1,0 +1,2285 @@
+{
+  "releases" : {
+    "nodes" : [ {
+      "id" : "MDc6UmVsZWFzZTE4NzE2Mzk5",
+      "name" : "jdk-12.0.2+10",
+      "prerelease" : null,
+      "publishedAt" : "2019-07-18T20:26:29Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK12U-jdk_x64_linux_hotspot_12.0.2_10.tar.gz",
+          "size" : 207650938,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_linux_hotspot_12.0.2_10.tar.gz",
+          "downloadCount" : 190,
+          "updatedAt" : "2019-07-18T20:26:45Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_hotspot_12.0.2_10.tar.gz.json",
+          "size" : 558,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_linux_hotspot_12.0.2_10.tar.gz.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T20:26:45Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "size" : 116,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "downloadCount" : 27,
+          "updatedAt" : "2019-07-18T20:26:46Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_12.0.2_10.pkg",
+          "size" : 198817741,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_mac_hotspot_12.0.2_10.pkg",
+          "downloadCount" : 67,
+          "updatedAt" : "2019-07-18T20:27:00Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_12.0.2_10.pkg.json",
+          "size" : 556,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_mac_hotspot_12.0.2_10.pkg.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T20:27:00Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_12.0.2_10.pkg.sha256.txt",
+          "size" : 111,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_mac_hotspot_12.0.2_10.pkg.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T20:27:01Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_12.0.2_10.tar.gz",
+          "size" : 198392994,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_mac_hotspot_12.0.2_10.tar.gz",
+          "downloadCount" : 46,
+          "updatedAt" : "2019-07-18T20:27:24Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_12.0.2_10.tar.gz.json",
+          "size" : 556,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_mac_hotspot_12.0.2_10.tar.gz.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T20:27:25Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "size" : 114,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_mac_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "downloadCount" : 5,
+          "updatedAt" : "2019-07-18T20:27:25Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_12.0.2_10.msi",
+          "size" : 185389056,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_windows_hotspot_12.0.2_10.msi",
+          "downloadCount" : 368,
+          "updatedAt" : "2019-07-18T20:27:39Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_12.0.2_10.msi.json",
+          "size" : 560,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_windows_hotspot_12.0.2_10.msi.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T20:27:39Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_12.0.2_10.msi.sha256.txt",
+          "size" : 115,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_windows_hotspot_12.0.2_10.msi.sha256.txt",
+          "downloadCount" : 12,
+          "updatedAt" : "2019-07-18T20:27:40Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_12.0.2_10.zip",
+          "size" : 209930893,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_windows_hotspot_12.0.2_10.zip",
+          "downloadCount" : 82,
+          "updatedAt" : "2019-07-18T20:27:55Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_12.0.2_10.zip.json",
+          "size" : 560,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_windows_hotspot_12.0.2_10.zip.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T20:27:56Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_12.0.2_10.zip.sha256.txt",
+          "size" : 115,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x64_windows_hotspot_12.0.2_10.zip.sha256.txt",
+          "downloadCount" : 12,
+          "updatedAt" : "2019-07-18T20:27:56Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_hotspot_12.0.2_10.tar.gz",
+          "size" : 47396155,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_linux_hotspot_12.0.2_10.tar.gz",
+          "downloadCount" : 37,
+          "updatedAt" : "2019-07-18T20:28:01Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_hotspot_12.0.2_10.tar.gz.json",
+          "size" : 558,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_linux_hotspot_12.0.2_10.tar.gz.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T20:28:01Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "size" : 116,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-18T20:28:02Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_12.0.2_10.pkg",
+          "size" : 42977234,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_mac_hotspot_12.0.2_10.pkg",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-18T20:28:05Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_12.0.2_10.pkg.json",
+          "size" : 556,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_mac_hotspot_12.0.2_10.pkg.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T20:28:06Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_12.0.2_10.pkg.sha256.txt",
+          "size" : 111,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_mac_hotspot_12.0.2_10.pkg.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T20:28:06Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_12.0.2_10.tar.gz",
+          "size" : 42686078,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_mac_hotspot_12.0.2_10.tar.gz",
+          "downloadCount" : 18,
+          "updatedAt" : "2019-07-18T20:28:10Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_12.0.2_10.tar.gz.json",
+          "size" : 556,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_mac_hotspot_12.0.2_10.tar.gz.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T20:28:10Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "size" : 114,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_mac_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-18T20:28:11Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_12.0.2_10.msi",
+          "size" : 34406400,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_windows_hotspot_12.0.2_10.msi",
+          "downloadCount" : 47,
+          "updatedAt" : "2019-07-18T20:28:14Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_12.0.2_10.msi.json",
+          "size" : 560,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_windows_hotspot_12.0.2_10.msi.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T20:28:15Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_12.0.2_10.msi.sha256.txt",
+          "size" : 115,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_windows_hotspot_12.0.2_10.msi.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-18T20:28:15Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_12.0.2_10.zip",
+          "size" : 46669844,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_windows_hotspot_12.0.2_10.zip",
+          "downloadCount" : 46,
+          "updatedAt" : "2019-07-18T20:28:19Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_12.0.2_10.zip.json",
+          "size" : 560,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_windows_hotspot_12.0.2_10.zip.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T20:28:20Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_12.0.2_10.zip.sha256.txt",
+          "size" : 115,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x64_windows_hotspot_12.0.2_10.zip.sha256.txt",
+          "downloadCount" : 6,
+          "updatedAt" : "2019-07-18T20:28:20Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_aarch64_linux_hotspot_12.0.2_10.tar.gz",
+          "size" : 205711413,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_aarch64_linux_hotspot_12.0.2_10.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-19T11:40:22Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_aarch64_linux_hotspot_12.0.2_10.tar.gz.json",
+          "size" : 562,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_aarch64_linux_hotspot_12.0.2_10.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:40:22Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_aarch64_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_aarch64_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:40:23Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_hotspot_12.0.2_10.tar.gz",
+          "size" : 191281964,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_ppc64le_linux_hotspot_12.0.2_10.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:40:43Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_hotspot_12.0.2_10.tar.gz.json",
+          "size" : 562,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_ppc64le_linux_hotspot_12.0.2_10.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:40:44Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_ppc64le_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:40:44Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_hotspot_12.0.2_10.tar.gz",
+          "size" : 185805898,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_s390x_linux_hotspot_12.0.2_10.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:01Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_hotspot_12.0.2_10.tar.gz.json",
+          "size" : 560,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_s390x_linux_hotspot_12.0.2_10.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:02Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_s390x_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:02Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_12.0.2_10.msi",
+          "size" : 167268352,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x86-32_windows_hotspot_12.0.2_10.msi",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-19T11:41:18Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_12.0.2_10.msi.json",
+          "size" : 563,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x86-32_windows_hotspot_12.0.2_10.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:18Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_12.0.2_10.msi.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x86-32_windows_hotspot_12.0.2_10.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:19Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_12.0.2_10.zip",
+          "size" : 188909527,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x86-32_windows_hotspot_12.0.2_10.zip",
+          "downloadCount" : 11,
+          "updatedAt" : "2019-07-19T11:41:35Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_12.0.2_10.zip.json",
+          "size" : 563,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x86-32_windows_hotspot_12.0.2_10.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:36Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_12.0.2_10.zip.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jdk_x86-32_windows_hotspot_12.0.2_10.zip.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-19T11:41:36Z"
+        }, {
+          "name" : "OpenJDK12U-jre_aarch64_linux_hotspot_12.0.2_10.tar.gz",
+          "size" : 46402880,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_aarch64_linux_hotspot_12.0.2_10.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:41Z"
+        }, {
+          "name" : "OpenJDK12U-jre_aarch64_linux_hotspot_12.0.2_10.tar.gz.json",
+          "size" : 562,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_aarch64_linux_hotspot_12.0.2_10.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:42Z"
+        }, {
+          "name" : "OpenJDK12U-jre_aarch64_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_aarch64_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:42Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_hotspot_12.0.2_10.tar.gz",
+          "size" : 43716926,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_ppc64le_linux_hotspot_12.0.2_10.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:47Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_hotspot_12.0.2_10.tar.gz.json",
+          "size" : 562,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_ppc64le_linux_hotspot_12.0.2_10.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:47Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_ppc64le_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:48Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_hotspot_12.0.2_10.tar.gz",
+          "size" : 43422455,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_s390x_linux_hotspot_12.0.2_10.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:52Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_hotspot_12.0.2_10.tar.gz.json",
+          "size" : 560,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_s390x_linux_hotspot_12.0.2_10.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:53Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_s390x_linux_hotspot_12.0.2_10.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:53Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_12.0.2_10.msi",
+          "size" : 30326784,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x86-32_windows_hotspot_12.0.2_10.msi",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-19T11:41:56Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_12.0.2_10.msi.json",
+          "size" : 563,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x86-32_windows_hotspot_12.0.2_10.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:57Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_12.0.2_10.msi.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x86-32_windows_hotspot_12.0.2_10.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:41:57Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_12.0.2_10.zip",
+          "size" : 41096620,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x86-32_windows_hotspot_12.0.2_10.zip",
+          "downloadCount" : 12,
+          "updatedAt" : "2019-07-19T11:42:02Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_12.0.2_10.zip.json",
+          "size" : 563,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x86-32_windows_hotspot_12.0.2_10.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-19T11:42:02Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_12.0.2_10.zip.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12.0.2%2B10/OpenJDK12U-jre_x86-32_windows_hotspot_12.0.2_10.zip.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-19T11:42:03Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : null
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk12-binaries/releases/tag/jdk-12.0.2%2B10",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/tag/jdk-12.0.2%2B10"
+    }, {
+      "id" : "MDc6UmVsZWFzZTE2MjgyMjM2",
+      "name" : "jdk-12+33",
+      "prerelease" : null,
+      "publishedAt" : "2019-03-22T12:08:43Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK12U-jdk_x64_linux_hotspot_12_33.tar.gz",
+          "size" : 207052875,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x64_linux_hotspot_12_33.tar.gz",
+          "downloadCount" : 342661,
+          "updatedAt" : "2019-03-22T12:08:53Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "size" : 112,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x64_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "downloadCount" : 585,
+          "updatedAt" : "2019-03-22T12:08:53Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_12_33.pkg",
+          "size" : 198526929,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x64_mac_hotspot_12_33.pkg",
+          "downloadCount" : 1192,
+          "updatedAt" : "2019-03-22T12:09:03Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_12_33.pkg.sha256.txt",
+          "size" : 107,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x64_mac_hotspot_12_33.pkg.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-03-22T12:09:04Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_12_33.tar.gz",
+          "size" : 198099074,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x64_mac_hotspot_12_33.tar.gz",
+          "downloadCount" : 1091,
+          "updatedAt" : "2019-03-22T12:09:13Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_12_33.tar.gz.sha256.txt",
+          "size" : 110,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x64_mac_hotspot_12_33.tar.gz.sha256.txt",
+          "downloadCount" : 30,
+          "updatedAt" : "2019-03-22T12:09:14Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_12_33.msi",
+          "size" : 180170752,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x64_windows_hotspot_12_33.msi",
+          "downloadCount" : 4549,
+          "updatedAt" : "2019-03-22T12:09:22Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_12_33.msi.sha256.txt",
+          "size" : 111,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x64_windows_hotspot_12_33.msi.sha256.txt",
+          "downloadCount" : 5,
+          "updatedAt" : "2019-03-22T12:09:23Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_12_33.zip",
+          "size" : 203882195,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x64_windows_hotspot_12_33.zip",
+          "downloadCount" : 14553,
+          "updatedAt" : "2019-03-22T12:09:33Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_12_33.zip.sha256.txt",
+          "size" : 111,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x64_windows_hotspot_12_33.zip.sha256.txt",
+          "downloadCount" : 85,
+          "updatedAt" : "2019-03-22T12:09:34Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_hotspot_12_33.tar.gz",
+          "size" : 47097213,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x64_linux_hotspot_12_33.tar.gz",
+          "downloadCount" : 2452,
+          "updatedAt" : "2019-03-22T12:09:40Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "size" : 112,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x64_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "downloadCount" : 391,
+          "updatedAt" : "2019-03-22T12:09:40Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_12_33.pkg",
+          "size" : 42829773,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x64_mac_hotspot_12_33.pkg",
+          "downloadCount" : 113,
+          "updatedAt" : "2019-03-22T12:09:43Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_12_33.pkg.sha256.txt",
+          "size" : 107,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x64_mac_hotspot_12_33.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-03-22T12:09:44Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_12_33.tar.gz",
+          "size" : 42531362,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x64_mac_hotspot_12_33.tar.gz",
+          "downloadCount" : 94,
+          "updatedAt" : "2019-03-22T12:09:47Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_12_33.tar.gz.sha256.txt",
+          "size" : 110,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x64_mac_hotspot_12_33.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-03-22T12:09:48Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_12_33.msi",
+          "size" : 32133120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x64_windows_hotspot_12_33.msi",
+          "downloadCount" : 915,
+          "updatedAt" : "2019-03-22T12:09:50Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_12_33.msi.sha256.txt",
+          "size" : 111,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x64_windows_hotspot_12_33.msi.sha256.txt",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-03-22T12:09:51Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_12_33.zip",
+          "size" : 43646771,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x64_windows_hotspot_12_33.zip",
+          "downloadCount" : 1102,
+          "updatedAt" : "2019-03-22T12:09:54Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_12_33.zip.sha256.txt",
+          "size" : 111,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x64_windows_hotspot_12_33.zip.sha256.txt",
+          "downloadCount" : 63,
+          "updatedAt" : "2019-03-22T12:09:55Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_hotspot_12_33.tar.gz",
+          "size" : 190627398,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_ppc64le_linux_hotspot_12_33.tar.gz",
+          "downloadCount" : 78,
+          "updatedAt" : "2019-03-22T14:51:07Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "size" : 116,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_ppc64le_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "downloadCount" : 373,
+          "updatedAt" : "2019-03-22T14:51:08Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_12_33.msi",
+          "size" : 163524608,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x86-32_windows_hotspot_12_33.msi",
+          "downloadCount" : 418,
+          "updatedAt" : "2019-03-22T14:51:16Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_12_33.msi.sha256.txt",
+          "size" : 114,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x86-32_windows_hotspot_12_33.msi.sha256.txt",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-03-22T14:51:16Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_12_33.zip",
+          "size" : 184619668,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x86-32_windows_hotspot_12_33.zip",
+          "downloadCount" : 448,
+          "updatedAt" : "2019-03-22T14:51:25Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_12_33.zip.sha256.txt",
+          "size" : 114,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_x86-32_windows_hotspot_12_33.zip.sha256.txt",
+          "downloadCount" : 42,
+          "updatedAt" : "2019-03-22T14:51:25Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_hotspot_12_33.tar.gz",
+          "size" : 43280240,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_ppc64le_linux_hotspot_12_33.tar.gz",
+          "downloadCount" : 38,
+          "updatedAt" : "2019-03-22T14:51:28Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "size" : 116,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_ppc64le_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "downloadCount" : 370,
+          "updatedAt" : "2019-03-22T14:51:29Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_12_33.msi",
+          "size" : 28696576,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x86-32_windows_hotspot_12_33.msi",
+          "downloadCount" : 373,
+          "updatedAt" : "2019-03-22T14:51:31Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_12_33.msi.sha256.txt",
+          "size" : 114,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x86-32_windows_hotspot_12_33.msi.sha256.txt",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-03-22T14:51:32Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_12_33.zip",
+          "size" : 38933216,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x86-32_windows_hotspot_12_33.zip",
+          "downloadCount" : 241,
+          "updatedAt" : "2019-03-22T14:51:35Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_12_33.zip.sha256.txt",
+          "size" : 114,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_x86-32_windows_hotspot_12_33.zip.sha256.txt",
+          "downloadCount" : 39,
+          "updatedAt" : "2019-03-22T14:51:36Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_hotspot_12_33.tar.gz",
+          "size" : 185237047,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_s390x_linux_hotspot_12_33.tar.gz",
+          "downloadCount" : 368,
+          "updatedAt" : "2019-03-22T18:59:26Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "size" : 114,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_s390x_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "downloadCount" : 368,
+          "updatedAt" : "2019-03-22T18:59:27Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_hotspot_12_33.tar.gz",
+          "size" : 43130629,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_s390x_linux_hotspot_12_33.tar.gz",
+          "downloadCount" : 37,
+          "updatedAt" : "2019-03-22T18:59:30Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "size" : 114,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_s390x_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "downloadCount" : 364,
+          "updatedAt" : "2019-03-22T18:59:31Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_arm_linux_hotspot_12_33.tar.gz",
+          "size" : 184437396,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_arm_linux_hotspot_12_33.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-03-25T10:24:37Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_arm_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "size" : 112,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_arm_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-03-25T10:24:38Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_hotspot_12_33.tar.gz",
+          "size" : 189130208,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_ppc64_aix_hotspot_12_33.tar.gz",
+          "downloadCount" : 13,
+          "updatedAt" : "2019-03-25T10:24:48Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_hotspot_12_33.tar.gz.sha256.txt",
+          "size" : 112,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_ppc64_aix_hotspot_12_33.tar.gz.sha256.txt",
+          "downloadCount" : 9,
+          "updatedAt" : "2019-03-25T10:24:48Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_hotspot_12_33.tar.gz",
+          "size" : 42883929,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_ppc64_aix_hotspot_12_33.tar.gz",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-03-25T10:24:51Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_hotspot_12_33.tar.gz.sha256.txt",
+          "size" : 112,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_ppc64_aix_hotspot_12_33.tar.gz.sha256.txt",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-03-25T10:24:52Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_aarch64_linux_hotspot_12_33.tar.gz",
+          "size" : 205237044,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_aarch64_linux_hotspot_12_33.tar.gz",
+          "downloadCount" : 100,
+          "updatedAt" : "2019-03-25T10:27:31Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_aarch64_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "size" : 116,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jdk_aarch64_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "downloadCount" : 342,
+          "updatedAt" : "2019-03-25T10:27:32Z"
+        }, {
+          "name" : "OpenJDK12U-jre_aarch64_linux_hotspot_12_33.tar.gz",
+          "size" : 46147661,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_aarch64_linux_hotspot_12_33.tar.gz",
+          "downloadCount" : 43,
+          "updatedAt" : "2019-03-25T10:27:35Z"
+        }, {
+          "name" : "OpenJDK12U-jre_aarch64_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "size" : 116,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk-12%2B33/OpenJDK12U-jre_aarch64_linux_hotspot_12_33.tar.gz.sha256.txt",
+          "downloadCount" : 334,
+          "updatedAt" : "2019-03-25T10:27:36Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : "Y3Vyc29yOnYyOpHOALK1rg=="
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk12-binaries/releases/tag/jdk-12%2B33",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/tag/jdk-12%2B33"
+    }, {
+      "id" : "MDc6UmVsZWFzZTE4NTc3Mzc3",
+      "name" : "jdk12u-2019-07-12-12-16",
+      "prerelease" : null,
+      "publishedAt" : "2019-07-12T12:18:34Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK12U-jdk_aarch64_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "size" : 205119196,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_aarch64_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-12T12:18:51Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_aarch64_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "size" : 579,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_aarch64_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:18:52Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_aarch64_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_aarch64_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-12T12:18:52Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_hotspot_2019-07-12-12-16.tar.gz",
+          "size" : 189145802,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_ppc64_aix_hotspot_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:19:06Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_hotspot_2019-07-12-12-16.tar.gz.json",
+          "size" : 511,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_ppc64_aix_hotspot_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:19:06Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_ppc64_aix_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:19:06Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_openj9_2019-07-12-12-16.tar.gz",
+          "size" : 220627101,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_ppc64_aix_openj9_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:19:21Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_openj9_2019-07-12-12-16.tar.gz.json",
+          "size" : 507,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_ppc64_aix_openj9_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:19:22Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_ppc64_aix_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:19:22Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "size" : 190617703,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_ppc64le_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:19:36Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "size" : 579,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_ppc64le_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:19:36Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_ppc64le_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-12T12:19:37Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_openj9_2019-07-12-12-16.tar.gz",
+          "size" : 202396244,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_ppc64le_linux_openj9_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:19:50Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_openj9_2019-07-12-12-16.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_ppc64le_linux_openj9_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:19:51Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_ppc64le_linux_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 7,
+          "updatedAt" : "2019-07-12T12:19:51Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "size" : 185218464,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_s390x_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-12T12:20:04Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_s390x_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:20:04Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_s390x_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-12T12:20:05Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_openj9_2019-07-12-12-16.tar.gz",
+          "size" : 202242180,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_s390x_linux_openj9_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-12T12:20:20Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_openj9_2019-07-12-12-16.tar.gz.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_s390x_linux_openj9_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:20:20Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_s390x_linux_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 7,
+          "updatedAt" : "2019-07-12T12:20:20Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "size" : 207110869,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-12T12:20:45Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:20:46Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-12T12:20:46Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_openj9_2019-07-12-12-16.tar.gz",
+          "size" : 200386314,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_linux_openj9_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-12T12:21:03Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_openj9_2019-07-12-12-16.tar.gz.json",
+          "size" : 571,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_linux_openj9_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:21:04Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_linux_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 7,
+          "updatedAt" : "2019-07-12T12:21:04Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_openj9_linuxXL_2019-07-12-12-16.tar.gz",
+          "size" : 200358284,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_linux_openj9_linuxXL_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-12T12:21:19Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_openj9_linuxXL_2019-07-12-12-16.tar.gz.json",
+          "size" : 571,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_linux_openj9_linuxXL_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:21:19Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_openj9_linuxXL_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 130,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_linux_openj9_linuxXL_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:21:20Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_2019-07-12-12-16.pkg",
+          "size" : 198535126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_hotspot_2019-07-12-12-16.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:21:34Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_2019-07-12-12-16.pkg.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_hotspot_2019-07-12-12-16.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:21:35Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_2019-07-12-12-16.pkg.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_hotspot_2019-07-12-12-16.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:21:35Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_2019-07-12-12-16.tar.gz",
+          "size" : 198103145,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_hotspot_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-12T12:21:49Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_2019-07-12-12-16.tar.gz.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_hotspot_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:21:49Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:21:50Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_2019-07-12-12-16.pkg",
+          "size" : 198072282,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_openj9_2019-07-12-12-16.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:22:03Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_2019-07-12-12-16.pkg.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_openj9_2019-07-12-12-16.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:22:04Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_2019-07-12-12-16.pkg.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_openj9_2019-07-12-12-16.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:22:04Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_2019-07-12-12-16.tar.gz",
+          "size" : 197701470,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_openj9_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-12T12:22:19Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_2019-07-12-12-16.tar.gz.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_openj9_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:22:19Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-12T12:22:20Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-12-12-16.pkg",
+          "size" : 198064089,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-12-12-16.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:22:35Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-12-12-16.pkg.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-12-12-16.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:22:35Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-12-12-16.pkg.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-12-12-16.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:22:35Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-12-12-16.tar.gz",
+          "size" : 197704467,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:22:49Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-12-12-16.tar.gz.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:22:50Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:22:50Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_2019-07-12-12-16.msi",
+          "size" : 185188352,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_windows_hotspot_2019-07-12-12-16.msi",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-12T12:23:04Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_2019-07-12-12-16.msi.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_windows_hotspot_2019-07-12-12-16.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:23:05Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_2019-07-12-12-16.msi.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_windows_hotspot_2019-07-12-12-16.msi.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-12T12:23:05Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_2019-07-12-12-16.zip",
+          "size" : 209725351,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_windows_hotspot_2019-07-12-12-16.zip",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-12T12:23:20Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_2019-07-12-12-16.zip.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_windows_hotspot_2019-07-12-12-16.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:23:20Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_2019-07-12-12-16.zip.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_windows_hotspot_2019-07-12-12-16.zip.sha256.txt",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-12T12:23:21Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_openj9_2019-07-12-12-16.zip",
+          "size" : 203636864,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_windows_openj9_2019-07-12-12-16.zip",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-12T12:23:35Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_openj9_2019-07-12-12-16.zip.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_windows_openj9_2019-07-12-12-16.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:23:36Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_openj9_2019-07-12-12-16.zip.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_windows_openj9_2019-07-12-12-16.zip.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-12T12:23:36Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_openj9_windowsXL_2019-07-12-12-16.zip",
+          "size" : 203597564,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_windows_openj9_windowsXL_2019-07-12-12-16.zip",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:23:50Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_openj9_windowsXL_2019-07-12-12-16.zip.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_windows_openj9_windowsXL_2019-07-12-12-16.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:23:51Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_openj9_windowsXL_2019-07-12-12-16.zip.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x64_windows_openj9_windowsXL_2019-07-12-12-16.zip.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:23:51Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-12-12-16.msi",
+          "size" : 167124992,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-12-12-16.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:03Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-12-12-16.msi.json",
+          "size" : 580,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-12-12-16.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:04Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-12-12-16.msi.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-12-12-16.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:04Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-12-12-16.zip",
+          "size" : 188733051,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-12-12-16.zip",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-12T12:24:17Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-12-12-16.zip.json",
+          "size" : 580,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-12-12-16.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:18Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-12-12-16.zip.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-12-12-16.zip.sha256.txt",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-12T12:24:18Z"
+        }, {
+          "name" : "OpenJDK12U-jre_aarch64_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "size" : 46106416,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_aarch64_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:22Z"
+        }, {
+          "name" : "OpenJDK12U-jre_aarch64_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "size" : 579,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_aarch64_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:23Z"
+        }, {
+          "name" : "OpenJDK12U-jre_aarch64_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_aarch64_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-12T12:24:23Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_hotspot_2019-07-12-12-16.tar.gz",
+          "size" : 42876229,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_ppc64_aix_hotspot_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:27Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_hotspot_2019-07-12-12-16.tar.gz.json",
+          "size" : 511,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_ppc64_aix_hotspot_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:27Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_ppc64_aix_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:28Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_openj9_2019-07-12-12-16.tar.gz",
+          "size" : 50696170,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_ppc64_aix_openj9_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:32Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_openj9_2019-07-12-12-16.tar.gz.json",
+          "size" : 507,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_ppc64_aix_openj9_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:32Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_ppc64_aix_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:32Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "size" : 43385864,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_ppc64le_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:36Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "size" : 579,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_ppc64le_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:36Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_ppc64le_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-12T12:24:37Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_openj9_2019-07-12-12-16.tar.gz",
+          "size" : 42025003,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_ppc64le_linux_openj9_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:42Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_openj9_2019-07-12-12-16.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_ppc64le_linux_openj9_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:43Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_ppc64le_linux_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 7,
+          "updatedAt" : "2019-07-12T12:24:43Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "size" : 43134717,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_s390x_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-12T12:24:47Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_s390x_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:48Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_s390x_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-12T12:24:48Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_openj9_2019-07-12-12-16.tar.gz",
+          "size" : 41939825,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_s390x_linux_openj9_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-12T12:24:51Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_openj9_2019-07-12-12-16.tar.gz.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_s390x_linux_openj9_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:52Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_s390x_linux_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 7,
+          "updatedAt" : "2019-07-12T12:24:52Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "size" : 47099585,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_linux_hotspot_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-12T12:24:56Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_linux_hotspot_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:24:56Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_linux_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-12T12:24:57Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_openj9_2019-07-12-12-16.tar.gz",
+          "size" : 41037885,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_linux_openj9_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-12T12:25:03Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_openj9_2019-07-12-12-16.tar.gz.json",
+          "size" : 571,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_linux_openj9_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:04Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_linux_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 7,
+          "updatedAt" : "2019-07-12T12:25:04Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_openj9_linuxXL_2019-07-12-12-16.tar.gz",
+          "size" : 41025532,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_linux_openj9_linuxXL_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:12Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_openj9_linuxXL_2019-07-12-12-16.tar.gz.json",
+          "size" : 571,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_linux_openj9_linuxXL_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:13Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_openj9_linuxXL_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 130,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_linux_openj9_linuxXL_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:13Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_2019-07-12-12-16.pkg",
+          "size" : 42833870,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_hotspot_2019-07-12-12-16.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:17Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_2019-07-12-12-16.pkg.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_hotspot_2019-07-12-12-16.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:18Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_2019-07-12-12-16.pkg.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_hotspot_2019-07-12-12-16.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:18Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_2019-07-12-12-16.tar.gz",
+          "size" : 42530428,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_hotspot_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:22Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_2019-07-12-12-16.tar.gz.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_hotspot_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:22Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_hotspot_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:23Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_2019-07-12-12-16.pkg",
+          "size" : 40056786,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_openj9_2019-07-12-12-16.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:26Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_2019-07-12-12-16.pkg.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_openj9_2019-07-12-12-16.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:26Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_2019-07-12-12-16.pkg.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_openj9_2019-07-12-12-16.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:27Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_2019-07-12-12-16.tar.gz",
+          "size" : 39815242,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_openj9_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:30Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_2019-07-12-12-16.tar.gz.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_openj9_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:31Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_openj9_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:31Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-12-12-16.pkg",
+          "size" : 40044492,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-12-12-16.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:35Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-12-12-16.pkg.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-12-12-16.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:35Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-12-12-16.pkg.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-12-12-16.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:36Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-12-12-16.tar.gz",
+          "size" : 39809383,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-12-12-16.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:39Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-12-12-16.tar.gz.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-12-12-16.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:40Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-12-12-16.tar.gz.sha256.txt",
+          "size" : 128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-12-12-16.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:40Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_2019-07-12-12-16.msi",
+          "size" : 34316288,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_windows_hotspot_2019-07-12-12-16.msi",
+          "downloadCount" : 5,
+          "updatedAt" : "2019-07-12T12:25:43Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_2019-07-12-12-16.msi.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_windows_hotspot_2019-07-12-12-16.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:44Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_2019-07-12-12-16.msi.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_windows_hotspot_2019-07-12-12-16.msi.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-12T12:25:44Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_2019-07-12-12-16.zip",
+          "size" : 46570197,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_windows_hotspot_2019-07-12-12-16.zip",
+          "downloadCount" : 12,
+          "updatedAt" : "2019-07-12T12:25:48Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_2019-07-12-12-16.zip.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_windows_hotspot_2019-07-12-12-16.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:48Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_2019-07-12-12-16.zip.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_windows_hotspot_2019-07-12-12-16.zip.sha256.txt",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-12T12:25:48Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_openj9_2019-07-12-12-16.zip",
+          "size" : 41119361,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_windows_openj9_2019-07-12-12-16.zip",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-12T12:25:52Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_openj9_2019-07-12-12-16.zip.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_windows_openj9_2019-07-12-12-16.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:52Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_openj9_2019-07-12-12-16.zip.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_windows_openj9_2019-07-12-12-16.zip.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-12T12:25:53Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_openj9_windowsXL_2019-07-12-12-16.zip",
+          "size" : 41101202,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_windows_openj9_windowsXL_2019-07-12-12-16.zip",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-12T12:25:56Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_openj9_windowsXL_2019-07-12-12-16.zip.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_windows_openj9_windowsXL_2019-07-12-12-16.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:56Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_openj9_windowsXL_2019-07-12-12-16.zip.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x64_windows_openj9_windowsXL_2019-07-12-12-16.zip.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:25:57Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-12-12-16.msi",
+          "size" : 30269440,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-12-12-16.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:26:00Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-12-12-16.msi.json",
+          "size" : 580,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-12-12-16.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:26:00Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-12-12-16.msi.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-12-12-16.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:26:00Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-12-12-16.zip",
+          "size" : 41005237,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-12-12-16.zip",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-12T12:26:04Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-12-12-16.zip.json",
+          "size" : 580,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-12-12-16.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-12T12:26:04Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-12-12-16.zip.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-12-12-16/OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-12-12-16.zip.sha256.txt",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-12T12:26:04Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : null
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk12-binaries/releases/tag/jdk12u-2019-07-12-12-16",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/tag/jdk12u-2019-07-12-12-16"
+    }, {
+      "id" : "MDc6UmVsZWFzZTE4NjYzMTg4",
+      "name" : "jdk12u-2019-07-17-05-46",
+      "prerelease" : null,
+      "publishedAt" : "2019-07-17T05:48:28Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK12U-jdk_aarch64_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "size" : 205123881,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_aarch64_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-07-17T05:48:49Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_aarch64_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "size" : 579,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_aarch64_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:48:50Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_aarch64_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_aarch64_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 27,
+          "updatedAt" : "2019-07-17T05:48:50Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_hotspot_2019-07-17-05-46.tar.gz",
+          "size" : 189117510,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_ppc64_aix_hotspot_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:49:07Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_hotspot_2019-07-17-05-46.tar.gz.json",
+          "size" : 511,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_ppc64_aix_hotspot_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:49:07Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_ppc64_aix_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:49:08Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_openj9_2019-07-17-05-46.tar.gz",
+          "size" : 220710384,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_ppc64_aix_openj9_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:49:26Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_openj9_2019-07-17-05-46.tar.gz.json",
+          "size" : 507,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_ppc64_aix_openj9_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:49:27Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64_aix_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_ppc64_aix_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:49:27Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "size" : 190624125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_ppc64le_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-17T05:49:43Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "size" : 579,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_ppc64le_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:49:44Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_ppc64le_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 27,
+          "updatedAt" : "2019-07-17T05:49:44Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_openj9_2019-07-17-05-46.tar.gz",
+          "size" : 202372135,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_ppc64le_linux_openj9_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-17T05:50:12Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_openj9_2019-07-17-05-46.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_ppc64le_linux_openj9_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:50:13Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_ppc64le_linux_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_ppc64le_linux_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 21,
+          "updatedAt" : "2019-07-17T05:50:13Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "size" : 185226480,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_s390x_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-17T05:50:31Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_s390x_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:50:32Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_s390x_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 27,
+          "updatedAt" : "2019-07-17T05:50:32Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_openj9_2019-07-17-05-46.tar.gz",
+          "size" : 202241134,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_s390x_linux_openj9_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 5,
+          "updatedAt" : "2019-07-17T05:50:50Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_openj9_2019-07-17-05-46.tar.gz.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_s390x_linux_openj9_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:50:50Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_s390x_linux_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_s390x_linux_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 21,
+          "updatedAt" : "2019-07-17T05:50:50Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "size" : 207108852,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 14,
+          "updatedAt" : "2019-07-17T05:51:11Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:51:11Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 27,
+          "updatedAt" : "2019-07-17T05:51:12Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_openj9_2019-07-17-05-46.tar.gz",
+          "size" : 200385642,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_linux_openj9_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 11,
+          "updatedAt" : "2019-07-17T05:51:29Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_openj9_2019-07-17-05-46.tar.gz.json",
+          "size" : 571,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_linux_openj9_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:51:30Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_linux_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 21,
+          "updatedAt" : "2019-07-17T05:51:30Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_openj9_linuxXL_2019-07-17-05-46.tar.gz",
+          "size" : 200362848,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_linux_openj9_linuxXL_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-17T05:51:47Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_openj9_linuxXL_2019-07-17-05-46.tar.gz.json",
+          "size" : 571,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_linux_openj9_linuxXL_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:51:48Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_linux_openj9_linuxXL_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 130,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_linux_openj9_linuxXL_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:51:48Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_2019-07-17-05-46.pkg",
+          "size" : 198535128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_hotspot_2019-07-17-05-46.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:52:05Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_2019-07-17-05-46.pkg.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_hotspot_2019-07-17-05-46.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:52:06Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_2019-07-17-05-46.pkg.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_hotspot_2019-07-17-05-46.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:52:06Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_2019-07-17-05-46.tar.gz",
+          "size" : 198106651,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_hotspot_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:52:23Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_2019-07-17-05-46.tar.gz.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_hotspot_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:52:24Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:52:24Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_2019-07-17-05-46.pkg",
+          "size" : 198059987,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_openj9_2019-07-17-05-46.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:52:46Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_2019-07-17-05-46.pkg.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_openj9_2019-07-17-05-46.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:52:46Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_2019-07-17-05-46.pkg.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_openj9_2019-07-17-05-46.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:52:47Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_2019-07-17-05-46.tar.gz",
+          "size" : 197698556,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_openj9_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:53:04Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_2019-07-17-05-46.tar.gz.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_openj9_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:53:05Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:53:05Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-46.pkg",
+          "size" : 198055895,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-46.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:53:23Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-46.pkg.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-46.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:53:24Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-46.pkg.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-46.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:53:24Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-46.tar.gz",
+          "size" : 197698004,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:53:41Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-46.tar.gz.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:53:42Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:53:42Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_2019-07-17-05-46.msi",
+          "size" : 185167872,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_windows_hotspot_2019-07-17-05-46.msi",
+          "downloadCount" : 5,
+          "updatedAt" : "2019-07-17T05:53:58Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_2019-07-17-05-46.msi.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_windows_hotspot_2019-07-17-05-46.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:53:59Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_2019-07-17-05-46.msi.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_windows_hotspot_2019-07-17-05-46.msi.sha256.txt",
+          "downloadCount" : 27,
+          "updatedAt" : "2019-07-17T05:53:59Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_2019-07-17-05-46.zip",
+          "size" : 209719990,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_windows_hotspot_2019-07-17-05-46.zip",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-17T05:54:18Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_2019-07-17-05-46.zip.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_windows_hotspot_2019-07-17-05-46.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:54:18Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_hotspot_2019-07-17-05-46.zip.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_windows_hotspot_2019-07-17-05-46.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-17T05:54:19Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_openj9_2019-07-17-05-46.zip",
+          "size" : 203614522,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_windows_openj9_2019-07-17-05-46.zip",
+          "downloadCount" : 11,
+          "updatedAt" : "2019-07-17T05:54:39Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_openj9_2019-07-17-05-46.zip.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_windows_openj9_2019-07-17-05-46.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:54:40Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_openj9_2019-07-17-05-46.zip.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_windows_openj9_2019-07-17-05-46.zip.sha256.txt",
+          "downloadCount" : 22,
+          "updatedAt" : "2019-07-17T05:54:40Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_openj9_windowsXL_2019-07-17-05-46.zip",
+          "size" : 203599542,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_windows_openj9_windowsXL_2019-07-17-05-46.zip",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-17T05:54:58Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_openj9_windowsXL_2019-07-17-05-46.zip.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_windows_openj9_windowsXL_2019-07-17-05-46.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:54:58Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x64_windows_openj9_windowsXL_2019-07-17-05-46.zip.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x64_windows_openj9_windowsXL_2019-07-17-05-46.zip.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:54:59Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-17-05-46.msi",
+          "size" : 167108608,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-17-05-46.msi",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-17T05:55:14Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-17-05-46.msi.json",
+          "size" : 580,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-17-05-46.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:55:15Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-17-05-46.msi.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-17-05-46.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:55:15Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-17-05-46.zip",
+          "size" : 188732455,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-17-05-46.zip",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-17T05:55:32Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-17-05-46.zip.json",
+          "size" : 580,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-17-05-46.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:55:32Z"
+        }, {
+          "name" : "OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-17-05-46.zip.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jdk_x86-32_windows_hotspot_2019-07-17-05-46.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-17T05:55:33Z"
+        }, {
+          "name" : "OpenJDK12U-jre_aarch64_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "size" : 46103926,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_aarch64_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-17T05:55:39Z"
+        }, {
+          "name" : "OpenJDK12U-jre_aarch64_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "size" : 579,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_aarch64_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:55:40Z"
+        }, {
+          "name" : "OpenJDK12U-jre_aarch64_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_aarch64_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 25,
+          "updatedAt" : "2019-07-17T05:55:40Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_hotspot_2019-07-17-05-46.tar.gz",
+          "size" : 42876302,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_ppc64_aix_hotspot_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:55:45Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_hotspot_2019-07-17-05-46.tar.gz.json",
+          "size" : 511,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_ppc64_aix_hotspot_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:55:46Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_ppc64_aix_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:55:46Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_openj9_2019-07-17-05-46.tar.gz",
+          "size" : 50690854,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_ppc64_aix_openj9_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:55:52Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_openj9_2019-07-17-05-46.tar.gz.json",
+          "size" : 507,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_ppc64_aix_openj9_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:55:52Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64_aix_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_ppc64_aix_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:55:53Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "size" : 43385721,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_ppc64le_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-17T05:56:00Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "size" : 579,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_ppc64le_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:00Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_ppc64le_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 25,
+          "updatedAt" : "2019-07-17T05:56:01Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_openj9_2019-07-17-05-46.tar.gz",
+          "size" : 41927842,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_ppc64le_linux_openj9_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-17T05:56:06Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_openj9_2019-07-17-05-46.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_ppc64le_linux_openj9_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:06Z"
+        }, {
+          "name" : "OpenJDK12U-jre_ppc64le_linux_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_ppc64le_linux_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 21,
+          "updatedAt" : "2019-07-17T05:56:07Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "size" : 43135243,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_s390x_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-17T05:56:16Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_s390x_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:16Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_s390x_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 25,
+          "updatedAt" : "2019-07-17T05:56:17Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_openj9_2019-07-17-05-46.tar.gz",
+          "size" : 41941112,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_s390x_linux_openj9_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-17T05:56:22Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_openj9_2019-07-17-05-46.tar.gz.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_s390x_linux_openj9_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:22Z"
+        }, {
+          "name" : "OpenJDK12U-jre_s390x_linux_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_s390x_linux_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 21,
+          "updatedAt" : "2019-07-17T05:56:23Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "size" : 47098689,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_linux_hotspot_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-17T05:56:27Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_linux_hotspot_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:28Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_linux_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 25,
+          "updatedAt" : "2019-07-17T05:56:28Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_openj9_2019-07-17-05-46.tar.gz",
+          "size" : 41046906,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_linux_openj9_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-17T05:56:33Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_openj9_2019-07-17-05-46.tar.gz.json",
+          "size" : 571,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_linux_openj9_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:33Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_linux_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 21,
+          "updatedAt" : "2019-07-17T05:56:33Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_openj9_linuxXL_2019-07-17-05-46.tar.gz",
+          "size" : 41027109,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_linux_openj9_linuxXL_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:38Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_openj9_linuxXL_2019-07-17-05-46.tar.gz.json",
+          "size" : 571,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_linux_openj9_linuxXL_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:38Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_linux_openj9_linuxXL_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 130,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_linux_openj9_linuxXL_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:38Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_2019-07-17-05-46.pkg",
+          "size" : 42833871,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_hotspot_2019-07-17-05-46.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:43Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_2019-07-17-05-46.pkg.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_hotspot_2019-07-17-05-46.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:43Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_2019-07-17-05-46.pkg.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_hotspot_2019-07-17-05-46.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:44Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_2019-07-17-05-46.tar.gz",
+          "size" : 42533745,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_hotspot_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:48Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_2019-07-17-05-46.tar.gz.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_hotspot_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:48Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_hotspot_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:49Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_2019-07-17-05-46.pkg",
+          "size" : 40056779,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_openj9_2019-07-17-05-46.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:58Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_2019-07-17-05-46.pkg.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_openj9_2019-07-17-05-46.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:58Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_2019-07-17-05-46.pkg.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_openj9_2019-07-17-05-46.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:56:58Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_2019-07-17-05-46.tar.gz",
+          "size" : 39817081,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_openj9_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:04Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_2019-07-17-05-46.tar.gz.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_openj9_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:05Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_openj9_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:05Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-17-05-46.pkg",
+          "size" : 40052684,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-17-05-46.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:10Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-17-05-46.pkg.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-17-05-46.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:11Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-17-05-46.pkg.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-17-05-46.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:11Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-17-05-46.tar.gz",
+          "size" : 39814351,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-17-05-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:16Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-17-05-46.tar.gz.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-17-05-46.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:16Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-17-05-46.tar.gz.sha256.txt",
+          "size" : 128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_mac_openj9_macosXL_2019-07-17-05-46.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:17Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_2019-07-17-05-46.msi",
+          "size" : 34332672,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_windows_hotspot_2019-07-17-05-46.msi",
+          "downloadCount" : 6,
+          "updatedAt" : "2019-07-17T05:57:26Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_2019-07-17-05-46.msi.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_windows_hotspot_2019-07-17-05-46.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:26Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_2019-07-17-05-46.msi.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_windows_hotspot_2019-07-17-05-46.msi.sha256.txt",
+          "downloadCount" : 25,
+          "updatedAt" : "2019-07-17T05:57:27Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_2019-07-17-05-46.zip",
+          "size" : 46568529,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_windows_hotspot_2019-07-17-05-46.zip",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-17T05:57:33Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_2019-07-17-05-46.zip.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_windows_hotspot_2019-07-17-05-46.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:34Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_hotspot_2019-07-17-05-46.zip.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_windows_hotspot_2019-07-17-05-46.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-17T05:57:34Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_openj9_2019-07-17-05-46.zip",
+          "size" : 41114401,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_windows_openj9_2019-07-17-05-46.zip",
+          "downloadCount" : 9,
+          "updatedAt" : "2019-07-17T05:57:39Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_openj9_2019-07-17-05-46.zip.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_windows_openj9_2019-07-17-05-46.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:40Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_openj9_2019-07-17-05-46.zip.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_windows_openj9_2019-07-17-05-46.zip.sha256.txt",
+          "downloadCount" : 22,
+          "updatedAt" : "2019-07-17T05:57:40Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_openj9_windowsXL_2019-07-17-05-46.zip",
+          "size" : 41102164,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_windows_openj9_windowsXL_2019-07-17-05-46.zip",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:47Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_openj9_windowsXL_2019-07-17-05-46.zip.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_windows_openj9_windowsXL_2019-07-17-05-46.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:47Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x64_windows_openj9_windowsXL_2019-07-17-05-46.zip.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x64_windows_openj9_windowsXL_2019-07-17-05-46.zip.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:48Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-17-05-46.msi",
+          "size" : 30257152,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-17-05-46.msi",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-17T05:57:52Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-17-05-46.msi.json",
+          "size" : 580,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-17-05-46.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:53Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-17-05-46.msi.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-17-05-46.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:53Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-17-05-46.zip",
+          "size" : 41001111,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-17-05-46.zip",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-17T05:57:58Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-17-05-46.zip.json",
+          "size" : 580,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-17-05-46.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:57:58Z"
+        }, {
+          "name" : "OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-17-05-46.zip.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/download/jdk12u-2019-07-17-05-46/OpenJDK12U-jre_x86-32_windows_hotspot_2019-07-17-05-46.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-17T05:57:59Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : null
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk12-binaries/releases/tag/jdk12u-2019-07-17-05-46",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk12-binaries/releases/tag/jdk12u-2019-07-17-05-46"
+    } ],
+    "pageInfo" : {
+      "hasNextPage" : false,
+      "endCursor" : null
+    }
+  }
+}

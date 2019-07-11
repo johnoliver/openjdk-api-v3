@@ -31,7 +31,7 @@ table {
     display: block;
     width: 100%;
     overflow: auto;
-    margin: 35px 0px;
+    margin: 35px 0;
 }
 
 table th {

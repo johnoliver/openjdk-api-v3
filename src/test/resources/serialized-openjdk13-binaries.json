@@ -1,0 +1,541 @@
+{
+  "releases" : {
+    "nodes" : [ {
+      "id" : "MDc6UmVsZWFzZTE4NjE1NTg1",
+      "name" : "jdk13u-2019-07-15-12-41",
+      "prerelease" : null,
+      "publishedAt" : "2019-07-15T12:42:22Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK13U-jdk_aarch64_linux_hotspot_2019-07-15-12-41.tar.gz",
+          "size" : 205862699,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_aarch64_linux_hotspot_2019-07-15-12-41.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:42:41Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_aarch64_linux_hotspot_2019-07-15-12-41.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_aarch64_linux_hotspot_2019-07-15-12-41.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:42:42Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_aarch64_linux_hotspot_2019-07-15-12-41.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_aarch64_linux_hotspot_2019-07-15-12-41.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:42:42Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_ppc64le_linux_hotspot_2019-07-15-12-41.tar.gz",
+          "size" : 190186347,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_ppc64le_linux_hotspot_2019-07-15-12-41.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:42:59Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_ppc64le_linux_hotspot_2019-07-15-12-41.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_ppc64le_linux_hotspot_2019-07-15-12-41.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:43:00Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_ppc64le_linux_hotspot_2019-07-15-12-41.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_ppc64le_linux_hotspot_2019-07-15-12-41.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:43:00Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_ppc64le_linux_openj9_2019-07-15-12-41.tar.gz",
+          "size" : 204327587,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_ppc64le_linux_openj9_2019-07-15-12-41.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-15T12:43:18Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_ppc64le_linux_openj9_2019-07-15-12-41.tar.gz.json",
+          "size" : 574,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_ppc64le_linux_openj9_2019-07-15-12-41.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:43:19Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_ppc64le_linux_openj9_2019-07-15-12-41.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_ppc64le_linux_openj9_2019-07-15-12-41.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:43:19Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_s390x_linux_hotspot_2019-07-15-12-41.tar.gz",
+          "size" : 184626014,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_s390x_linux_hotspot_2019-07-15-12-41.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:43:36Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_s390x_linux_hotspot_2019-07-15-12-41.tar.gz.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_s390x_linux_hotspot_2019-07-15-12-41.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:43:36Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_s390x_linux_hotspot_2019-07-15-12-41.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_s390x_linux_hotspot_2019-07-15-12-41.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:43:37Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_s390x_linux_openj9_2019-07-15-12-41.tar.gz",
+          "size" : 204103007,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_s390x_linux_openj9_2019-07-15-12-41.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-15T12:43:56Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_s390x_linux_openj9_2019-07-15-12-41.tar.gz.json",
+          "size" : 572,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_s390x_linux_openj9_2019-07-15-12-41.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:43:57Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_s390x_linux_openj9_2019-07-15-12-41.tar.gz.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_s390x_linux_openj9_2019-07-15-12-41.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:43:57Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_hotspot_2019-07-15-12-41.tar.gz",
+          "size" : 207479334,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_linux_hotspot_2019-07-15-12-41.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:44:17Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_hotspot_2019-07-15-12-41.tar.gz.json",
+          "size" : 571,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_linux_hotspot_2019-07-15-12-41.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:44:17Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_hotspot_2019-07-15-12-41.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_linux_hotspot_2019-07-15-12-41.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:44:18Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_openj9_2019-07-15-12-41.tar.gz",
+          "size" : 202224179,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_linux_openj9_2019-07-15-12-41.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-15T12:44:36Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_openj9_2019-07-15-12-41.tar.gz.json",
+          "size" : 570,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_linux_openj9_2019-07-15-12-41.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:44:37Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_openj9_2019-07-15-12-41.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_linux_openj9_2019-07-15-12-41.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:44:37Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_openj9_linuxXL_2019-07-15-12-41.tar.gz",
+          "size" : 202204429,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_linux_openj9_linuxXL_2019-07-15-12-41.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:44:54Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_openj9_linuxXL_2019-07-15-12-41.tar.gz.json",
+          "size" : 570,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_linux_openj9_linuxXL_2019-07-15-12-41.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:44:55Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_openj9_linuxXL_2019-07-15-12-41.tar.gz.sha256.txt",
+          "size" : 130,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_linux_openj9_linuxXL_2019-07-15-12-41.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:44:56Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_hotspot_2019-07-15-12-41.pkg",
+          "size" : 198481875,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_hotspot_2019-07-15-12-41.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:45:12Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_hotspot_2019-07-15-12-41.pkg.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_hotspot_2019-07-15-12-41.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:45:13Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_hotspot_2019-07-15-12-41.pkg.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_hotspot_2019-07-15-12-41.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:45:14Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_hotspot_2019-07-15-12-41.tar.gz",
+          "size" : 198065194,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_hotspot_2019-07-15-12-41.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:45:31Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_hotspot_2019-07-15-12-41.tar.gz.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_hotspot_2019-07-15-12-41.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:45:32Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_hotspot_2019-07-15-12-41.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_hotspot_2019-07-15-12-41.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:45:32Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_2019-07-15-12-41.pkg",
+          "size" : 199563220,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_openj9_2019-07-15-12-41.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:45:49Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_2019-07-15-12-41.pkg.json",
+          "size" : 568,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_openj9_2019-07-15-12-41.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:45:50Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_2019-07-15-12-41.pkg.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_openj9_2019-07-15-12-41.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:45:50Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_2019-07-15-12-41.tar.gz",
+          "size" : 199204893,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_openj9_2019-07-15-12-41.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-15T12:46:09Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_2019-07-15-12-41.tar.gz.json",
+          "size" : 568,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_openj9_2019-07-15-12-41.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:46:10Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_2019-07-15-12-41.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_openj9_2019-07-15-12-41.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:46:10Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-15-12-41.pkg",
+          "size" : 199571410,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-15-12-41.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:46:29Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-15-12-41.pkg.json",
+          "size" : 568,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-15-12-41.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:46:30Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-15-12-41.pkg.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-15-12-41.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:46:30Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-15-12-41.tar.gz",
+          "size" : 199214372,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-15-12-41.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-15T12:46:49Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-15-12-41.tar.gz.json",
+          "size" : 568,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-15-12-41.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:46:49Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-15-12-41.tar.gz.sha256.txt",
+          "size" : 128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-15-12-41/OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-15-12-41.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-15T12:46:50Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : "Y3Vyc29yOnYyOpHOANFPFQ=="
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk13-binaries/releases/tag/jdk13u-2019-07-15-12-41",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/tag/jdk13u-2019-07-15-12-41"
+    }, {
+      "id" : "MDc6UmVsZWFzZTE4NjYzMDU1",
+      "name" : "jdk13u-2019-07-17-05-32",
+      "prerelease" : null,
+      "publishedAt" : "2019-07-17T05:34:11Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK13U-jdk_aarch64_linux_hotspot_2019-07-17-05-32.tar.gz",
+          "size" : 205864479,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_aarch64_linux_hotspot_2019-07-17-05-32.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:34:27Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_aarch64_linux_hotspot_2019-07-17-05-32.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_aarch64_linux_hotspot_2019-07-17-05-32.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:34:27Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_aarch64_linux_hotspot_2019-07-17-05-32.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_aarch64_linux_hotspot_2019-07-17-05-32.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:34:28Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_ppc64le_linux_hotspot_2019-07-17-05-32.tar.gz",
+          "size" : 190203870,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_ppc64le_linux_hotspot_2019-07-17-05-32.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:34:41Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_ppc64le_linux_hotspot_2019-07-17-05-32.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_ppc64le_linux_hotspot_2019-07-17-05-32.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:34:41Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_ppc64le_linux_hotspot_2019-07-17-05-32.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_ppc64le_linux_hotspot_2019-07-17-05-32.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:34:42Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_ppc64le_linux_openj9_2019-07-17-05-32.tar.gz",
+          "size" : 204314981,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_ppc64le_linux_openj9_2019-07-17-05-32.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:34:56Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_ppc64le_linux_openj9_2019-07-17-05-32.tar.gz.json",
+          "size" : 574,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_ppc64le_linux_openj9_2019-07-17-05-32.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:34:57Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_ppc64le_linux_openj9_2019-07-17-05-32.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_ppc64le_linux_openj9_2019-07-17-05-32.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:34:57Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_s390x_linux_hotspot_2019-07-17-05-32.tar.gz",
+          "size" : 184634865,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_s390x_linux_hotspot_2019-07-17-05-32.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:35:10Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_s390x_linux_hotspot_2019-07-17-05-32.tar.gz.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_s390x_linux_hotspot_2019-07-17-05-32.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:35:11Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_s390x_linux_hotspot_2019-07-17-05-32.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_s390x_linux_hotspot_2019-07-17-05-32.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:35:11Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_s390x_linux_openj9_2019-07-17-05-32.tar.gz",
+          "size" : 204101252,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_s390x_linux_openj9_2019-07-17-05-32.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:35:25Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_s390x_linux_openj9_2019-07-17-05-32.tar.gz.json",
+          "size" : 572,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_s390x_linux_openj9_2019-07-17-05-32.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:35:26Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_s390x_linux_openj9_2019-07-17-05-32.tar.gz.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_s390x_linux_openj9_2019-07-17-05-32.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:35:26Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_hotspot_2019-07-17-05-32.tar.gz",
+          "size" : 207415831,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_linux_hotspot_2019-07-17-05-32.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-17T05:35:42Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_hotspot_2019-07-17-05-32.tar.gz.json",
+          "size" : 571,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_linux_hotspot_2019-07-17-05-32.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:35:42Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_hotspot_2019-07-17-05-32.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_linux_hotspot_2019-07-17-05-32.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:35:43Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_openj9_2019-07-17-05-32.tar.gz",
+          "size" : 202240983,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_linux_openj9_2019-07-17-05-32.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:35:57Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_openj9_2019-07-17-05-32.tar.gz.json",
+          "size" : 570,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_linux_openj9_2019-07-17-05-32.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:35:58Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_openj9_2019-07-17-05-32.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_linux_openj9_2019-07-17-05-32.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:35:58Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_openj9_linuxXL_2019-07-17-05-32.tar.gz",
+          "size" : 202254866,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_linux_openj9_linuxXL_2019-07-17-05-32.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:36:12Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_openj9_linuxXL_2019-07-17-05-32.tar.gz.json",
+          "size" : 570,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_linux_openj9_linuxXL_2019-07-17-05-32.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:36:13Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_linux_openj9_linuxXL_2019-07-17-05-32.tar.gz.sha256.txt",
+          "size" : 130,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_linux_openj9_linuxXL_2019-07-17-05-32.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:36:13Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_hotspot_2019-07-17-05-32.pkg",
+          "size" : 198477776,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_hotspot_2019-07-17-05-32.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:36:27Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_hotspot_2019-07-17-05-32.pkg.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_hotspot_2019-07-17-05-32.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:36:28Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_hotspot_2019-07-17-05-32.pkg.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_hotspot_2019-07-17-05-32.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:36:28Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_hotspot_2019-07-17-05-32.tar.gz",
+          "size" : 198059382,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_hotspot_2019-07-17-05-32.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-17T05:36:46Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_hotspot_2019-07-17-05-32.tar.gz.json",
+          "size" : 569,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_hotspot_2019-07-17-05-32.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:36:46Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_hotspot_2019-07-17-05-32.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_hotspot_2019-07-17-05-32.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:36:47Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_2019-07-17-05-32.pkg",
+          "size" : 199559122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_openj9_2019-07-17-05-32.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:37:00Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_2019-07-17-05-32.pkg.json",
+          "size" : 568,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_openj9_2019-07-17-05-32.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:37:01Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_2019-07-17-05-32.pkg.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_openj9_2019-07-17-05-32.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:37:01Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_2019-07-17-05-32.tar.gz",
+          "size" : 199203104,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_openj9_2019-07-17-05-32.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:37:15Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_2019-07-17-05-32.tar.gz.json",
+          "size" : 568,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_openj9_2019-07-17-05-32.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:37:16Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_2019-07-17-05-32.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_openj9_2019-07-17-05-32.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:37:16Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-32.pkg",
+          "size" : 199567313,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-32.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:37:32Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-32.pkg.json",
+          "size" : 568,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-32.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:37:32Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-32.pkg.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-32.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:37:33Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-32.tar.gz",
+          "size" : 199215219,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-32.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:37:46Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-32.tar.gz.json",
+          "size" : 568,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-32.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:37:47Z"
+        }, {
+          "name" : "OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-32.tar.gz.sha256.txt",
+          "size" : 128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/download/jdk13u-2019-07-17-05-32/OpenJDK13U-jdk_x64_mac_openj9_macosXL_2019-07-17-05-32.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-17T05:37:47Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : "Y3Vyc29yOnYyOpHOANHS0w=="
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk13-binaries/releases/tag/jdk13u-2019-07-17-05-32",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk13-binaries/releases/tag/jdk13u-2019-07-17-05-32"
+    } ],
+    "pageInfo" : {
+      "hasNextPage" : false,
+      "endCursor" : null
+    }
+  }
+}

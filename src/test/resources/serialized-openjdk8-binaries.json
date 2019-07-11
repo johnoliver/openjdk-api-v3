@@ -1,0 +1,3266 @@
+{
+  "releases": {
+    "nodes": [
+      {
+        "id": "MDc6UmVsZWFzZTE4NzA3ODA1",
+        "name": "jdk8u222-b10_openj9-0.15.1",
+        "prerelease": null,
+        "publishedAt": "2019-07-18T14:48:25Z",
+        "releaseAssets": {
+          "nodes": [
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 119363074,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_ppc64_aix_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T14:48:38Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 492,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_ppc64_aix_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T14:48:38Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 127,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_ppc64_aix_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T14:48:39Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 116239031,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_ppc64le_linux_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 11,
+              "updatedAt": "2019-07-18T14:48:51Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 560,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_ppc64le_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T14:48:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 131,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_ppc64le_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 29,
+              "updatedAt": "2019-07-18T14:48:53Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 116106606,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_s390x_linux_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:49:05Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_s390x_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T14:49:05Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 129,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_s390x_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 29,
+              "updatedAt": "2019-07-18T14:49:06Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 115699931,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_linux_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 122,
+              "updatedAt": "2019-07-18T14:49:20Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 556,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:49:20Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 127,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 35,
+              "updatedAt": "2019-07-18T14:49:21Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_linuxXL_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 115621459,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 21,
+              "updatedAt": "2019-07-18T14:49:32Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_linuxXL_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 556,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T14:49:33Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_linuxXL_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 135,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:49:33Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_8u222b10_openj9-0.15.1.pkg",
+              "size": 113977292,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_mac_openj9_8u222b10_openj9-0.15.1.pkg",
+              "downloadCount": 29,
+              "updatedAt": "2019-07-18T14:49:51Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_8u222b10_openj9-0.15.1.pkg.json",
+              "size": 554,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_mac_openj9_8u222b10_openj9-0.15.1.pkg.json",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T14:49:51Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_8u222b10_openj9-0.15.1.pkg.sha256.txt",
+              "size": 122,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_mac_openj9_8u222b10_openj9-0.15.1.pkg.sha256.txt",
+              "downloadCount": 4,
+              "updatedAt": "2019-07-18T14:49:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 113687040,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_mac_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 24,
+              "updatedAt": "2019-07-18T14:50:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 554,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_mac_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:50:05Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 125,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_mac_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T14:50:06Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.pkg",
+              "size": 113965011,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.pkg",
+              "downloadCount": 11,
+              "updatedAt": "2019-07-18T14:50:17Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.pkg.json",
+              "size": 554,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.pkg.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:50:17Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.pkg.sha256.txt",
+              "size": 130,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.pkg.sha256.txt",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T14:50:18Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 113678902,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 18,
+              "updatedAt": "2019-07-18T14:50:28Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 554,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:50:29Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 133,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:50:29Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_8u222b10_openj9-0.15.1.msi",
+              "size": 105963520,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_windows_openj9_8u222b10_openj9-0.15.1.msi",
+              "downloadCount": 409,
+              "updatedAt": "2019-07-18T14:50:39Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_8u222b10_openj9-0.15.1.msi.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_windows_openj9_8u222b10_openj9-0.15.1.msi.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:50:41Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_8u222b10_openj9-0.15.1.msi.sha256.txt",
+              "size": 126,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_windows_openj9_8u222b10_openj9-0.15.1.msi.sha256.txt",
+              "downloadCount": 30,
+              "updatedAt": "2019-07-18T14:50:41Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_8u222b10_openj9-0.15.1.zip",
+              "size": 117180684,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_windows_openj9_8u222b10_openj9-0.15.1.zip",
+              "downloadCount": 167,
+              "updatedAt": "2019-07-18T14:50:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_8u222b10_openj9-0.15.1.zip.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_windows_openj9_8u222b10_openj9-0.15.1.zip.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:50:53Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_8u222b10_openj9-0.15.1.zip.sha256.txt",
+              "size": 126,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_windows_openj9_8u222b10_openj9-0.15.1.zip.sha256.txt",
+              "downloadCount": 15,
+              "updatedAt": "2019-07-18T14:50:54Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.msi",
+              "size": 105959424,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.msi",
+              "downloadCount": 15,
+              "updatedAt": "2019-07-18T14:51:07Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.msi.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.msi.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:51:07Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.msi.sha256.txt",
+              "size": 136,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.msi.sha256.txt",
+              "downloadCount": 4,
+              "updatedAt": "2019-07-18T14:51:08Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.zip",
+              "size": 117178399,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.zip",
+              "downloadCount": 28,
+              "updatedAt": "2019-07-18T14:51:19Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.zip.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.zip.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:51:20Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.zip.sha256.txt",
+              "size": 136,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.zip.sha256.txt",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T14:51:21Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_openj9_8u222b10_openj9-0.15.1.msi",
+              "size": 99614720,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x86-32_windows_openj9_8u222b10_openj9-0.15.1.msi",
+              "downloadCount": 24,
+              "updatedAt": "2019-07-18T14:51:32Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_openj9_8u222b10_openj9-0.15.1.msi.json",
+              "size": 561,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x86-32_windows_openj9_8u222b10_openj9-0.15.1.msi.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:51:32Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_openj9_8u222b10_openj9-0.15.1.msi.sha256.txt",
+              "size": 129,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x86-32_windows_openj9_8u222b10_openj9-0.15.1.msi.sha256.txt",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:51:33Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_openj9_8u222b10_openj9-0.15.1.zip",
+              "size": 115754605,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x86-32_windows_openj9_8u222b10_openj9-0.15.1.zip",
+              "downloadCount": 40,
+              "updatedAt": "2019-07-18T14:51:45Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_openj9_8u222b10_openj9-0.15.1.zip.json",
+              "size": 561,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x86-32_windows_openj9_8u222b10_openj9-0.15.1.zip.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:51:45Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_openj9_8u222b10_openj9-0.15.1.zip.sha256.txt",
+              "size": 129,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jdk_x86-32_windows_openj9_8u222b10_openj9-0.15.1.zip.sha256.txt",
+              "downloadCount": 6,
+              "updatedAt": "2019-07-18T14:51:46Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 49163533,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_ppc64_aix_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T14:51:51Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 492,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_ppc64_aix_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T14:51:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 127,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_ppc64_aix_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T14:51:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 47730705,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_ppc64le_linux_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:52:07Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 560,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_ppc64le_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T14:52:07Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 131,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_ppc64le_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 25,
+              "updatedAt": "2019-07-18T14:52:08Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 47632996,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_s390x_linux_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T14:52:14Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_s390x_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T14:52:14Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 129,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_s390x_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 25,
+              "updatedAt": "2019-07-18T14:52:15Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 47344432,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_linux_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 48,
+              "updatedAt": "2019-07-18T14:52:21Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 556,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:52:22Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 127,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_linux_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 29,
+              "updatedAt": "2019-07-18T14:52:22Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_linuxXL_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 47305213,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_linux_openj9_linuxXL_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 19,
+              "updatedAt": "2019-07-18T14:52:28Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_linuxXL_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 556,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_linux_openj9_linuxXL_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:52:29Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_linuxXL_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 135,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_linux_openj9_linuxXL_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 11,
+              "updatedAt": "2019-07-18T14:52:29Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_8u222b10_openj9-0.15.1.pkg",
+              "size": 45791184,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_mac_openj9_8u222b10_openj9-0.15.1.pkg",
+              "downloadCount": 10,
+              "updatedAt": "2019-07-18T14:52:34Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_8u222b10_openj9-0.15.1.pkg.json",
+              "size": 554,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_mac_openj9_8u222b10_openj9-0.15.1.pkg.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:52:35Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_8u222b10_openj9-0.15.1.pkg.sha256.txt",
+              "size": 122,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_mac_openj9_8u222b10_openj9-0.15.1.pkg.sha256.txt",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T14:52:35Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 45576388,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_mac_openj9_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 7,
+              "updatedAt": "2019-07-18T14:52:40Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 554,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_mac_openj9_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:52:41Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 125,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_mac_openj9_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:52:42Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.pkg",
+              "size": 45791184,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.pkg",
+              "downloadCount": 8,
+              "updatedAt": "2019-07-18T14:52:47Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.pkg.json",
+              "size": 554,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.pkg.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:52:47Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.pkg.sha256.txt",
+              "size": 130,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.pkg.sha256.txt",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T14:52:48Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.tar.gz",
+              "size": 45569419,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.tar.gz",
+              "downloadCount": 7,
+              "updatedAt": "2019-07-18T14:52:53Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.tar.gz.json",
+              "size": 554,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.tar.gz.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:52:53Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "size": 133,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_mac_openj9_macosXL_8u222b10_openj9-0.15.1.tar.gz.sha256.txt",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:52:54Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_8u222b10_openj9-0.15.1.msi",
+              "size": 42635264,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_windows_openj9_8u222b10_openj9-0.15.1.msi",
+              "downloadCount": 75,
+              "updatedAt": "2019-07-18T14:52:59Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_8u222b10_openj9-0.15.1.msi.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_windows_openj9_8u222b10_openj9-0.15.1.msi.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:52:59Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_8u222b10_openj9-0.15.1.msi.sha256.txt",
+              "size": 126,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_windows_openj9_8u222b10_openj9-0.15.1.msi.sha256.txt",
+              "downloadCount": 27,
+              "updatedAt": "2019-07-18T14:52:59Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_8u222b10_openj9-0.15.1.zip",
+              "size": 45630812,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_windows_openj9_8u222b10_openj9-0.15.1.zip",
+              "downloadCount": 56,
+              "updatedAt": "2019-07-18T14:53:06Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_8u222b10_openj9-0.15.1.zip.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_windows_openj9_8u222b10_openj9-0.15.1.zip.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:53:06Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_8u222b10_openj9-0.15.1.zip.sha256.txt",
+              "size": 126,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_windows_openj9_8u222b10_openj9-0.15.1.zip.sha256.txt",
+              "downloadCount": 5,
+              "updatedAt": "2019-07-18T14:53:07Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.msi",
+              "size": 42663936,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.msi",
+              "downloadCount": 9,
+              "updatedAt": "2019-07-18T14:53:12Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.msi.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.msi.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:53:13Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.msi.sha256.txt",
+              "size": 136,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.msi.sha256.txt",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T14:53:13Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.zip",
+              "size": 45623540,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.zip",
+              "downloadCount": 15,
+              "updatedAt": "2019-07-18T14:53:17Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.zip.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.zip.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:53:18Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.zip.sha256.txt",
+              "size": 136,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x64_windows_openj9_windowsXL_8u222b10_openj9-0.15.1.zip.sha256.txt",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T14:53:19Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_openj9_8u222b10_openj9-0.15.1.msi",
+              "size": 36392960,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x86-32_windows_openj9_8u222b10_openj9-0.15.1.msi",
+              "downloadCount": 37,
+              "updatedAt": "2019-07-18T14:53:25Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_openj9_8u222b10_openj9-0.15.1.msi.json",
+              "size": 561,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x86-32_windows_openj9_8u222b10_openj9-0.15.1.msi.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:53:25Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_openj9_8u222b10_openj9-0.15.1.msi.sha256.txt",
+              "size": 129,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x86-32_windows_openj9_8u222b10_openj9-0.15.1.msi.sha256.txt",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T14:53:26Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_openj9_8u222b10_openj9-0.15.1.zip",
+              "size": 44258197,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x86-32_windows_openj9_8u222b10_openj9-0.15.1.zip",
+              "downloadCount": 54,
+              "updatedAt": "2019-07-18T14:53:31Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_openj9_8u222b10_openj9-0.15.1.zip.json",
+              "size": 561,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x86-32_windows_openj9_8u222b10_openj9-0.15.1.zip.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T14:53:32Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_openj9_8u222b10_openj9-0.15.1.zip.sha256.txt",
+              "size": 129,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10_openj9-0.15.1/OpenJDK8U-jre_x86-32_windows_openj9_8u222b10_openj9-0.15.1.zip.sha256.txt",
+              "downloadCount": 5,
+              "updatedAt": "2019-07-18T14:53:33Z"
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": null
+          }
+        },
+        "resourcePath": "/AdoptOpenJDK/openjdk8-binaries/releases/tag/jdk8u222-b10_openj9-0.15.1",
+        "url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/tag/jdk8u222-b10_openj9-0.15.1"
+      },
+      {
+        "id": "MDc6UmVsZWFzZTE4Njg2NjQz",
+        "name": "jdk8u222-b10",
+        "prerelease": null,
+        "publishedAt": "2019-07-17T21:03:05Z",
+        "releaseAssets": {
+          "nodes": [
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_hotspot_8u222b10.tar.gz",
+              "size": 104480114,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u222b10.tar.gz",
+              "downloadCount": 1329,
+              "updatedAt": "2019-07-17T21:03:19Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_hotspot_8u222b10.tar.gz.json",
+              "size": 556,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 10,
+              "updatedAt": "2019-07-17T21:03:19Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 114,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 183,
+              "updatedAt": "2019-07-17T21:03:20Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_8u222b10.pkg",
+              "size": 102512596,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u222b10.pkg",
+              "downloadCount": 1007,
+              "updatedAt": "2019-07-17T21:03:30Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_8u222b10.pkg.json",
+              "size": 554,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u222b10.pkg.json",
+              "downloadCount": 8,
+              "updatedAt": "2019-07-17T21:03:30Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_8u222b10.pkg.sha256.txt",
+              "size": 109,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u222b10.pkg.sha256.txt",
+              "downloadCount": 10,
+              "updatedAt": "2019-07-17T21:03:31Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_8u222b10.tar.gz",
+              "size": 102266954,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u222b10.tar.gz",
+              "downloadCount": 124,
+              "updatedAt": "2019-07-17T21:03:41Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_8u222b10.tar.gz.json",
+              "size": 554,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 9,
+              "updatedAt": "2019-07-17T21:03:42Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 112,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_mac_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 21,
+              "updatedAt": "2019-07-17T21:03:42Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_hotspot_8u222b10.msi",
+              "size": 94777344,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_windows_hotspot_8u222b10.msi",
+              "downloadCount": 6857,
+              "updatedAt": "2019-07-17T21:03:51Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_hotspot_8u222b10.msi.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_windows_hotspot_8u222b10.msi.json",
+              "downloadCount": 11,
+              "updatedAt": "2019-07-17T21:03:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_hotspot_8u222b10.msi.sha256.txt",
+              "size": 113,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_windows_hotspot_8u222b10.msi.sha256.txt",
+              "downloadCount": 350,
+              "updatedAt": "2019-07-17T21:03:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_hotspot_8u222b10.zip",
+              "size": 104319099,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_windows_hotspot_8u222b10.zip",
+              "downloadCount": 867,
+              "updatedAt": "2019-07-17T21:04:02Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_hotspot_8u222b10.zip.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_windows_hotspot_8u222b10.zip.json",
+              "downloadCount": 8,
+              "updatedAt": "2019-07-17T21:04:02Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_hotspot_8u222b10.zip.sha256.txt",
+              "size": 113,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_windows_hotspot_8u222b10.zip.sha256.txt",
+              "downloadCount": 58,
+              "updatedAt": "2019-07-17T21:04:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_hotspot_8u222b10.tar.gz",
+              "size": 40934975,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_linux_hotspot_8u222b10.tar.gz",
+              "downloadCount": 230,
+              "updatedAt": "2019-07-17T21:04:12Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_hotspot_8u222b10.tar.gz.json",
+              "size": 556,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_linux_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 5,
+              "updatedAt": "2019-07-17T21:04:13Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 114,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 79,
+              "updatedAt": "2019-07-17T21:04:13Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_8u222b10.pkg",
+              "size": 38774735,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_mac_hotspot_8u222b10.pkg",
+              "downloadCount": 45,
+              "updatedAt": "2019-07-17T21:04:19Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_8u222b10.pkg.json",
+              "size": 554,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_mac_hotspot_8u222b10.pkg.json",
+              "downloadCount": 5,
+              "updatedAt": "2019-07-17T21:04:19Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_8u222b10.pkg.sha256.txt",
+              "size": 109,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_mac_hotspot_8u222b10.pkg.sha256.txt",
+              "downloadCount": 6,
+              "updatedAt": "2019-07-17T21:04:20Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_8u222b10.tar.gz",
+              "size": 38609896,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_mac_hotspot_8u222b10.tar.gz",
+              "downloadCount": 53,
+              "updatedAt": "2019-07-17T21:04:24Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_8u222b10.tar.gz.json",
+              "size": 554,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_mac_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 5,
+              "updatedAt": "2019-07-17T21:04:24Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 112,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_mac_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 8,
+              "updatedAt": "2019-07-17T21:04:25Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_8u222b10.msi",
+              "size": 36196352,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_windows_hotspot_8u222b10.msi",
+              "downloadCount": 23453,
+              "updatedAt": "2019-07-17T21:04:28Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_8u222b10.msi.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_windows_hotspot_8u222b10.msi.json",
+              "downloadCount": 5,
+              "updatedAt": "2019-07-17T21:04:29Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_8u222b10.msi.sha256.txt",
+              "size": 113,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_windows_hotspot_8u222b10.msi.sha256.txt",
+              "downloadCount": 38,
+              "updatedAt": "2019-07-17T21:04:29Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_8u222b10.zip",
+              "size": 37912743,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_windows_hotspot_8u222b10.zip",
+              "downloadCount": 335,
+              "updatedAt": "2019-07-17T21:04:33Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_8u222b10.zip.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_windows_hotspot_8u222b10.zip.json",
+              "downloadCount": 5,
+              "updatedAt": "2019-07-17T21:04:34Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_8u222b10.zip.sha256.txt",
+              "size": 113,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_windows_hotspot_8u222b10.zip.sha256.txt",
+              "downloadCount": 30,
+              "updatedAt": "2019-07-17T21:04:34Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u222b10.tar.gz",
+              "size": 105883066,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_ppc64_aix_hotspot_8u222b10.tar.gz",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T13:45:44Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u222b10.tar.gz.json",
+              "size": 492,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_ppc64_aix_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:45:45Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 114,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_ppc64_aix_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:45:45Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_8u222b10.tar.gz",
+              "size": 101730569,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_ppc64le_linux_hotspot_8u222b10.tar.gz",
+              "downloadCount": 11,
+              "updatedAt": "2019-07-18T13:45:53Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_8u222b10.tar.gz.json",
+              "size": 560,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_ppc64le_linux_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:45:53Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 118,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_ppc64le_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 39,
+              "updatedAt": "2019-07-18T13:45:54Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_hotspot_8u222b10.tar.gz",
+              "size": 100307680,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_s390x_linux_hotspot_8u222b10.tar.gz",
+              "downloadCount": 8,
+              "updatedAt": "2019-07-18T13:46:08Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_hotspot_8u222b10.tar.gz.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_s390x_linux_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:46:09Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 116,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_s390x_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 40,
+              "updatedAt": "2019-07-18T13:46:09Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u222b10.tar.gz",
+              "size": 108977081,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u222b10.tar.gz",
+              "downloadCount": 10,
+              "updatedAt": "2019-07-18T13:46:18Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u222b10.tar.gz.json",
+              "size": 562,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:46:18Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 120,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_sparcv9_solaris_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:46:19Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u222b10.tar.gz",
+              "size": 105567361,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_solaris_hotspot_8u222b10.tar.gz",
+              "downloadCount": 4,
+              "updatedAt": "2019-07-18T13:46:27Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u222b10.tar.gz.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_solaris_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:46:27Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_solaris_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 116,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x64_solaris_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:46:28Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u222b10.msi",
+              "size": 90202112,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x86-32_windows_hotspot_8u222b10.msi",
+              "downloadCount": 1627,
+              "updatedAt": "2019-07-18T13:46:35Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u222b10.msi.json",
+              "size": 561,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x86-32_windows_hotspot_8u222b10.msi.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T13:46:35Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u222b10.msi.sha256.txt",
+              "size": 116,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x86-32_windows_hotspot_8u222b10.msi.sha256.txt",
+              "downloadCount": 8,
+              "updatedAt": "2019-07-18T13:46:35Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u222b10.zip",
+              "size": 105150336,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x86-32_windows_hotspot_8u222b10.zip",
+              "downloadCount": 122,
+              "updatedAt": "2019-07-18T13:46:45Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u222b10.zip.json",
+              "size": 561,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x86-32_windows_hotspot_8u222b10.zip.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T13:46:46Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_8u222b10.zip.sha256.txt",
+              "size": 116,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_x86-32_windows_hotspot_8u222b10.zip.sha256.txt",
+              "downloadCount": 22,
+              "updatedAt": "2019-07-18T13:46:46Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_hotspot_8u222b10.tar.gz",
+              "size": 42136451,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_ppc64_aix_hotspot_8u222b10.tar.gz",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T13:46:51Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_hotspot_8u222b10.tar.gz.json",
+              "size": 492,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_ppc64_aix_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:46:51Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 114,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_ppc64_aix_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:46:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_8u222b10.tar.gz",
+              "size": 40102772,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_ppc64le_linux_hotspot_8u222b10.tar.gz",
+              "downloadCount": 7,
+              "updatedAt": "2019-07-18T13:46:56Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_8u222b10.tar.gz.json",
+              "size": 560,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_ppc64le_linux_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:46:57Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 118,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_ppc64le_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 32,
+              "updatedAt": "2019-07-18T13:46:57Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_hotspot_8u222b10.tar.gz",
+              "size": 38748683,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_s390x_linux_hotspot_8u222b10.tar.gz",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T13:47:01Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_hotspot_8u222b10.tar.gz.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_s390x_linux_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:47:01Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 116,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_s390x_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 32,
+              "updatedAt": "2019-07-18T13:47:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u222b10.tar.gz",
+              "size": 45425919,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_sparcv9_solaris_hotspot_8u222b10.tar.gz",
+              "downloadCount": 4,
+              "updatedAt": "2019-07-18T13:47:07Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u222b10.tar.gz.json",
+              "size": 562,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_sparcv9_solaris_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:47:08Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_sparcv9_solaris_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 120,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_sparcv9_solaris_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:47:08Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_solaris_hotspot_8u222b10.tar.gz",
+              "size": 42050101,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_solaris_hotspot_8u222b10.tar.gz",
+              "downloadCount": 4,
+              "updatedAt": "2019-07-18T13:47:12Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_solaris_hotspot_8u222b10.tar.gz.json",
+              "size": 558,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_solaris_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:47:13Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_solaris_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 116,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x64_solaris_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-18T13:47:13Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_8u222b10.msi",
+              "size": 29827072,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x86-32_windows_hotspot_8u222b10.msi",
+              "downloadCount": 21605,
+              "updatedAt": "2019-07-18T13:47:16Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_8u222b10.msi.json",
+              "size": 561,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x86-32_windows_hotspot_8u222b10.msi.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T13:47:16Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_8u222b10.msi.sha256.txt",
+              "size": 116,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x86-32_windows_hotspot_8u222b10.msi.sha256.txt",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-18T13:47:16Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_8u222b10.zip",
+              "size": 36399268,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x86-32_windows_hotspot_8u222b10.zip",
+              "downloadCount": 115,
+              "updatedAt": "2019-07-18T13:47:22Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_8u222b10.zip.json",
+              "size": 561,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x86-32_windows_hotspot_8u222b10.zip.json",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-18T13:47:22Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_8u222b10.zip.sha256.txt",
+              "size": 116,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_x86-32_windows_hotspot_8u222b10.zip.sha256.txt",
+              "downloadCount": 13,
+              "updatedAt": "2019-07-18T13:47:22Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_aarch64_linux_hotspot_8u222b10.tar.gz",
+              "size": 104510642,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_aarch64_linux_hotspot_8u222b10.tar.gz",
+              "downloadCount": 8,
+              "updatedAt": "2019-07-19T08:39:47Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_aarch64_linux_hotspot_8u222b10.tar.gz.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_aarch64_linux_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-19T08:39:47Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_aarch64_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 118,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_aarch64_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 15,
+              "updatedAt": "2019-07-19T08:39:48Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_aarch64_linux_hotspot_8u222b10.tar.gz",
+              "size": 40834774,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_aarch64_linux_hotspot_8u222b10.tar.gz",
+              "downloadCount": 4,
+              "updatedAt": "2019-07-19T08:39:53Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_aarch64_linux_hotspot_8u222b10.tar.gz.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_aarch64_linux_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-19T08:39:54Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_aarch64_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 118,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jre_aarch64_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 11,
+              "updatedAt": "2019-07-19T08:39:54Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_arm_linux_hotspot_8u222b10.tar.gz",
+              "size": 104480114,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_arm_linux_hotspot_8u222b10.tar.gz",
+              "downloadCount": 1329,
+              "updatedAt": "2019-07-17T21:03:19Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_arm_linux_hotspot_8u222b10.tar.gz.json",
+              "size": 556,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_arm_linux_hotspot_8u222b10.tar.gz.json",
+              "downloadCount": 10,
+              "updatedAt": "2019-07-17T21:03:19Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_arm_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "size": 114,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u222-b10/OpenJDK8U-jdk_arm_linux_hotspot_8u222b10.tar.gz.sha256.txt",
+              "downloadCount": 183,
+              "updatedAt": "2019-07-17T21:03:20Z"
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": null
+          }
+        },
+        "resourcePath": "/AdoptOpenJDK/openjdk8-binaries/releases/tag/jdk8u222-b10",
+        "url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/tag/jdk8u222-b10"
+      },
+      {
+        "id": "MDc6UmVsZWFzZTE4NjU2MTgy",
+        "name": "jdk8u-2019-07-16-20-20",
+        "prerelease": null,
+        "publishedAt": "2019-07-16T20:21:42Z",
+        "releaseAssets": {
+          "nodes": [
+            {
+              "name": "OpenJDK8U-jdk_aarch64_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 104374619,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_aarch64_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 12,
+              "updatedAt": "2019-07-16T20:21:56Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_aarch64_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 584,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_aarch64_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:21:57Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_aarch64_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 126,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_aarch64_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 54,
+              "updatedAt": "2019-07-16T20:21:57Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 105897938,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_ppc64_aix_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-16T20:22:08Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 514,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_ppc64_aix_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:22:08Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 122,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_ppc64_aix_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:22:09Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_openj9_2019-07-16-20-20.tar.gz",
+              "size": 119317640,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_ppc64_aix_openj9_2019-07-16-20-20.tar.gz",
+              "downloadCount": 24,
+              "updatedAt": "2019-07-16T20:22:20Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_openj9_2019-07-16-20-20.tar.gz.json",
+              "size": 513,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_ppc64_aix_openj9_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:22:20Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 121,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_ppc64_aix_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:22:21Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 101711228,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 12,
+              "updatedAt": "2019-07-16T20:22:30Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 582,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:22:30Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 126,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 54,
+              "updatedAt": "2019-07-16T20:22:31Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_openj9_2019-07-16-20-20.tar.gz",
+              "size": 116168024,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_ppc64le_linux_openj9_2019-07-16-20-20.tar.gz",
+              "downloadCount": 37,
+              "updatedAt": "2019-07-16T20:22:41Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_openj9_2019-07-16-20-20.tar.gz.json",
+              "size": 581,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_ppc64le_linux_openj9_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:22:41Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 125,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_ppc64le_linux_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 44,
+              "updatedAt": "2019-07-16T20:22:42Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 100297786,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_s390x_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 10,
+              "updatedAt": "2019-07-16T20:22:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 580,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_s390x_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:22:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_s390x_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 54,
+              "updatedAt": "2019-07-16T20:22:53Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_openj9_2019-07-16-20-20.tar.gz",
+              "size": 116096337,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_s390x_linux_openj9_2019-07-16-20-20.tar.gz",
+              "downloadCount": 15,
+              "updatedAt": "2019-07-16T20:23:12Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_openj9_2019-07-16-20-20.tar.gz.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_s390x_linux_openj9_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:23:12Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 123,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_s390x_linux_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 44,
+              "updatedAt": "2019-07-16T20:23:13Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_sparcv9_solaris_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 108949758,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_sparcv9_solaris_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-16T20:23:24Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_sparcv9_solaris_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 584,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_sparcv9_solaris_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:23:24Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_sparcv9_solaris_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 128,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_sparcv9_solaris_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:23:25Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 104466775,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 36,
+              "updatedAt": "2019-07-16T20:23:37Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 578,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:23:37Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 122,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 54,
+              "updatedAt": "2019-07-16T20:23:38Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_2019-07-16-20-20.tar.gz",
+              "size": 115688964,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_linux_openj9_2019-07-16-20-20.tar.gz",
+              "downloadCount": 55,
+              "updatedAt": "2019-07-16T20:23:50Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_2019-07-16-20-20.tar.gz.json",
+              "size": 577,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_linux_openj9_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:23:51Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 121,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_linux_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 43,
+              "updatedAt": "2019-07-16T20:23:51Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-07-16-20-20.tar.gz",
+              "size": 115609615,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-07-16-20-20.tar.gz",
+              "downloadCount": 27,
+              "updatedAt": "2019-07-16T20:24:02Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-07-16-20-20.tar.gz.json",
+              "size": 577,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:24:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 129,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:24:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-07-16-20-20.pkg",
+              "size": 102500305,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_hotspot_2019-07-16-20-20.pkg",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-16T20:24:14Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-07-16-20-20.pkg.json",
+              "size": 576,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_hotspot_2019-07-16-20-20.pkg.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:24:14Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-07-16-20-20.pkg.sha256.txt",
+              "size": 117,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_hotspot_2019-07-16-20-20.pkg.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:24:15Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 102257674,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:24:25Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 576,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:24:25Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 120,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:24:26Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-07-16-20-20.pkg",
+              "size": 113969105,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_openj9_2019-07-16-20-20.pkg",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:24:36Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-07-16-20-20.pkg.json",
+              "size": 575,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_openj9_2019-07-16-20-20.pkg.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:24:37Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-07-16-20-20.pkg.sha256.txt",
+              "size": 116,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_openj9_2019-07-16-20-20.pkg.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:24:37Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-07-16-20-20.tar.gz",
+              "size": 113670472,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_openj9_2019-07-16-20-20.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:24:48Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-07-16-20-20.tar.gz.json",
+              "size": 575,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_openj9_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:24:48Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 119,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:24:49Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_macosXL_2019-07-16-20-20.pkg",
+              "size": 113965014,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_openj9_macosXL_2019-07-16-20-20.pkg",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:25:01Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_macosXL_2019-07-16-20-20.pkg.json",
+              "size": 575,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_openj9_macosXL_2019-07-16-20-20.pkg.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:25:01Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_macosXL_2019-07-16-20-20.pkg.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_openj9_macosXL_2019-07-16-20-20.pkg.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:25:02Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_macosXL_2019-07-16-20-20.tar.gz",
+              "size": 113675878,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_openj9_macosXL_2019-07-16-20-20.tar.gz",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-16T20:25:13Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_macosXL_2019-07-16-20-20.tar.gz.json",
+              "size": 575,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_openj9_macosXL_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:25:13Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_macosXL_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 127,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_mac_openj9_macosXL_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:25:14Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_solaris_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 105544709,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_solaris_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:25:24Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_solaris_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 580,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_solaris_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:25:24Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_solaris_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_solaris_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:25:25Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_hotspot_2019-07-16-20-20.msi",
+              "size": 94769152,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_hotspot_2019-07-16-20-20.msi",
+              "downloadCount": 12,
+              "updatedAt": "2019-07-16T20:25:33Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_hotspot_2019-07-16-20-20.msi.json",
+              "size": 580,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_hotspot_2019-07-16-20-20.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:25:34Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_hotspot_2019-07-16-20-20.msi.sha256.txt",
+              "size": 121,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_hotspot_2019-07-16-20-20.msi.sha256.txt",
+              "downloadCount": 54,
+              "updatedAt": "2019-07-16T20:25:34Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_hotspot_2019-07-16-20-20.zip",
+              "size": 104303955,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_hotspot_2019-07-16-20-20.zip",
+              "downloadCount": 17,
+              "updatedAt": "2019-07-16T20:25:44Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_hotspot_2019-07-16-20-20.zip.json",
+              "size": 580,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_hotspot_2019-07-16-20-20.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:25:45Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_hotspot_2019-07-16-20-20.zip.sha256.txt",
+              "size": 121,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_hotspot_2019-07-16-20-20.zip.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-16T20:25:45Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_2019-07-16-20-20.msi",
+              "size": 105967616,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_openj9_2019-07-16-20-20.msi",
+              "downloadCount": 8,
+              "updatedAt": "2019-07-16T20:25:59Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_2019-07-16-20-20.msi.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_openj9_2019-07-16-20-20.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:25:59Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_2019-07-16-20-20.msi.sha256.txt",
+              "size": 120,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_openj9_2019-07-16-20-20.msi.sha256.txt",
+              "downloadCount": 43,
+              "updatedAt": "2019-07-16T20:26:00Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_2019-07-16-20-20.zip",
+              "size": 117177102,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_openj9_2019-07-16-20-20.zip",
+              "downloadCount": 30,
+              "updatedAt": "2019-07-16T20:26:11Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_2019-07-16-20-20.zip.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_openj9_2019-07-16-20-20.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:26:11Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_2019-07-16-20-20.zip.sha256.txt",
+              "size": 120,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_openj9_2019-07-16-20-20.zip.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-16T20:26:12Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-16-20-20.msi",
+              "size": 105955328,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-16-20-20.msi",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:26:24Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-16-20-20.msi.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-16-20-20.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:26:24Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-16-20-20.msi.sha256.txt",
+              "size": 130,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-16-20-20.msi.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:26:25Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-16-20-20.zip",
+              "size": 117169177,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-16-20-20.zip",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:26:37Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-16-20-20.zip.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-16-20-20.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:26:37Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-16-20-20.zip.sha256.txt",
+              "size": 130,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-16-20-20.zip.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:26:38Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-16-20-20.msi",
+              "size": 90181632,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-16-20-20.msi",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-16T20:26:47Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-16-20-20.msi.json",
+              "size": 583,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-16-20-20.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:26:47Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-16-20-20.msi.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-16-20-20.msi.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:26:48Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-16-20-20.zip",
+              "size": 105132668,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-16-20-20.zip",
+              "downloadCount": 9,
+              "updatedAt": "2019-07-16T20:26:59Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-16-20-20.zip.json",
+              "size": 583,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-16-20-20.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:26:59Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-16-20-20.zip.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-16-20-20.zip.sha256.txt",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-16T20:27:00Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_openj9_2019-07-16-20-20.msi",
+              "size": 99618816,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x86-32_windows_openj9_2019-07-16-20-20.msi",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-16T20:27:09Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_openj9_2019-07-16-20-20.msi.json",
+              "size": 582,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x86-32_windows_openj9_2019-07-16-20-20.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:27:10Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_openj9_2019-07-16-20-20.msi.sha256.txt",
+              "size": 123,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x86-32_windows_openj9_2019-07-16-20-20.msi.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:27:12Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_openj9_2019-07-16-20-20.zip",
+              "size": 115750711,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x86-32_windows_openj9_2019-07-16-20-20.zip",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-16T20:27:24Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_openj9_2019-07-16-20-20.zip.json",
+              "size": 582,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x86-32_windows_openj9_2019-07-16-20-20.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:27:24Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_openj9_2019-07-16-20-20.zip.sha256.txt",
+              "size": 123,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jdk_x86-32_windows_openj9_2019-07-16-20-20.zip.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-16T20:27:25Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_aarch64_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 40772668,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_aarch64_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 6,
+              "updatedAt": "2019-07-16T20:27:32Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_aarch64_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 584,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_aarch64_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:27:33Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_aarch64_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 126,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_aarch64_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 48,
+              "updatedAt": "2019-07-16T20:27:34Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 42128433,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_ppc64_aix_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:27:40Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 514,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_ppc64_aix_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:27:41Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 122,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_ppc64_aix_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:27:41Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_openj9_2019-07-16-20-20.tar.gz",
+              "size": 49159038,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_ppc64_aix_openj9_2019-07-16-20-20.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:27:48Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_openj9_2019-07-16-20-20.tar.gz.json",
+              "size": 513,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_ppc64_aix_openj9_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:27:48Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 121,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_ppc64_aix_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:27:49Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 40097101,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_ppc64le_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 6,
+              "updatedAt": "2019-07-16T20:27:54Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 582,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_ppc64le_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:27:55Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 126,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_ppc64le_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 47,
+              "updatedAt": "2019-07-16T20:27:55Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_openj9_2019-07-16-20-20.tar.gz",
+              "size": 47587693,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_ppc64le_linux_openj9_2019-07-16-20-20.tar.gz",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-16T20:28:02Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_openj9_2019-07-16-20-20.tar.gz.json",
+              "size": 581,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_ppc64le_linux_openj9_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 125,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_ppc64le_linux_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 42,
+              "updatedAt": "2019-07-16T20:28:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 38743747,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_s390x_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-16T20:28:09Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 580,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_s390x_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:10Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_s390x_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 48,
+              "updatedAt": "2019-07-16T20:28:10Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_openj9_2019-07-16-20-20.tar.gz",
+              "size": 47622153,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_s390x_linux_openj9_2019-07-16-20-20.tar.gz",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-16T20:28:18Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_openj9_2019-07-16-20-20.tar.gz.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_s390x_linux_openj9_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:18Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 123,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_s390x_linux_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 42,
+              "updatedAt": "2019-07-16T20:28:19Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_sparcv9_solaris_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 45403795,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_sparcv9_solaris_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:26Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_sparcv9_solaris_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 584,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_sparcv9_solaris_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:26Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_sparcv9_solaris_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 128,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_sparcv9_solaris_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:27Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 40930488,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_linux_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 9,
+              "updatedAt": "2019-07-16T20:28:33Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 578,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_linux_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:33Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 122,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_linux_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 48,
+              "updatedAt": "2019-07-16T20:28:34Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_2019-07-16-20-20.tar.gz",
+              "size": 47334926,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_linux_openj9_2019-07-16-20-20.tar.gz",
+              "downloadCount": 6,
+              "updatedAt": "2019-07-16T20:28:39Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_2019-07-16-20-20.tar.gz.json",
+              "size": 577,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_linux_openj9_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:40Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 121,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_linux_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 42,
+              "updatedAt": "2019-07-16T20:28:40Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-07-16-20-20.tar.gz",
+              "size": 47297001,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-07-16-20-20.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:46Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-07-16-20-20.tar.gz.json",
+              "size": 577,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:46Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 129,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:47Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-07-16-20-20.pkg",
+              "size": 38766543,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_hotspot_2019-07-16-20-20.pkg",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-16T20:28:51Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-07-16-20-20.pkg.json",
+              "size": 576,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_hotspot_2019-07-16-20-20.pkg.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-07-16-20-20.pkg.sha256.txt",
+              "size": 117,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_hotspot_2019-07-16-20-20.pkg.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 38604791,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 8,
+              "updatedAt": "2019-07-16T20:28:56Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 576,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:57Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 120,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:28:57Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_2019-07-16-20-20.pkg",
+              "size": 45787088,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_openj9_2019-07-16-20-20.pkg",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:02Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_2019-07-16-20-20.pkg.json",
+              "size": 575,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_openj9_2019-07-16-20-20.pkg.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_2019-07-16-20-20.pkg.sha256.txt",
+              "size": 116,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_openj9_2019-07-16-20-20.pkg.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_2019-07-16-20-20.tar.gz",
+              "size": 45571821,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_openj9_2019-07-16-20-20.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:09Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_2019-07-16-20-20.tar.gz.json",
+              "size": 575,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_openj9_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:09Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 119,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_openj9_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:10Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_macosXL_2019-07-16-20-20.pkg",
+              "size": 45782988,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_openj9_macosXL_2019-07-16-20-20.pkg",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:15Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_macosXL_2019-07-16-20-20.pkg.json",
+              "size": 575,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_openj9_macosXL_2019-07-16-20-20.pkg.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:15Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_macosXL_2019-07-16-20-20.pkg.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_openj9_macosXL_2019-07-16-20-20.pkg.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:16Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_macosXL_2019-07-16-20-20.tar.gz",
+              "size": 45568519,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_openj9_macosXL_2019-07-16-20-20.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:21Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_macosXL_2019-07-16-20-20.tar.gz.json",
+              "size": 575,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_openj9_macosXL_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:23Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_macosXL_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 127,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_mac_openj9_macosXL_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:24Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_solaris_hotspot_2019-07-16-20-20.tar.gz",
+              "size": 42029327,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_solaris_hotspot_2019-07-16-20-20.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:29Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_solaris_hotspot_2019-07-16-20-20.tar.gz.json",
+              "size": 580,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_solaris_hotspot_2019-07-16-20-20.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:30Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_solaris_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_solaris_hotspot_2019-07-16-20-20.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:30Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_2019-07-16-20-20.msi",
+              "size": 36188160,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_hotspot_2019-07-16-20-20.msi",
+              "downloadCount": 9,
+              "updatedAt": "2019-07-16T20:29:35Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_2019-07-16-20-20.msi.json",
+              "size": 580,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_hotspot_2019-07-16-20-20.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:35Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_2019-07-16-20-20.msi.sha256.txt",
+              "size": 121,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_hotspot_2019-07-16-20-20.msi.sha256.txt",
+              "downloadCount": 48,
+              "updatedAt": "2019-07-16T20:29:36Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_2019-07-16-20-20.zip",
+              "size": 37907083,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_hotspot_2019-07-16-20-20.zip",
+              "downloadCount": 140,
+              "updatedAt": "2019-07-16T20:29:40Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_2019-07-16-20-20.zip.json",
+              "size": 580,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_hotspot_2019-07-16-20-20.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:40Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_2019-07-16-20-20.zip.sha256.txt",
+              "size": 121,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_hotspot_2019-07-16-20-20.zip.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-16T20:29:41Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_2019-07-16-20-20.msi",
+              "size": 42635264,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_openj9_2019-07-16-20-20.msi",
+              "downloadCount": 8,
+              "updatedAt": "2019-07-16T20:29:45Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_2019-07-16-20-20.msi.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_openj9_2019-07-16-20-20.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:46Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_2019-07-16-20-20.msi.sha256.txt",
+              "size": 120,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_openj9_2019-07-16-20-20.msi.sha256.txt",
+              "downloadCount": 42,
+              "updatedAt": "2019-07-16T20:29:46Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_2019-07-16-20-20.zip",
+              "size": 45627207,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_openj9_2019-07-16-20-20.zip",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-16T20:29:51Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_2019-07-16-20-20.zip.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_openj9_2019-07-16-20-20.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:53Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_2019-07-16-20-20.zip.sha256.txt",
+              "size": 120,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_openj9_2019-07-16-20-20.zip.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-16T20:29:54Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-16-20-20.msi",
+              "size": 42655744,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-16-20-20.msi",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:29:59Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-16-20-20.msi.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-16-20-20.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:30:00Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-16-20-20.msi.sha256.txt",
+              "size": 130,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-16-20-20.msi.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:30:00Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-16-20-20.zip",
+              "size": 45615129,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-16-20-20.zip",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-16T20:30:05Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-16-20-20.zip.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-16-20-20.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:30:06Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-16-20-20.zip.sha256.txt",
+              "size": 130,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-16-20-20.zip.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:30:06Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-16-20-20.msi",
+              "size": 29822976,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-16-20-20.msi",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-16T20:30:10Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-16-20-20.msi.json",
+              "size": 583,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-16-20-20.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:30:11Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-16-20-20.msi.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-16-20-20.msi.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:30:14Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-16-20-20.zip",
+              "size": 36392251,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-16-20-20.zip",
+              "downloadCount": 4,
+              "updatedAt": "2019-07-16T20:30:21Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-16-20-20.zip.json",
+              "size": 583,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-16-20-20.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:30:22Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-16-20-20.zip.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-16-20-20.zip.sha256.txt",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-16T20:30:22Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_openj9_2019-07-16-20-20.msi",
+              "size": 36392960,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x86-32_windows_openj9_2019-07-16-20-20.msi",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-16T20:30:27Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_openj9_2019-07-16-20-20.msi.json",
+              "size": 582,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x86-32_windows_openj9_2019-07-16-20-20.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:30:28Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_openj9_2019-07-16-20-20.msi.sha256.txt",
+              "size": 123,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x86-32_windows_openj9_2019-07-16-20-20.msi.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:30:28Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_openj9_2019-07-16-20-20.zip",
+              "size": 44256400,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x86-32_windows_openj9_2019-07-16-20-20.zip",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:30:33Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_openj9_2019-07-16-20-20.zip.json",
+              "size": 582,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x86-32_windows_openj9_2019-07-16-20-20.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-16T20:30:33Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_openj9_2019-07-16-20-20.zip.sha256.txt",
+              "size": 123,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-16-20-20/OpenJDK8U-jre_x86-32_windows_openj9_2019-07-16-20-20.zip.sha256.txt",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-16T20:30:34Z"
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": null
+          }
+        },
+        "resourcePath": "/AdoptOpenJDK/openjdk8-binaries/releases/tag/jdk8u-2019-07-16-20-20",
+        "url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/tag/jdk8u-2019-07-16-20-20"
+      },
+      {
+        "id": "MDc6UmVsZWFzZTE4NjAyNTQz",
+        "name": "jdk8u-2019-07-14-16-25",
+        "prerelease": null,
+        "publishedAt": "2019-07-14T16:26:11Z",
+        "releaseAssets": {
+          "nodes": [
+            {
+              "name": "OpenJDK8U-jdk_aarch64_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 104371455,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_aarch64_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 4,
+              "updatedAt": "2019-07-14T16:26:22Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_aarch64_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 584,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_aarch64_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:26:22Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_aarch64_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 126,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_aarch64_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 64,
+              "updatedAt": "2019-07-14T16:26:23Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 105901854,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_ppc64_aix_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:26:32Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 514,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_ppc64_aix_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:26:32Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 122,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_ppc64_aix_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:26:33Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_openj9_2019-07-14-16-25.tar.gz",
+              "size": 119364385,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_ppc64_aix_openj9_2019-07-14-16-25.tar.gz",
+              "downloadCount": 22,
+              "updatedAt": "2019-07-14T16:26:43Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_openj9_2019-07-14-16-25.tar.gz.json",
+              "size": 513,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_ppc64_aix_openj9_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:26:43Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64_aix_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 121,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_ppc64_aix_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:26:44Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 101712455,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 13,
+              "updatedAt": "2019-07-14T16:26:56Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 582,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:26:56Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 126,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_ppc64le_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 63,
+              "updatedAt": "2019-07-14T16:26:57Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_openj9_2019-07-14-16-25.tar.gz",
+              "size": 116234507,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_ppc64le_linux_openj9_2019-07-14-16-25.tar.gz",
+              "downloadCount": 30,
+              "updatedAt": "2019-07-14T16:27:07Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_openj9_2019-07-14-16-25.tar.gz.json",
+              "size": 581,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_ppc64le_linux_openj9_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:27:08Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_ppc64le_linux_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 125,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_ppc64le_linux_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 60,
+              "updatedAt": "2019-07-14T16:27:08Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 100290305,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_s390x_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 13,
+              "updatedAt": "2019-07-14T16:27:17Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 580,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_s390x_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:27:18Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_s390x_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 63,
+              "updatedAt": "2019-07-14T16:27:18Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_openj9_2019-07-14-16-25.tar.gz",
+              "size": 116094432,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_s390x_linux_openj9_2019-07-14-16-25.tar.gz",
+              "downloadCount": 23,
+              "updatedAt": "2019-07-14T16:27:28Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_openj9_2019-07-14-16-25.tar.gz.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_s390x_linux_openj9_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:27:28Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_s390x_linux_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 123,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_s390x_linux_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 60,
+              "updatedAt": "2019-07-14T16:27:29Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_sparcv9_solaris_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 108939982,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_sparcv9_solaris_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:27:39Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_sparcv9_solaris_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 584,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_sparcv9_solaris_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:27:39Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_sparcv9_solaris_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 128,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_sparcv9_solaris_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:27:40Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 104528383,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 27,
+              "updatedAt": "2019-07-14T16:27:50Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 578,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:27:50Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 122,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 63,
+              "updatedAt": "2019-07-14T16:27:51Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-07-14-16-25.tar.gz",
+              "size": 115608568,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-07-14-16-25.tar.gz",
+              "downloadCount": 20,
+              "updatedAt": "2019-07-14T16:28:02Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-07-14-16-25.tar.gz.json",
+              "size": 577,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:02Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 129,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_linux_openj9_linuxXL_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-07-14-16-25.pkg",
+              "size": 102500311,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_mac_hotspot_2019-07-14-16-25.pkg",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:12Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-07-14-16-25.pkg.json",
+              "size": 576,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_mac_hotspot_2019-07-14-16-25.pkg.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:13Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-07-14-16-25.pkg.sha256.txt",
+              "size": 117,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_mac_hotspot_2019-07-14-16-25.pkg.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:13Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 102259122,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_mac_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-14T16:28:22Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 576,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_mac_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:23Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 120,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_mac_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:23Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-07-14-16-25.pkg",
+              "size": 113960909,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_mac_openj9_2019-07-14-16-25.pkg",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-14T16:28:34Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-07-14-16-25.pkg.json",
+              "size": 575,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_mac_openj9_2019-07-14-16-25.pkg.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:34Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-07-14-16-25.pkg.sha256.txt",
+              "size": 116,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_mac_openj9_2019-07-14-16-25.pkg.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:35Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-07-14-16-25.tar.gz",
+              "size": 113667102,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_mac_openj9_2019-07-14-16-25.tar.gz",
+              "downloadCount": 5,
+              "updatedAt": "2019-07-14T16:28:46Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-07-14-16-25.tar.gz.json",
+              "size": 575,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_mac_openj9_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:47Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_mac_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 119,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_mac_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:47Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_solaris_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 105522166,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_solaris_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:57Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_solaris_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 580,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_solaris_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:58Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_solaris_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_solaris_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:28:58Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_hotspot_2019-07-14-16-25.msi",
+              "size": 94765056,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_windows_hotspot_2019-07-14-16-25.msi",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:07Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-14-16-25.msi",
+              "size": 105955328,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-14-16-25.msi",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-14T16:29:16Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-14-16-25.msi.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-14-16-25.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:16Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-14-16-25.msi.sha256.txt",
+              "size": 130,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-14-16-25.msi.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:16Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-14-16-25.zip",
+              "size": 117171643,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-14-16-25.zip",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-14T16:29:27Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-14-16-25.zip.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-14-16-25.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:27Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-14-16-25.zip.sha256.txt",
+              "size": 130,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x64_windows_openj9_windowsXL_2019-07-14-16-25.zip.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:28Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-14-16-25.msi",
+              "size": 90189824,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-14-16-25.msi",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:36Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-14-16-25.msi.json",
+              "size": 583,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-14-16-25.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:36Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-14-16-25.msi.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-14-16-25.msi.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:37Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-14-16-25.zip",
+              "size": 105132905,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-14-16-25.zip",
+              "downloadCount": 3,
+              "updatedAt": "2019-07-14T16:29:46Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-14-16-25.zip.json",
+              "size": 583,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-14-16-25.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:46Z"
+            },
+            {
+              "name": "OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-14-16-25.zip.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jdk_x86-32_windows_hotspot_2019-07-14-16-25.zip.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:47Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_aarch64_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 40772771,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_aarch64_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-14T16:29:51Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_aarch64_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 584,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_aarch64_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_aarch64_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 126,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_aarch64_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 60,
+              "updatedAt": "2019-07-14T16:29:52Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 42122900,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_ppc64_aix_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:57Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 514,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_ppc64_aix_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:57Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 122,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_ppc64_aix_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:29:57Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_openj9_2019-07-14-16-25.tar.gz",
+              "size": 49164196,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_ppc64_aix_openj9_2019-07-14-16-25.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:02Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_openj9_2019-07-14-16-25.tar.gz.json",
+              "size": 513,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_ppc64_aix_openj9_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64_aix_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 121,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_ppc64_aix_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 40096309,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_ppc64le_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 6,
+              "updatedAt": "2019-07-14T16:30:07Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 582,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_ppc64le_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:08Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 126,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_ppc64le_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 60,
+              "updatedAt": "2019-07-14T16:30:08Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_openj9_2019-07-14-16-25.tar.gz",
+              "size": 47726032,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_ppc64le_linux_openj9_2019-07-14-16-25.tar.gz",
+              "downloadCount": 6,
+              "updatedAt": "2019-07-14T16:30:13Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_openj9_2019-07-14-16-25.tar.gz.json",
+              "size": 581,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_ppc64le_linux_openj9_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:13Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_ppc64le_linux_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 125,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_ppc64le_linux_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 60,
+              "updatedAt": "2019-07-14T16:30:14Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 38745384,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_s390x_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 6,
+              "updatedAt": "2019-07-14T16:30:18Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 580,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_s390x_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:18Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_s390x_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 60,
+              "updatedAt": "2019-07-14T16:30:19Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_openj9_2019-07-14-16-25.tar.gz",
+              "size": 47623371,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_s390x_linux_openj9_2019-07-14-16-25.tar.gz",
+              "downloadCount": 6,
+              "updatedAt": "2019-07-14T16:30:23Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_openj9_2019-07-14-16-25.tar.gz.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_s390x_linux_openj9_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:24Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_s390x_linux_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 123,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_s390x_linux_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 60,
+              "updatedAt": "2019-07-14T16:30:24Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_sparcv9_solaris_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 45399673,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_sparcv9_solaris_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:28Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_sparcv9_solaris_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 584,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_sparcv9_solaris_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:29Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_sparcv9_solaris_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 128,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_sparcv9_solaris_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:29Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 40957440,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_linux_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 9,
+              "updatedAt": "2019-07-14T16:30:33Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 578,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_linux_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:34Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 122,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_linux_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 60,
+              "updatedAt": "2019-07-14T16:30:34Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-07-14-16-25.tar.gz",
+              "size": 47294738,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-07-14-16-25.tar.gz",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-14T16:30:38Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-07-14-16-25.tar.gz.json",
+              "size": 577,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:39Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 129,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_linux_openj9_linuxXL_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:39Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-07-14-16-25.pkg",
+              "size": 38766548,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_mac_hotspot_2019-07-14-16-25.pkg",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:43Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-07-14-16-25.pkg.json",
+              "size": 576,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_mac_hotspot_2019-07-14-16-25.pkg.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:44Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-07-14-16-25.pkg.sha256.txt",
+              "size": 117,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_mac_hotspot_2019-07-14-16-25.pkg.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:44Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 38605374,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_mac_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:56Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 576,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_mac_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:56Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 120,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_mac_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:30:57Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_2019-07-14-16-25.pkg",
+              "size": 45787086,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_mac_openj9_2019-07-14-16-25.pkg",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:02Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_2019-07-14-16-25.pkg.json",
+              "size": 575,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_mac_openj9_2019-07-14-16-25.pkg.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_2019-07-14-16-25.pkg.sha256.txt",
+              "size": 116,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_mac_openj9_2019-07-14-16-25.pkg.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:03Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_2019-07-14-16-25.tar.gz",
+              "size": 45572118,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_mac_openj9_2019-07-14-16-25.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:09Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_2019-07-14-16-25.tar.gz.json",
+              "size": 575,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_mac_openj9_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:09Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_mac_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 119,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_mac_openj9_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:10Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_solaris_hotspot_2019-07-14-16-25.tar.gz",
+              "size": 42039333,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_solaris_hotspot_2019-07-14-16-25.tar.gz",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:14Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_solaris_hotspot_2019-07-14-16-25.tar.gz.json",
+              "size": 580,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_solaris_hotspot_2019-07-14-16-25.tar.gz.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:15Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_solaris_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_solaris_hotspot_2019-07-14-16-25.tar.gz.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:15Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_2019-07-13-03-27.msi.json",
+              "size": 580,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_windows_hotspot_2019-07-13-03-27.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:16Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_hotspot_2019-07-13-03-27.zip.sha256.txt",
+              "size": 148,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_windows_hotspot_2019-07-13-03-27.zip.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:16Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-14-16-25.msi",
+              "size": 42647552,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-14-16-25.msi",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:21Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-14-16-25.msi.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-14-16-25.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:21Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-14-16-25.msi.sha256.txt",
+              "size": 130,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-14-16-25.msi.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:22Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-14-16-25.zip",
+              "size": 45616420,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-14-16-25.zip",
+              "downloadCount": 5,
+              "updatedAt": "2019-07-14T16:31:27Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-14-16-25.zip.json",
+              "size": 579,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-14-16-25.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:27Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-14-16-25.zip.sha256.txt",
+              "size": 130,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x64_windows_openj9_windowsXL_2019-07-14-16-25.zip.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:28Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-14-16-25.msi",
+              "size": 29822976,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-14-16-25.msi",
+              "downloadCount": 2,
+              "updatedAt": "2019-07-14T16:31:31Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-14-16-25.msi.json",
+              "size": 583,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-14-16-25.msi.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:31Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-14-16-25.msi.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-14-16-25.msi.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:32Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-14-16-25.zip",
+              "size": 36392057,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-14-16-25.zip",
+              "downloadCount": 1,
+              "updatedAt": "2019-07-14T16:31:36Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-14-16-25.zip.json",
+              "size": 583,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-14-16-25.zip.json",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:36Z"
+            },
+            {
+              "name": "OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-14-16-25.zip.sha256.txt",
+              "size": 124,
+              "downloadUrl": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u-2019-07-14-16-25/OpenJDK8U-jre_x86-32_windows_hotspot_2019-07-14-16-25.zip.sha256.txt",
+              "downloadCount": 0,
+              "updatedAt": "2019-07-14T16:31:37Z"
+            }
+          ],
+          "pageInfo": {
+            "hasNextPage": false,
+            "endCursor": null
+          }
+        },
+        "resourcePath": "/AdoptOpenJDK/openjdk8-binaries/releases/tag/jdk8u-2019-07-14-16-25",
+        "url": "https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/tag/jdk8u-2019-07-14-16-25"
+      }
+    ],
+    "pageInfo": {
+      "hasNextPage": false,
+      "endCursor": null
+    }
+  }
+}

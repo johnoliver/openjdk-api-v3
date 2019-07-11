@@ -1,0 +1,797 @@
+{
+  "releases" : {
+    "nodes" : [ {
+      "id" : "MDc6UmVsZWFzZTEzMjkyMDk3",
+      "name" : "jdk-9+181",
+      "prerelease" : null,
+      "publishedAt" : "2018-10-07T18:13:29Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK9U-jdk_aarch64_linux_hotspot_9_181.tar.gz",
+          "size" : 190645964,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jdk_aarch64_linux_hotspot_9_181.tar.gz",
+          "downloadCount" : 291,
+          "updatedAt" : "2018-10-07T18:13:39Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_aarch64_linux_hotspot_9_181.tar.gz.sha256.txt",
+          "size" : 144,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jdk_aarch64_linux_hotspot_9_181.tar.gz.sha256.txt",
+          "downloadCount" : 810,
+          "updatedAt" : "2018-10-07T18:13:40Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_ppc64le_linux_hotspot_9_181.tar.gz",
+          "size" : 190359232,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jdk_ppc64le_linux_hotspot_9_181.tar.gz",
+          "downloadCount" : 5,
+          "updatedAt" : "2018-10-07T18:13:57Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_ppc64le_linux_hotspot_9_181.tar.gz.sha256.txt",
+          "size" : 144,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jdk_ppc64le_linux_hotspot_9_181.tar.gz.sha256.txt",
+          "downloadCount" : 163,
+          "updatedAt" : "2018-10-07T18:13:57Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_x64_linux_hotspot_9_181.tar.gz",
+          "size" : 207329258,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jdk_x64_linux_hotspot_9_181.tar.gz",
+          "downloadCount" : 1995,
+          "updatedAt" : "2018-10-07T18:14:08Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_x64_linux_hotspot_9_181.tar.gz.sha256.txt",
+          "size" : 136,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jdk_x64_linux_hotspot_9_181.tar.gz.sha256.txt",
+          "downloadCount" : 283,
+          "updatedAt" : "2018-10-07T18:14:09Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_x64_mac_hotspot_9_181.tar.gz",
+          "size" : 189335934,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jdk_x64_mac_hotspot_9_181.tar.gz",
+          "downloadCount" : 3417,
+          "updatedAt" : "2018-10-07T18:14:18Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_x64_mac_hotspot_9_181.tar.gz.sha256.txt",
+          "size" : 132,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jdk_x64_mac_hotspot_9_181.tar.gz.sha256.txt",
+          "downloadCount" : 177,
+          "updatedAt" : "2018-10-07T18:14:18Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_x64_windows_hotspot_9_181.zip",
+          "size" : 192269523,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jdk_x64_windows_hotspot_9_181.zip",
+          "downloadCount" : 180,
+          "updatedAt" : "2018-10-07T18:14:29Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_x64_windows_hotspot_9_181.zip.sha256.txt",
+          "size" : 137,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jdk_x64_windows_hotspot_9_181.zip.sha256.txt",
+          "downloadCount" : 168,
+          "updatedAt" : "2018-10-07T18:14:30Z"
+        }, {
+          "name" : "OpenJDK9U-jre_aarch64_linux_hotspot_9_181.tar.gz",
+          "size" : 37120272,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jre_aarch64_linux_hotspot_9_181.tar.gz",
+          "downloadCount" : 24,
+          "updatedAt" : "2018-10-07T18:14:33Z"
+        }, {
+          "name" : "OpenJDK9U-jre_aarch64_linux_hotspot_9_181.tar.gz.sha256.txt",
+          "size" : 144,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jre_aarch64_linux_hotspot_9_181.tar.gz.sha256.txt",
+          "downloadCount" : 202,
+          "updatedAt" : "2018-10-07T18:14:33Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64le_linux_hotspot_9_181.tar.gz",
+          "size" : 36839726,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jre_ppc64le_linux_hotspot_9_181.tar.gz",
+          "downloadCount" : 3,
+          "updatedAt" : "2018-10-07T18:14:37Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64le_linux_hotspot_9_181.tar.gz.sha256.txt",
+          "size" : 144,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jre_ppc64le_linux_hotspot_9_181.tar.gz.sha256.txt",
+          "downloadCount" : 159,
+          "updatedAt" : "2018-10-07T18:14:38Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_hotspot_9_181.tar.gz",
+          "size" : 41530038,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jre_x64_linux_hotspot_9_181.tar.gz",
+          "downloadCount" : 22,
+          "updatedAt" : "2018-10-07T18:14:41Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_hotspot_9_181.tar.gz.sha256.txt",
+          "size" : 136,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jre_x64_linux_hotspot_9_181.tar.gz.sha256.txt",
+          "downloadCount" : 164,
+          "updatedAt" : "2018-10-07T18:14:41Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_mac_hotspot_9_181.tar.gz",
+          "size" : 35703644,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jre_x64_mac_hotspot_9_181.tar.gz",
+          "downloadCount" : 59,
+          "updatedAt" : "2018-10-07T18:14:44Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_mac_hotspot_9_181.tar.gz.sha256.txt",
+          "size" : 132,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jre_x64_mac_hotspot_9_181.tar.gz.sha256.txt",
+          "downloadCount" : 168,
+          "updatedAt" : "2018-10-07T18:14:44Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_windows_hotspot_9_181.zip",
+          "size" : 36209471,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jre_x64_windows_hotspot_9_181.zip",
+          "downloadCount" : 95,
+          "updatedAt" : "2018-10-07T18:14:48Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_windows_hotspot_9_181.zip.sha256.txt",
+          "size" : 137,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9%2B181/OpenJDK9U-jre_x64_windows_hotspot_9_181.zip.sha256.txt",
+          "downloadCount" : 165,
+          "updatedAt" : "2018-10-07T18:14:48Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : "Y3Vyc29yOnYyOpHOAImmJQ=="
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk9-binaries/releases/tag/jdk-9%2B181",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/tag/jdk-9%2B181"
+    }, {
+      "id" : "MDc6UmVsZWFzZTEyMzEyNTQw",
+      "name" : "jdk-9.0.4+11",
+      "prerelease" : null,
+      "publishedAt" : "2018-08-08T15:47:38Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK9U-jdk_ppc64le_linux_hotspot_9.0.4_11.tar.gz",
+          "size" : 190486132,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jdk_ppc64le_linux_hotspot_9.0.4_11.tar.gz",
+          "downloadCount" : 395,
+          "updatedAt" : "2018-10-08T14:24:04Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_ppc64le_linux_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "size" : 147,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jdk_ppc64le_linux_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "downloadCount" : 2016,
+          "updatedAt" : "2018-10-08T14:24:04Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_s390x_linux_hotspot_9.0.4_11.tar.gz",
+          "size" : 193599768,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jdk_s390x_linux_hotspot_9.0.4_11.tar.gz",
+          "downloadCount" : 2078,
+          "updatedAt" : "2018-10-08T14:24:15Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_s390x_linux_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "size" : 143,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jdk_s390x_linux_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "downloadCount" : 2010,
+          "updatedAt" : "2018-10-08T14:24:15Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_x64_linux_hotspot_9.0.4_11.tar.gz",
+          "size" : 207457012,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jdk_x64_linux_hotspot_9.0.4_11.tar.gz",
+          "downloadCount" : 4855,
+          "updatedAt" : "2018-10-08T14:24:26Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_x64_linux_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "size" : 139,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jdk_x64_linux_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "downloadCount" : 2895,
+          "updatedAt" : "2018-10-08T14:24:26Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64le_linux_hotspot_9.0.4_11.tar.gz",
+          "size" : 36863119,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jre_ppc64le_linux_hotspot_9.0.4_11.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2018-10-08T14:24:29Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64le_linux_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "size" : 147,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jre_ppc64le_linux_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "downloadCount" : 252,
+          "updatedAt" : "2018-10-08T14:24:30Z"
+        }, {
+          "name" : "OpenJDK9U-jre_s390x_linux_hotspot_9.0.4_11.tar.gz",
+          "size" : 38517337,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jre_s390x_linux_hotspot_9.0.4_11.tar.gz",
+          "downloadCount" : 7,
+          "updatedAt" : "2018-10-08T14:24:33Z"
+        }, {
+          "name" : "OpenJDK9U-jre_s390x_linux_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "size" : 143,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jre_s390x_linux_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "downloadCount" : 250,
+          "updatedAt" : "2018-10-08T14:24:34Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "size" : 139,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jre_x64_linux_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "downloadCount" : 997,
+          "updatedAt" : "2018-10-08T14:24:44Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_hotspot_9.0.4_11.tar.gz",
+          "size" : 41550665,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jre_x64_linux_hotspot_9.0.4_11.tar.gz",
+          "downloadCount" : 1018,
+          "updatedAt" : "2018-10-09T09:17:26Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_ppc64_aix_hotspot_9.0.4_11.tar.gz",
+          "size" : 198434805,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jdk_ppc64_aix_hotspot_9.0.4_11.tar.gz",
+          "downloadCount" : 69,
+          "updatedAt" : "2018-10-09T10:38:55Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_ppc64_aix_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "size" : 139,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jdk_ppc64_aix_hotspot_9.0.4_11.tar.gz.sha256.txt",
+          "downloadCount" : 165,
+          "updatedAt" : "2018-10-09T10:38:56Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_x64_windows_hotspot_9.0.4_11.zip",
+          "size" : 192420108,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jdk_x64_windows_hotspot_9.0.4_11.zip",
+          "downloadCount" : 1620,
+          "updatedAt" : "2018-10-09T10:39:10Z"
+        }, {
+          "name" : "OpenJDK9U-jdk_x64_windows_hotspot_9.0.4_11.zip.sha256.txt",
+          "size" : 140,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jdk_x64_windows_hotspot_9.0.4_11.zip.sha256.txt",
+          "downloadCount" : 217,
+          "updatedAt" : "2018-10-09T10:39:11Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_windows_hotspot_9.0.4_11.zip",
+          "size" : 36248166,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jre_x64_windows_hotspot_9.0.4_11.zip",
+          "downloadCount" : 721,
+          "updatedAt" : "2018-10-09T10:39:15Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_windows_hotspot_9.0.4_11.zip.sha256.txt",
+          "size" : 140,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk-9.0.4%2B11/OpenJDK9U-jre_x64_windows_hotspot_9.0.4_11.zip.sha256.txt",
+          "downloadCount" : 188,
+          "updatedAt" : "2018-10-09T10:39:15Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : "Y3Vyc29yOnYyOpHOAIo2Qg=="
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk9-binaries/releases/tag/jdk-9.0.4%2B11",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/tag/jdk-9.0.4%2B11"
+    }, {
+      "id" : "MDc6UmVsZWFzZTEzMTUwMjcz",
+      "name" : "jdk9u-2018-09-28-13-38",
+      "prerelease" : null,
+      "publishedAt" : "2018-09-28T13:38:06Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK9U_aarch64_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "size" : 190769874,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_aarch64_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-09-28T13:38:24Z"
+        }, {
+          "name" : "OpenJDK9U_aarch64_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_aarch64_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2018-09-28T13:38:26Z"
+        }, {
+          "name" : "OpenJDK9U-jre_aarch64_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "size" : 37148959,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_aarch64_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-28T13:38:29Z"
+        }, {
+          "name" : "OpenJDK9U-jre_aarch64_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_aarch64_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:38:30Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64_aix_openj9_2018-09-28-13-38.tar.gz",
+          "size" : 89298608,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_ppc64_aix_openj9_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-28T13:38:36Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64_aix_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_ppc64_aix_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:38:37Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64le_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "size" : 36863719,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_ppc64le_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-28T13:38:40Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64le_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_ppc64le_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:38:40Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64le_linux_openj9_2018-09-28-13-38.tar.gz",
+          "size" : 43651291,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_ppc64le_linux_openj9_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-28T13:38:44Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64le_linux_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_ppc64le_linux_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:38:44Z"
+        }, {
+          "name" : "OpenJDK9U-jre_s390x_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "size" : 38520450,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_s390x_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-28T13:38:50Z"
+        }, {
+          "name" : "OpenJDK9U-jre_s390x_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_s390x_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:38:50Z"
+        }, {
+          "name" : "OpenJDK9U-jre_s390x_linux_openj9_2018-09-28-13-38.tar.gz",
+          "size" : 44617357,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_s390x_linux_openj9_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-28T13:38:54Z"
+        }, {
+          "name" : "OpenJDK9U-jre_s390x_linux_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_s390x_linux_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:38:54Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "size" : 41551772,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_x64_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-28T13:38:58Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_x64_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:38:59Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_openj9_2018-09-28-13-38.tar.gz",
+          "size" : 43673424,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_x64_linux_openj9_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-28T13:39:02Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_x64_linux_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:39:02Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_openj9_linuxXL_2018-09-28-13-38.tar.gz",
+          "size" : 43653430,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_x64_linux_openj9_linuxXL_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-28T13:39:06Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_openj9_linuxXL_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 129,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_x64_linux_openj9_linuxXL_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:39:06Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_windows_hotspot_2018-09-28-13-38.zip",
+          "size" : 36248703,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_x64_windows_hotspot_2018-09-28-13-38.zip",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:39:19Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_windows_hotspot_2018-09-28-13-38.zip.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U-jre_x64_windows_hotspot_2018-09-28-13-38.zip.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-09-28T13:39:20Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64_aix_hotspot_2018-09-28-13-38.tar.gz",
+          "size" : 198443421,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_ppc64_aix_hotspot_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:39:32Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64_aix_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_ppc64_aix_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:39:32Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64_aix_openj9_2018-09-28-13-38.tar.gz",
+          "size" : 282950487,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_ppc64_aix_openj9_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-28T13:39:52Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64_aix_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_ppc64_aix_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:39:52Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64le_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "size" : 190489605,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_ppc64le_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-09-28T13:40:05Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64le_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_ppc64le_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2018-09-28T13:40:07Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64le_linux_openj9_2018-09-28-13-38.tar.gz",
+          "size" : 212206059,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_ppc64le_linux_openj9_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-09-28T13:40:19Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64le_linux_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_ppc64le_linux_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2018-09-28T13:40:19Z"
+        }, {
+          "name" : "OpenJDK9U_s390x_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "size" : 193604039,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_s390x_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-09-28T13:40:31Z"
+        }, {
+          "name" : "OpenJDK9U_s390x_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_s390x_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2018-09-28T13:40:31Z"
+        }, {
+          "name" : "OpenJDK9U_s390x_linux_openj9_2018-09-28-13-38.tar.gz",
+          "size" : 214305204,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_s390x_linux_openj9_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-09-28T13:40:59Z"
+        }, {
+          "name" : "OpenJDK9U_s390x_linux_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 119,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_s390x_linux_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2018-09-28T13:41:00Z"
+        }, {
+          "name" : "OpenJDK9U_x64_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "size" : 207455736,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_x64_linux_hotspot_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2018-09-28T13:41:14Z"
+        }, {
+          "name" : "OpenJDK9U_x64_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_x64_linux_hotspot_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2018-09-28T13:41:14Z"
+        }, {
+          "name" : "OpenJDK9U_x64_linux_openj9_2018-09-28-13-38.tar.gz",
+          "size" : 212238473,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_x64_linux_openj9_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2018-09-28T13:41:26Z"
+        }, {
+          "name" : "OpenJDK9U_x64_linux_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_x64_linux_openj9_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 10,
+          "updatedAt" : "2018-09-28T13:41:27Z"
+        }, {
+          "name" : "OpenJDK9U_x64_linux_openj9_linuxXL_2018-09-28-13-38.tar.gz",
+          "size" : 212206396,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_x64_linux_openj9_linuxXL_2018-09-28-13-38.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-28T13:41:39Z"
+        }, {
+          "name" : "OpenJDK9U_x64_linux_openj9_linuxXL_2018-09-28-13-38.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_x64_linux_openj9_linuxXL_2018-09-28-13-38.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:41:40Z"
+        }, {
+          "name" : "OpenJDK9U_x64_windows_hotspot_2018-09-28-13-38.zip",
+          "size" : 192429989,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_x64_windows_hotspot_2018-09-28-13-38.zip",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-28T13:41:51Z"
+        }, {
+          "name" : "OpenJDK9U_x64_windows_hotspot_2018-09-28-13-38.zip.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-28-13-38/OpenJDK9U_x64_windows_hotspot_2018-09-28-13-38.zip.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-09-28T13:41:52Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : "Y3Vyc29yOnYyOpHOAIedbA=="
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk9-binaries/releases/tag/jdk9u-2018-09-28-13-38",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/tag/jdk9u-2018-09-28-13-38"
+    }, {
+      "id" : "MDc6UmVsZWFzZTEzMTYzNTkz",
+      "name" : "jdk9u-2018-09-29-12-46",
+      "prerelease" : null,
+      "publishedAt" : "2018-09-29T12:46:54Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK9U_aarch64_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "size" : 190769943,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_aarch64_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-09-29T12:47:04Z"
+        }, {
+          "name" : "OpenJDK9U_aarch64_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_aarch64_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 12,
+          "updatedAt" : "2018-09-29T12:47:05Z"
+        }, {
+          "name" : "OpenJDK9U-jre_aarch64_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "size" : 37148888,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_aarch64_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T12:47:08Z"
+        }, {
+          "name" : "OpenJDK9U-jre_aarch64_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_aarch64_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:47:08Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64_aix_openj9_2018-09-29-12-46.tar.gz",
+          "size" : 89299367,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_ppc64_aix_openj9_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T12:47:14Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64_aix_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_ppc64_aix_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:47:15Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64le_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "size" : 36994375,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_ppc64le_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T12:47:17Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64le_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_ppc64le_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:47:18Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64le_linux_openj9_2018-09-29-12-46.tar.gz",
+          "size" : 43508481,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_ppc64le_linux_openj9_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T12:47:21Z"
+        }, {
+          "name" : "OpenJDK9U-jre_ppc64le_linux_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_ppc64le_linux_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:47:21Z"
+        }, {
+          "name" : "OpenJDK9U-jre_s390x_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "size" : 38520556,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_s390x_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T12:47:24Z"
+        }, {
+          "name" : "OpenJDK9U-jre_s390x_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_s390x_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:47:25Z"
+        }, {
+          "name" : "OpenJDK9U-jre_s390x_linux_openj9_2018-09-29-12-46.tar.gz",
+          "size" : 44617277,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_s390x_linux_openj9_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T12:47:28Z"
+        }, {
+          "name" : "OpenJDK9U-jre_s390x_linux_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_s390x_linux_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:47:28Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "size" : 41551292,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_x64_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T12:47:31Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_x64_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:47:32Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_openj9_2018-09-29-12-46.tar.gz",
+          "size" : 43671194,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_x64_linux_openj9_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:47:35Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_x64_linux_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:47:35Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_openj9_linuxXL_2018-09-29-12-46.tar.gz",
+          "size" : 43652691,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_x64_linux_openj9_linuxXL_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T12:47:39Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_linux_openj9_linuxXL_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 129,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_x64_linux_openj9_linuxXL_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:47:39Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_windows_hotspot_2018-09-29-12-46.zip",
+          "size" : 36247543,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_x64_windows_hotspot_2018-09-29-12-46.zip",
+          "downloadCount" : 5,
+          "updatedAt" : "2018-09-29T12:47:42Z"
+        }, {
+          "name" : "OpenJDK9U-jre_x64_windows_hotspot_2018-09-29-12-46.zip.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U-jre_x64_windows_hotspot_2018-09-29-12-46.zip.sha256.txt",
+          "downloadCount" : 3,
+          "updatedAt" : "2018-09-29T12:47:43Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64_aix_hotspot_2018-09-29-12-46.tar.gz",
+          "size" : 198447449,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_ppc64_aix_hotspot_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T12:47:53Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64_aix_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_ppc64_aix_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:47:54Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64_aix_openj9_2018-09-29-12-46.tar.gz",
+          "size" : 282954643,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_ppc64_aix_openj9_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T12:48:35Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64_aix_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_ppc64_aix_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:48:35Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64le_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "size" : 190515942,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_ppc64le_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-09-29T12:48:46Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64le_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_ppc64le_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 12,
+          "updatedAt" : "2018-09-29T12:48:46Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64le_linux_openj9_2018-09-29-12-46.tar.gz",
+          "size" : 212169869,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_ppc64le_linux_openj9_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-09-29T12:48:58Z"
+        }, {
+          "name" : "OpenJDK9U_ppc64le_linux_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_ppc64le_linux_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 12,
+          "updatedAt" : "2018-09-29T12:48:58Z"
+        }, {
+          "name" : "OpenJDK9U_s390x_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "size" : 193600617,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_s390x_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 3,
+          "updatedAt" : "2018-09-29T12:49:09Z"
+        }, {
+          "name" : "OpenJDK9U_s390x_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_s390x_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 12,
+          "updatedAt" : "2018-09-29T12:49:09Z"
+        }, {
+          "name" : "OpenJDK9U_s390x_linux_openj9_2018-09-29-12-46.tar.gz",
+          "size" : 214296411,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_s390x_linux_openj9_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-09-29T12:49:21Z"
+        }, {
+          "name" : "OpenJDK9U_s390x_linux_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 119,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_s390x_linux_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 12,
+          "updatedAt" : "2018-09-29T12:49:21Z"
+        }, {
+          "name" : "OpenJDK9U_x64_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "size" : 207452603,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_x64_linux_hotspot_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2018-09-29T12:49:31Z"
+        }, {
+          "name" : "OpenJDK9U_x64_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_x64_linux_hotspot_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 12,
+          "updatedAt" : "2018-09-29T12:49:32Z"
+        }, {
+          "name" : "OpenJDK9U_x64_linux_openj9_2018-09-29-12-46.tar.gz",
+          "size" : 212242314,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_x64_linux_openj9_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2018-09-29T12:49:44Z"
+        }, {
+          "name" : "OpenJDK9U_x64_linux_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_x64_linux_openj9_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 12,
+          "updatedAt" : "2018-09-29T12:49:44Z"
+        }, {
+          "name" : "OpenJDK9U_x64_linux_openj9_linuxXL_2018-09-29-12-46.tar.gz",
+          "size" : 212217414,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_x64_linux_openj9_linuxXL_2018-09-29-12-46.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:49:56Z"
+        }, {
+          "name" : "OpenJDK9U_x64_linux_openj9_linuxXL_2018-09-29-12-46.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_x64_linux_openj9_linuxXL_2018-09-29-12-46.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-09-29T12:49:56Z"
+        }, {
+          "name" : "OpenJDK9U_x64_windows_hotspot_2018-09-29-12-46.zip",
+          "size" : 192430789,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_x64_windows_hotspot_2018-09-29-12-46.zip",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-09-29T12:50:07Z"
+        }, {
+          "name" : "OpenJDK9U_x64_windows_hotspot_2018-09-29-12-46.zip.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/download/jdk9u-2018-09-29-12-46/OpenJDK9U_x64_windows_hotspot_2018-09-29-12-46.zip.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-09-29T12:50:08Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : "Y3Vyc29yOnYyOpHOAIfKPA=="
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk9-binaries/releases/tag/jdk9u-2018-09-29-12-46",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk9-binaries/releases/tag/jdk9u-2018-09-29-12-46"
+    } ],
+    "pageInfo" : {
+      "hasNextPage" : false,
+      "endCursor" : null
+    }
+  }
+}

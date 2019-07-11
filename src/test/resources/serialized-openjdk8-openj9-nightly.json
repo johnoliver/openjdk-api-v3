@@ -1,0 +1,205 @@
+{
+  "releases" : {
+    "nodes" : [ {
+      "id" : "MDc6UmVsZWFzZTExNTY4MjM1",
+      "name" : "jdk8u172-b11-201806201400",
+      "prerelease" : null,
+      "publishedAt" : "2018-06-20T13:08:35Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK8-OPENJ9_ppc64_AIX_201806201400.sha256.txt",
+          "size" : 105,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_ppc64_AIX_201806201400.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-06-20T13:08:36Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_ppc64_AIX_201806201400.tar.gz",
+          "size" : 87222707,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_ppc64_AIX_201806201400.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-06-20T13:08:44Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_s390x_Linux_201806201400.sha256.txt",
+          "size" : 107,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_s390x_Linux_201806201400.sha256.txt",
+          "downloadCount" : 86,
+          "updatedAt" : "2018-06-20T13:12:48Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_s390x_Linux_201806201400.tar.gz",
+          "size" : 89740035,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_s390x_Linux_201806201400.tar.gz",
+          "downloadCount" : 20,
+          "updatedAt" : "2018-06-20T13:12:54Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x64_Windows_201806201400.sha256.txt",
+          "size" : 111,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_x64_Windows_201806201400.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-06-20T13:16:12Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x64_Windows_201806201400.zip",
+          "size" : 88856116,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_x64_Windows_201806201400.zip",
+          "downloadCount" : 34,
+          "updatedAt" : "2018-06-20T13:16:17Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x64_LinuxLH_201806201400.sha256.txt",
+          "size" : 107,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_x64_LinuxLH_201806201400.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-06-20T14:14:51Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x64_LinuxLH_201806201400.tar.gz",
+          "size" : 88473272,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_x64_LinuxLH_201806201400.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-06-20T14:14:57Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x32_Windows_201806201400.sha256.txt",
+          "size" : 111,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_x32_Windows_201806201400.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-06-20T14:18:37Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x32_Windows_201806201400.zip",
+          "size" : 81309654,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_x32_Windows_201806201400.zip",
+          "downloadCount" : 25,
+          "updatedAt" : "2018-06-20T14:18:42Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x64_Linux_201806201400.sha256.txt",
+          "size" : 105,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_x64_Linux_201806201400.sha256.txt",
+          "downloadCount" : 33,
+          "updatedAt" : "2018-06-20T21:06:40Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x64_Linux_201806201400.tar.gz",
+          "size" : 88439877,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_x64_Linux_201806201400.tar.gz",
+          "downloadCount" : 29,
+          "updatedAt" : "2018-06-20T21:06:45Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_ppc64le_Linux_201806201400.sha256.txt",
+          "size" : 109,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_ppc64le_Linux_201806201400.sha256.txt",
+          "downloadCount" : 27,
+          "updatedAt" : "2018-06-20T23:10:29Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_ppc64le_Linux_201806201400.tar.gz",
+          "size" : 87658469,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806201400/OpenJDK8-OPENJ9_ppc64le_Linux_201806201400.tar.gz",
+          "downloadCount" : 9,
+          "updatedAt" : "2018-06-20T23:10:38Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : "Y3Vyc29yOnYyOpHOAHQaKQ=="
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk8-openj9-nightly/releases/tag/jdk8u172-b11-201806201400",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/tag/jdk8u172-b11-201806201400"
+    }, {
+      "id" : "MDc6UmVsZWFzZTExNjkwNzgz",
+      "name" : "jdk8u172-b11-201806281320",
+      "prerelease" : null,
+      "publishedAt" : "2018-06-28T12:31:25Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK8-OPENJ9_x64_Windows_201806281320.sha256.txt",
+          "size" : 111,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_x64_Windows_201806281320.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-06-28T12:31:26Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x64_Windows_201806281320.zip",
+          "size" : 88857519,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_x64_Windows_201806281320.zip",
+          "downloadCount" : 1,
+          "updatedAt" : "2018-06-28T12:31:31Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x64_LinuxLH_201806281320.sha256.txt",
+          "size" : 107,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_x64_LinuxLH_201806281320.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-06-28T12:54:09Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x64_LinuxLH_201806281320.tar.gz",
+          "size" : 88419593,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_x64_LinuxLH_201806281320.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2018-06-28T12:54:14Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_ppc64_AIX_201806281320.sha256.txt",
+          "size" : 105,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_ppc64_AIX_201806281320.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-06-28T12:56:22Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_ppc64_AIX_201806281320.tar.gz",
+          "size" : 87219417,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_ppc64_AIX_201806281320.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-06-28T12:56:27Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x32_Windows_201806281320.sha256.txt",
+          "size" : 111,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_x32_Windows_201806281320.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-06-28T12:57:10Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x32_Windows_201806281320.zip",
+          "size" : 81309182,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_x32_Windows_201806281320.zip",
+          "downloadCount" : 8,
+          "updatedAt" : "2018-06-28T12:57:15Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x64_Linux_201806281320.sha256.txt",
+          "size" : 105,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_x64_Linux_201806281320.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-06-28T21:24:18Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_x64_Linux_201806281320.tar.gz",
+          "size" : 88497920,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_x64_Linux_201806281320.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-06-28T21:24:24Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_ppc64le_Linux_201806281320.sha256.txt",
+          "size" : 109,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_ppc64le_Linux_201806281320.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-06-29T09:08:47Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_ppc64le_Linux_201806281320.tar.gz",
+          "size" : 87658765,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_ppc64le_Linux_201806281320.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2018-06-29T09:08:52Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_s390x_Linux_201806281320.sha256.txt",
+          "size" : 107,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_s390x_Linux_201806281320.sha256.txt",
+          "downloadCount" : 24,
+          "updatedAt" : "2018-06-29T16:36:21Z"
+        }, {
+          "name" : "OpenJDK8-OPENJ9_s390x_Linux_201806281320.tar.gz",
+          "size" : 89742438,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/download/jdk8u172-b11-201806281320/OpenJDK8-OPENJ9_s390x_Linux_201806281320.tar.gz",
+          "downloadCount" : 9,
+          "updatedAt" : "2018-06-29T16:36:26Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : "Y3Vyc29yOnYyOpHOAHWyrw=="
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk8-openj9-nightly/releases/tag/jdk8u172-b11-201806281320",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk8-openj9-nightly/releases/tag/jdk8u172-b11-201806281320"
+    } ],
+    "pageInfo" : {
+      "hasNextPage" : false,
+      "endCursor" : null
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "releases" : {
+    "nodes" : [ ],
+    "pageInfo" : {
+      "hasNextPage" : false,
+      "endCursor" : null
+    }
+  }
+}

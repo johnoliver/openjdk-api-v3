@@ -1,0 +1,2381 @@
+{
+  "releases" : {
+    "nodes" : [ {
+      "id" : "MDc6UmVsZWFzZTE4NzEzODI4",
+      "name" : "jdk-11.0.4+11_openj9-0.15.1",
+      "prerelease" : null,
+      "publishedAt" : "2019-07-18T18:34:33Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 217979876,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_ppc64_aix_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-18T18:34:53Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 487,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_ppc64_aix_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-18T18:34:54Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 129,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_ppc64_aix_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:34:54Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 199228019,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_ppc64le_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-18T18:35:12Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 555,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_ppc64le_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-18T18:35:13Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 133,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_ppc64le_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 13,
+          "updatedAt" : "2019-07-18T18:35:16Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 199007453,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_s390x_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-18T18:35:34Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 553,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_s390x_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-18T18:35:35Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_s390x_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 13,
+          "updatedAt" : "2019-07-18T18:35:35Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 197188240,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 209,
+          "updatedAt" : "2019-07-18T18:35:53Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 551,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-18T18:35:53Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 129,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 20,
+          "updatedAt" : "2019-07-18T18:35:54Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_linuxXL_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 197200493,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_linux_openj9_linuxXL_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 14,
+          "updatedAt" : "2019-07-18T18:36:12Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_linuxXL_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 551,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_linux_openj9_linuxXL_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:36:13Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_linuxXL_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 137,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_linux_openj9_linuxXL_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:36:14Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_11.0.4_11_openj9-0.15.1.pkg",
+          "size" : 196397009,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_mac_openj9_11.0.4_11_openj9-0.15.1.pkg",
+          "downloadCount" : 19,
+          "updatedAt" : "2019-07-18T18:36:31Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_11.0.4_11_openj9-0.15.1.pkg.json",
+          "size" : 549,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_mac_openj9_11.0.4_11_openj9-0.15.1.pkg.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:36:33Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_11.0.4_11_openj9-0.15.1.pkg.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_mac_openj9_11.0.4_11_openj9-0.15.1.pkg.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-18T18:36:33Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 196042493,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_mac_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 20,
+          "updatedAt" : "2019-07-18T18:36:51Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 549,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_mac_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:36:52Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_mac_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-07-18T18:36:53Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.pkg",
+          "size" : 196380623,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.pkg",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-18T18:37:11Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.pkg.json",
+          "size" : 549,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.pkg.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:37:13Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.pkg.sha256.txt",
+          "size" : 132,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.pkg.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-18T18:37:13Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 196031578,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-07-18T18:37:31Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 549,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:37:33Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 135,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:37:33Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_11.0.4_11_openj9-0.15.1.msi",
+          "size" : 179879936,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_windows_openj9_11.0.4_11_openj9-0.15.1.msi",
+          "downloadCount" : 110,
+          "updatedAt" : "2019-07-18T18:37:50Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_11.0.4_11_openj9-0.15.1.msi.json",
+          "size" : 553,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_windows_openj9_11.0.4_11_openj9-0.15.1.msi.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:37:51Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_11.0.4_11_openj9-0.15.1.msi.sha256.txt",
+          "size" : 128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_windows_openj9_11.0.4_11_openj9-0.15.1.msi.sha256.txt",
+          "downloadCount" : 14,
+          "updatedAt" : "2019-07-18T18:37:52Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_11.0.4_11_openj9-0.15.1.zip",
+          "size" : 200890048,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_windows_openj9_11.0.4_11_openj9-0.15.1.zip",
+          "downloadCount" : 151,
+          "updatedAt" : "2019-07-18T18:38:15Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_11.0.4_11_openj9-0.15.1.zip.json",
+          "size" : 553,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_windows_openj9_11.0.4_11_openj9-0.15.1.zip.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:38:16Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_11.0.4_11_openj9-0.15.1.zip.sha256.txt",
+          "size" : 128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_windows_openj9_11.0.4_11_openj9-0.15.1.zip.sha256.txt",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-07-18T18:38:17Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_11.0.4_11_openj9-0.15.1.msi",
+          "size" : 179920896,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_11.0.4_11_openj9-0.15.1.msi",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-07-18T18:38:33Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_11.0.4_11_openj9-0.15.1.msi.json",
+          "size" : 553,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_11.0.4_11_openj9-0.15.1.msi.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:38:34Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_11.0.4_11_openj9-0.15.1.msi.sha256.txt",
+          "size" : 138,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_11.0.4_11_openj9-0.15.1.msi.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-18T18:38:34Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_11.0.4_11_openj9-0.15.1.zip",
+          "size" : 200873637,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_11.0.4_11_openj9-0.15.1.zip",
+          "downloadCount" : 18,
+          "updatedAt" : "2019-07-18T18:38:53Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_11.0.4_11_openj9-0.15.1.zip.json",
+          "size" : 553,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_11.0.4_11_openj9-0.15.1.zip.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:38:54Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_11.0.4_11_openj9-0.15.1.zip.sha256.txt",
+          "size" : 138,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_11.0.4_11_openj9-0.15.1.zip.sha256.txt",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-18T18:38:54Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 51192190,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_ppc64_aix_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-18T18:39:01Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 487,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_ppc64_aix_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-18T18:39:01Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 129,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_ppc64_aix_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-18T18:39:02Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 42141669,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_ppc64le_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:39:08Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 555,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_ppc64le_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-18T18:39:08Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 133,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_ppc64le_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 12,
+          "updatedAt" : "2019-07-18T18:39:11Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 42124226,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_s390x_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:39:16Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 553,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_s390x_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-18T18:39:17Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_s390x_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 12,
+          "updatedAt" : "2019-07-18T18:39:17Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 41233615,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 22,
+          "updatedAt" : "2019-07-18T18:39:22Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 551,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:39:23Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 129,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_linux_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 13,
+          "updatedAt" : "2019-07-18T18:39:23Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_linuxXL_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 41218881,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_linux_openj9_linuxXL_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 9,
+          "updatedAt" : "2019-07-18T18:39:28Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_linuxXL_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 551,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_linux_openj9_linuxXL_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:39:29Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_linuxXL_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 137,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_linux_openj9_linuxXL_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:39:29Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_11.0.4_11_openj9-0.15.1.pkg",
+          "size" : 40396748,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_mac_openj9_11.0.4_11_openj9-0.15.1.pkg",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-18T18:39:34Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_11.0.4_11_openj9-0.15.1.pkg.json",
+          "size" : 549,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_mac_openj9_11.0.4_11_openj9-0.15.1.pkg.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:39:35Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_11.0.4_11_openj9-0.15.1.pkg.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_mac_openj9_11.0.4_11_openj9-0.15.1.pkg.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-18T18:39:36Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 40152859,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_mac_openj9_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 6,
+          "updatedAt" : "2019-07-18T18:39:41Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 549,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_mac_openj9_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:39:42Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_mac_openj9_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:39:42Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.pkg",
+          "size" : 40384455,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.pkg",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-18T18:39:47Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.pkg.json",
+          "size" : 549,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.pkg.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:39:48Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.pkg.sha256.txt",
+          "size" : 132,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.pkg.sha256.txt",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-18T18:39:49Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.tar.gz",
+          "size" : 40147511,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.tar.gz",
+          "downloadCount" : 5,
+          "updatedAt" : "2019-07-18T18:39:54Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "size" : 549,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.tar.gz.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:39:55Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "size" : 135,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.4_11_openj9-0.15.1.tar.gz.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:39:55Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_11.0.4_11_openj9-0.15.1.msi",
+          "size" : 30830592,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_windows_openj9_11.0.4_11_openj9-0.15.1.msi",
+          "downloadCount" : 41,
+          "updatedAt" : "2019-07-18T18:40:00Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_11.0.4_11_openj9-0.15.1.msi.json",
+          "size" : 553,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_windows_openj9_11.0.4_11_openj9-0.15.1.msi.json",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-18T18:40:00Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_11.0.4_11_openj9-0.15.1.msi.sha256.txt",
+          "size" : 128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_windows_openj9_11.0.4_11_openj9-0.15.1.msi.sha256.txt",
+          "downloadCount" : 13,
+          "updatedAt" : "2019-07-18T18:40:01Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_11.0.4_11_openj9-0.15.1.zip",
+          "size" : 41436259,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_windows_openj9_11.0.4_11_openj9-0.15.1.zip",
+          "downloadCount" : 40,
+          "updatedAt" : "2019-07-18T18:40:08Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_11.0.4_11_openj9-0.15.1.zip.json",
+          "size" : 553,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.4%2B11_openj9-0.15.1/OpenJDK11U-jre_x64_windows_openj9_11.0.4_11_openj9-0.15.1.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-18T18:40:12Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : null
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk11-binaries/releases/tag/jdk-11.0.4%2B11_openj9-0.15.1",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/tag/jdk-11.0.4%2B11_openj9-0.15.1"
+    }, {
+      "id" : "MDc6UmVsZWFzZTE1MjI5NzA3",
+      "name" : "jdk-11.0.2+9",
+      "prerelease" : null,
+      "publishedAt" : "2019-01-29T02:10:20Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK11U-jdk_x64_linux_hotspot_11.0.2_9.tar.gz",
+          "size" : 195592867,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_linux_hotspot_11.0.2_9.tar.gz",
+          "downloadCount" : 6351936,
+          "updatedAt" : "2019-01-29T02:10:32Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "size" : 115,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "downloadCount" : 6990,
+          "updatedAt" : "2019-01-29T02:10:32Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_hotspot_11.0.2_9.tar.gz",
+          "size" : 189838454,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_mac_hotspot_11.0.2_9.tar.gz",
+          "downloadCount" : 17410,
+          "updatedAt" : "2019-01-29T02:10:42Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "size" : 113,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_mac_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "downloadCount" : 197,
+          "updatedAt" : "2019-01-29T02:10:43Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_hotspot_11.0.2_9.zip",
+          "size" : 192942075,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_windows_hotspot_11.0.2_9.zip",
+          "downloadCount" : 167034,
+          "updatedAt" : "2019-01-29T02:10:54Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_hotspot_11.0.2_9.zip.sha256.txt",
+          "size" : 114,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_windows_hotspot_11.0.2_9.zip.sha256.txt",
+          "downloadCount" : 621,
+          "updatedAt" : "2019-01-29T02:10:55Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.2_9.zip",
+          "size" : 174229841,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.2_9.zip",
+          "downloadCount" : 2540,
+          "updatedAt" : "2019-01-29T02:11:05Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.2_9.zip.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x86-32_windows_hotspot_11.0.2_9.zip.sha256.txt",
+          "downloadCount" : 170,
+          "updatedAt" : "2019-01-29T02:11:06Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_hotspot_11.0.2_9.tar.gz",
+          "size" : 41525058,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_linux_hotspot_11.0.2_9.tar.gz",
+          "downloadCount" : 3134,
+          "updatedAt" : "2019-01-29T02:11:09Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "size" : 115,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "downloadCount" : 971,
+          "updatedAt" : "2019-01-29T02:11:09Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_hotspot_11.0.2_9.tar.gz",
+          "size" : 37926429,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_mac_hotspot_11.0.2_9.tar.gz",
+          "downloadCount" : 1165,
+          "updatedAt" : "2019-01-29T02:11:12Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "size" : 113,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_mac_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "downloadCount" : 75,
+          "updatedAt" : "2019-01-29T02:11:13Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_hotspot_11.0.2_9.zip",
+          "size" : 38513185,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.2_9.zip",
+          "downloadCount" : 614713,
+          "updatedAt" : "2019-01-29T02:11:17Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_hotspot_11.0.2_9.zip.sha256.txt",
+          "size" : 114,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_windows_hotspot_11.0.2_9.zip.sha256.txt",
+          "downloadCount" : 386,
+          "updatedAt" : "2019-01-29T02:11:17Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x86-32_windows_hotspot_11.0.2_9.zip",
+          "size" : 34175393,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.2_9.zip",
+          "downloadCount" : 2262,
+          "updatedAt" : "2019-01-29T02:11:20Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x86-32_windows_hotspot_11.0.2_9.zip.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x86-32_windows_hotspot_11.0.2_9.zip.sha256.txt",
+          "downloadCount" : 190,
+          "updatedAt" : "2019-01-29T02:11:21Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "size" : 200410501,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_ppc64le_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "downloadCount" : 464,
+          "updatedAt" : "2019-01-30T19:44:30Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "size" : 160,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_ppc64le_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "downloadCount" : 75,
+          "updatedAt" : "2019-01-30T19:44:31Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "size" : 200138705,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_s390x_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "downloadCount" : 18,
+          "updatedAt" : "2019-01-30T19:44:42Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "size" : 156,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_s390x_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "downloadCount" : 67,
+          "updatedAt" : "2019-01-30T19:44:42Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_linuxXL_11.0.2_9-openj9-0.12.0.tar.gz",
+          "size" : 198670163,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_linux_openj9_linuxXL_11.0.2_9-openj9-0.12.0.tar.gz",
+          "downloadCount" : 2849,
+          "updatedAt" : "2019-01-31T12:31:29Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "size" : 198640369,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "downloadCount" : 688,
+          "updatedAt" : "2019-01-30T19:45:06Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "size" : 152,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "downloadCount" : 88,
+          "updatedAt" : "2019-01-30T19:45:07Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.2_9-openj9-0.12.0.tar.gz",
+          "size" : 194700805,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.2_9-openj9-0.12.0.tar.gz",
+          "downloadCount" : 32,
+          "updatedAt" : "2019-01-31T12:33:46Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "size" : 194718798,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_mac_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "downloadCount" : 391,
+          "updatedAt" : "2019-01-30T19:45:53Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "size" : 148,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_mac_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "downloadCount" : 22,
+          "updatedAt" : "2019-01-30T19:45:54Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_11.0.2_9_openj9-0.12.0.zip",
+          "size" : 199680669,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_windows_openj9_11.0.2_9_openj9-0.12.0.zip",
+          "downloadCount" : 524,
+          "updatedAt" : "2019-01-30T19:46:06Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_11.0.2_9_openj9-0.12.0.zip.sha256.txt",
+          "size" : 153,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_windows_openj9_11.0.2_9_openj9-0.12.0.zip.sha256.txt",
+          "downloadCount" : 26,
+          "updatedAt" : "2019-01-30T19:46:06Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "size" : 43302247,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_ppc64le_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "downloadCount" : 5,
+          "updatedAt" : "2019-01-30T19:46:10Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "size" : 160,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_ppc64le_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "downloadCount" : 17,
+          "updatedAt" : "2019-01-30T19:46:10Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_linuxXL_11.0.2_9-openj9-0.12.0.tar.gz",
+          "size" : 42487953,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_linux_openj9_linuxXL_11.0.2_9-openj9-0.12.0.tar.gz",
+          "downloadCount" : 21,
+          "updatedAt" : "2019-01-31T12:54:53Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_linuxXL_11.0.2_9-openj9-0.12.0.tar.gz.sha256.txt",
+          "size" : 160,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_linux_openj9_linuxXL_11.0.2_9-openj9-0.12.0.tar.gz.sha256.txt",
+          "downloadCount" : 27,
+          "updatedAt" : "2019-01-31T12:54:53Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "size" : 42509367,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "downloadCount" : 80,
+          "updatedAt" : "2019-01-30T19:46:17Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "size" : 152,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_linux_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "downloadCount" : 23,
+          "updatedAt" : "2019-01-30T19:46:18Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.2_9-openj9-0.12.0.tar.gz",
+          "size" : 40103637,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.2_9-openj9-0.12.0.tar.gz",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-01-31T13:02:40Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "size" : 40111131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_mac_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "downloadCount" : 55,
+          "updatedAt" : "2019-01-30T19:46:25Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "size" : 148,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_mac_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "downloadCount" : 20,
+          "updatedAt" : "2019-01-30T19:46:26Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_11.0.2_9_openj9-0.12.0.zip",
+          "size" : 41429759,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_windows_openj9_11.0.2_9_openj9-0.12.0.zip",
+          "downloadCount" : 176,
+          "updatedAt" : "2019-01-30T19:46:30Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_11.0.2_9_openj9-0.12.0.zip.sha256.txt",
+          "size" : 153,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_windows_openj9_11.0.2_9_openj9-0.12.0.zip.sha256.txt",
+          "downloadCount" : 25,
+          "updatedAt" : "2019-01-30T19:46:30Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "size" : 215068249,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_ppc64_aix_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "downloadCount" : 36,
+          "updatedAt" : "2019-01-30T20:38:46Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "size" : 152,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_ppc64_aix_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "downloadCount" : 15,
+          "updatedAt" : "2019-01-30T20:38:46Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "size" : 50432042,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_ppc64_aix_openj9_11.0.2_9_openj9-0.12.0.tar.gz",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-01-30T20:38:50Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "size" : 152,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_ppc64_aix_openj9_11.0.2_9_openj9-0.12.0.tar.gz.sha256.txt",
+          "downloadCount" : 15,
+          "updatedAt" : "2019-01-30T20:38:51Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_linuxXL_11.0.2_9-openj9-0.12.0.tar.gz.sha256.txt",
+          "size" : 160,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_linux_openj9_linuxXL_11.0.2_9-openj9-0.12.0.tar.gz.sha256.txt",
+          "downloadCount" : 1528,
+          "updatedAt" : "2019-01-31T12:42:53Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.2_9-openj9-0.12.0.tar.gz.sha256.txt",
+          "size" : 155,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_x64_mac_openj9_macosXL_11.0.2_9-openj9-0.12.0.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-01-31T12:42:53Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.2_9-openj9-0.12.0.tar.gz.sha256.txt",
+          "size" : 156,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_x64_mac_openj9_macosXL_11.0.2_9-openj9-0.12.0.tar.gz.sha256.txt",
+          "downloadCount" : 19,
+          "updatedAt" : "2019-01-31T13:02:40Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_aarch64_linux_hotspot_11.0.2_9.tar.gz",
+          "size" : 194151421,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_aarch64_linux_hotspot_11.0.2_9.tar.gz",
+          "downloadCount" : 189,
+          "updatedAt" : "2019-03-26T13:10:58Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_aarch64_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "size" : 119,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_aarch64_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "downloadCount" : 321,
+          "updatedAt" : "2019-03-26T13:10:58Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_arm_linux_hotspot_11.0.2_9.tar.gz",
+          "size" : 174822495,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_arm_linux_hotspot_11.0.2_9.tar.gz",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-03-26T13:11:14Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_arm_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "size" : 115,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_arm_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "downloadCount" : 9,
+          "updatedAt" : "2019-03-26T13:11:15Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_hotspot_11.0.2_9.tar.gz",
+          "size" : 180384673,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_ppc64le_linux_hotspot_11.0.2_9.tar.gz",
+          "downloadCount" : 391,
+          "updatedAt" : "2019-03-26T13:11:31Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "size" : 119,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_ppc64le_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "downloadCount" : 314,
+          "updatedAt" : "2019-03-26T13:11:32Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_hotspot_11.0.2_9.tar.gz",
+          "size" : 175033017,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_s390x_linux_hotspot_11.0.2_9.tar.gz",
+          "downloadCount" : 694,
+          "updatedAt" : "2019-03-26T13:11:42Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jdk_s390x_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "downloadCount" : 336,
+          "updatedAt" : "2019-03-26T13:11:43Z"
+        }, {
+          "name" : "OpenJDK11U-jre_aarch64_linux_hotspot_11.0.2_9.tar.gz",
+          "size" : 40769115,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_aarch64_linux_hotspot_11.0.2_9.tar.gz",
+          "downloadCount" : 50,
+          "updatedAt" : "2019-03-26T13:11:46Z"
+        }, {
+          "name" : "OpenJDK11U-jre_aarch64_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "size" : 119,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_aarch64_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "downloadCount" : 307,
+          "updatedAt" : "2019-03-26T13:11:47Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_hotspot_11.0.2_9.tar.gz",
+          "size" : 38399533,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_ppc64le_linux_hotspot_11.0.2_9.tar.gz",
+          "downloadCount" : 29,
+          "updatedAt" : "2019-03-26T13:11:49Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "size" : 119,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_ppc64le_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "downloadCount" : 303,
+          "updatedAt" : "2019-03-26T13:11:50Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_hotspot_11.0.2_9.tar.gz",
+          "size" : 38213860,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_s390x_linux_hotspot_11.0.2_9.tar.gz",
+          "downloadCount" : 42,
+          "updatedAt" : "2019-03-26T13:11:52Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.2%2B9/OpenJDK11U-jre_s390x_linux_hotspot_11.0.2_9.tar.gz.sha256.txt",
+          "downloadCount" : 326,
+          "updatedAt" : "2019-03-26T13:11:53Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : null
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk11-binaries/releases/tag/jdk-11.0.2%2B9",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/tag/jdk-11.0.2%2B9"
+    }, {
+      "id" : "MDc6UmVsZWFzZTE4NjM0MDc0",
+      "name" : "jdk11u-2019-07-16-04-03",
+      "prerelease" : null,
+      "publishedAt" : "2019-07-16T04:05:26Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK11U-jdk_aarch64_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "size" : 194904767,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_aarch64_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 17,
+          "updatedAt" : "2019-07-16T04:05:45Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_aarch64_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "size" : 579,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_aarch64_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:05:45Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_aarch64_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_aarch64_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 57,
+          "updatedAt" : "2019-07-16T04:05:46Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_aarch64_linux_openj9_2019-07-16-04-03.tar.gz",
+          "size" : 183063835,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_aarch64_linux_openj9_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-07-16T04:06:03Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_aarch64_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "size" : 578,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_aarch64_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:06:03Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_aarch64_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_aarch64_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 56,
+          "updatedAt" : "2019-07-16T04:06:04Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_arm_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "size" : 183229998,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_arm_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-16T04:06:22Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_arm_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_arm_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:06:23Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_arm_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_arm_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 57,
+          "updatedAt" : "2019-07-16T04:06:24Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_hotspot_2019-07-16-04-03.tar.gz",
+          "size" : 186475745,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_ppc64_aix_hotspot_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-16T04:06:41Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_hotspot_2019-07-16-04-03.tar.gz.json",
+          "size" : 511,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_ppc64_aix_hotspot_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:06:42Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_ppc64_aix_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:06:43Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_openj9_2019-07-16-04-03.tar.gz",
+          "size" : 217992102,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_ppc64_aix_openj9_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 42,
+          "updatedAt" : "2019-07-16T04:07:02Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_openj9_2019-07-16-04-03.tar.gz.json",
+          "size" : 510,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_ppc64_aix_openj9_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:07:02Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_ppc64_aix_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:07:03Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "size" : 181273331,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_ppc64le_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 6,
+          "updatedAt" : "2019-07-16T04:07:19Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "size" : 579,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_ppc64le_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:07:19Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_ppc64le_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 57,
+          "updatedAt" : "2019-07-16T04:07:20Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_openj9_2019-07-16-04-03.tar.gz",
+          "size" : 199263329,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_ppc64le_linux_openj9_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 44,
+          "updatedAt" : "2019-07-16T04:07:40Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "size" : 578,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_ppc64le_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:07:40Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_ppc64le_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 55,
+          "updatedAt" : "2019-07-16T04:07:41Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "size" : 175843409,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_s390x_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 9,
+          "updatedAt" : "2019-07-16T04:07:56Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_s390x_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:07:56Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_s390x_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 57,
+          "updatedAt" : "2019-07-16T04:07:57Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_openj9_2019-07-16-04-03.tar.gz",
+          "size" : 199017963,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_s390x_linux_openj9_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 32,
+          "updatedAt" : "2019-07-16T04:08:15Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "size" : 576,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_s390x_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:08:15Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_s390x_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 55,
+          "updatedAt" : "2019-07-16T04:08:16Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "size" : 196807535,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 28,
+          "updatedAt" : "2019-07-16T04:08:33Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:08:33Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 57,
+          "updatedAt" : "2019-07-16T04:08:34Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_2019-07-16-04-03.tar.gz",
+          "size" : 197196584,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_linux_openj9_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 104,
+          "updatedAt" : "2019-07-16T04:08:51Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "size" : 574,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:08:52Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 56,
+          "updatedAt" : "2019-07-16T04:08:52Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_linuxXL_2019-07-16-04-03.tar.gz",
+          "size" : 197173118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_linux_openj9_linuxXL_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 33,
+          "updatedAt" : "2019-07-16T04:09:10Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_linuxXL_2019-07-16-04-03.tar.gz.json",
+          "size" : 574,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_linux_openj9_linuxXL_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:09:10Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_linuxXL_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 130,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_linux_openj9_linuxXL_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:09:11Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_hotspot_2019-07-16-04-03.pkg",
+          "size" : 190699472,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_hotspot_2019-07-16-04-03.pkg",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-16T04:09:28Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_hotspot_2019-07-16-04-03.pkg.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_hotspot_2019-07-16-04-03.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:09:28Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_hotspot_2019-07-16-04-03.pkg.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_hotspot_2019-07-16-04-03.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:09:29Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_hotspot_2019-07-16-04-03.tar.gz",
+          "size" : 190339293,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_hotspot_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-07-16T04:09:46Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_hotspot_2019-07-16-04-03.tar.gz.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_hotspot_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:09:47Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:09:48Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_2019-07-16-04-03.pkg",
+          "size" : 196409300,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_openj9_2019-07-16-04-03.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:10:05Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_2019-07-16-04-03.pkg.json",
+          "size" : 572,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_openj9_2019-07-16-04-03.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:10:06Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_2019-07-16-04-03.pkg.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_openj9_2019-07-16-04-03.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:10:06Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_2019-07-16-04-03.tar.gz",
+          "size" : 196058232,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_openj9_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 5,
+          "updatedAt" : "2019-07-16T04:10:24Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_2019-07-16-04-03.tar.gz.json",
+          "size" : 572,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_openj9_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:10:25Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:10:25Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-07-16-04-03.pkg",
+          "size" : 196397005,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-07-16-04-03.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:10:43Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-07-16-04-03.pkg.json",
+          "size" : 572,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-07-16-04-03.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:10:44Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-07-16-04-03.pkg.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-07-16-04-03.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:10:44Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-07-16-04-03.tar.gz",
+          "size" : 196047302,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:11:03Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-07-16-04-03.tar.gz.json",
+          "size" : 572,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:11:03Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:11:04Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_hotspot_2019-07-16-04-03.msi",
+          "size" : 177356800,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_hotspot_2019-07-16-04-03.msi",
+          "downloadCount" : 20,
+          "updatedAt" : "2019-07-16T04:11:21Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_hotspot_2019-07-16-04-03.msi.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_hotspot_2019-07-16-04-03.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:11:21Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_hotspot_2019-07-16-04-03.msi.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_hotspot_2019-07-16-04-03.msi.sha256.txt",
+          "downloadCount" : 57,
+          "updatedAt" : "2019-07-16T04:11:22Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_hotspot_2019-07-16-04-03.zip",
+          "size" : 200235944,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_hotspot_2019-07-16-04-03.zip",
+          "downloadCount" : 13,
+          "updatedAt" : "2019-07-16T04:11:39Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_hotspot_2019-07-16-04-03.zip.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_hotspot_2019-07-16-04-03.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:11:40Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_hotspot_2019-07-16-04-03.zip.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_hotspot_2019-07-16-04-03.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-16T04:11:40Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_2019-07-16-04-03.msi",
+          "size" : 179814400,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_openj9_2019-07-16-04-03.msi",
+          "downloadCount" : 6,
+          "updatedAt" : "2019-07-16T04:11:58Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_2019-07-16-04-03.msi.json",
+          "size" : 576,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_openj9_2019-07-16-04-03.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:11:58Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_2019-07-16-04-03.msi.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_openj9_2019-07-16-04-03.msi.sha256.txt",
+          "downloadCount" : 55,
+          "updatedAt" : "2019-07-16T04:11:58Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_2019-07-16-04-03.zip",
+          "size" : 200836552,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_openj9_2019-07-16-04-03.zip",
+          "downloadCount" : 85,
+          "updatedAt" : "2019-07-16T04:12:18Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_2019-07-16-04-03.zip.json",
+          "size" : 576,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_openj9_2019-07-16-04-03.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:12:18Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_2019-07-16-04-03.zip.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_openj9_2019-07-16-04-03.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-16T04:12:19Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-07-16-04-03.msi",
+          "size" : 179937280,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-07-16-04-03.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:12:35Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-07-16-04-03.msi.json",
+          "size" : 576,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-07-16-04-03.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:12:36Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-07-16-04-03.msi.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-07-16-04-03.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:12:36Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-07-16-04-03.zip",
+          "size" : 200897198,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-07-16-04-03.zip",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-16T04:13:00Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-07-16-04-03.zip.json",
+          "size" : 576,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-07-16-04-03.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:13:01Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-07-16-04-03.zip.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-07-16-04-03.zip.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:13:02Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x86-32_windows_hotspot_2019-07-16-04-03.msi",
+          "size" : 158658560,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x86-32_windows_hotspot_2019-07-16-04-03.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:13:17Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x86-32_windows_hotspot_2019-07-16-04-03.msi.json",
+          "size" : 580,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x86-32_windows_hotspot_2019-07-16-04-03.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:13:18Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x86-32_windows_hotspot_2019-07-16-04-03.msi.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x86-32_windows_hotspot_2019-07-16-04-03.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:13:18Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x86-32_windows_hotspot_2019-07-16-04-03.zip",
+          "size" : 178641892,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x86-32_windows_hotspot_2019-07-16-04-03.zip",
+          "downloadCount" : 7,
+          "updatedAt" : "2019-07-16T04:13:35Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x86-32_windows_hotspot_2019-07-16-04-03.zip.json",
+          "size" : 580,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x86-32_windows_hotspot_2019-07-16-04-03.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:13:35Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x86-32_windows_hotspot_2019-07-16-04-03.zip.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jdk_x86-32_windows_hotspot_2019-07-16-04-03.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-16T04:13:36Z"
+        }, {
+          "name" : "OpenJDK11U-jre_aarch64_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "size" : 41105020,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_aarch64_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-07-16T04:13:41Z"
+        }, {
+          "name" : "OpenJDK11U-jre_aarch64_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "size" : 579,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_aarch64_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:13:41Z"
+        }, {
+          "name" : "OpenJDK11U-jre_aarch64_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_aarch64_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 56,
+          "updatedAt" : "2019-07-16T04:13:42Z"
+        }, {
+          "name" : "OpenJDK11U-jre_aarch64_linux_openj9_2019-07-16-04-03.tar.gz",
+          "size" : 39951125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_aarch64_linux_openj9_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-07-16T04:13:46Z"
+        }, {
+          "name" : "OpenJDK11U-jre_aarch64_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "size" : 578,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_aarch64_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:13:47Z"
+        }, {
+          "name" : "OpenJDK11U-jre_aarch64_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_aarch64_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 55,
+          "updatedAt" : "2019-07-16T04:13:47Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_hotspot_2019-07-16-04-03.tar.gz",
+          "size" : 43393494,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_ppc64_aix_hotspot_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-16T04:13:52Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_hotspot_2019-07-16-04-03.tar.gz.json",
+          "size" : 511,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_ppc64_aix_hotspot_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:13:53Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_ppc64_aix_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:13:53Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_openj9_2019-07-16-04-03.tar.gz",
+          "size" : 51220721,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_ppc64_aix_openj9_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:13:59Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_openj9_2019-07-16-04-03.tar.gz.json",
+          "size" : 510,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_ppc64_aix_openj9_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:13:59Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_ppc64_aix_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:13:59Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "size" : 38855542,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_ppc64le_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-16T04:14:03Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "size" : 579,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_ppc64le_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:04Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_ppc64le_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 56,
+          "updatedAt" : "2019-07-16T04:14:05Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_openj9_2019-07-16-04-03.tar.gz",
+          "size" : 42249750,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_ppc64le_linux_openj9_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-16T04:14:09Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "size" : 578,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_ppc64le_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:10Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_ppc64le_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 55,
+          "updatedAt" : "2019-07-16T04:14:10Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "size" : 38557573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_s390x_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-16T04:14:14Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_s390x_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:15Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_s390x_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 56,
+          "updatedAt" : "2019-07-16T04:14:15Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_openj9_2019-07-16-04-03.tar.gz",
+          "size" : 42128957,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_s390x_linux_openj9_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-07-16T04:14:22Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "size" : 576,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_s390x_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:23Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_s390x_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 55,
+          "updatedAt" : "2019-07-16T04:14:23Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "size" : 42063614,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_linux_hotspot_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 13,
+          "updatedAt" : "2019-07-16T04:14:28Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "size" : 575,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_linux_hotspot_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:29Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_linux_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 56,
+          "updatedAt" : "2019-07-16T04:14:29Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_2019-07-16-04-03.tar.gz",
+          "size" : 41226647,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_linux_openj9_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 9,
+          "updatedAt" : "2019-07-16T04:14:34Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "size" : 574,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_linux_openj9_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:35Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_linux_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 55,
+          "updatedAt" : "2019-07-16T04:14:35Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_linuxXL_2019-07-16-04-03.tar.gz",
+          "size" : 41209324,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_linux_openj9_linuxXL_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-07-16T04:14:40Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_linuxXL_2019-07-16-04-03.tar.gz.json",
+          "size" : 574,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_linux_openj9_linuxXL_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:40Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_linuxXL_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 130,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_linux_openj9_linuxXL_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:40Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_hotspot_2019-07-16-04-03.pkg",
+          "size" : 38332365,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_hotspot_2019-07-16-04-03.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:45Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_hotspot_2019-07-16-04-03.pkg.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_hotspot_2019-07-16-04-03.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:45Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_hotspot_2019-07-16-04-03.pkg.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_hotspot_2019-07-16-04-03.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:46Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_hotspot_2019-07-16-04-03.tar.gz",
+          "size" : 38097404,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_hotspot_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 7,
+          "updatedAt" : "2019-07-16T04:14:50Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_hotspot_2019-07-16-04-03.tar.gz.json",
+          "size" : 573,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_hotspot_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:50Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_hotspot_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:51Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_2019-07-16-04-03.pkg",
+          "size" : 40392657,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_openj9_2019-07-16-04-03.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:55Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_2019-07-16-04-03.pkg.json",
+          "size" : 572,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_openj9_2019-07-16-04-03.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:56Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_2019-07-16-04-03.pkg.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_openj9_2019-07-16-04-03.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:14:56Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_2019-07-16-04-03.tar.gz",
+          "size" : 40154882,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_openj9_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:00Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_2019-07-16-04-03.tar.gz.json",
+          "size" : 572,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_openj9_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:01Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_openj9_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:02Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-07-16-04-03.pkg",
+          "size" : 40384460,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-07-16-04-03.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:13Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-07-16-04-03.pkg.json",
+          "size" : 572,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-07-16-04-03.pkg.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:14Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-07-16-04-03.pkg.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-07-16-04-03.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:14Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-07-16-04-03.tar.gz",
+          "size" : 40148650,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-07-16-04-03.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:19Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-07-16-04-03.tar.gz.json",
+          "size" : 572,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-07-16-04-03.tar.gz.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:20Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-07-16-04-03.tar.gz.sha256.txt",
+          "size" : 128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-07-16-04-03.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:20Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_hotspot_2019-07-16-04-03.msi",
+          "size" : 30781440,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_hotspot_2019-07-16-04-03.msi",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-07-16T04:15:24Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_hotspot_2019-07-16-04-03.msi.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_hotspot_2019-07-16-04-03.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:24Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_hotspot_2019-07-16-04-03.msi.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_hotspot_2019-07-16-04-03.msi.sha256.txt",
+          "downloadCount" : 56,
+          "updatedAt" : "2019-07-16T04:15:25Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_hotspot_2019-07-16-04-03.zip",
+          "size" : 41947271,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_hotspot_2019-07-16-04-03.zip",
+          "downloadCount" : 14,
+          "updatedAt" : "2019-07-16T04:15:29Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_hotspot_2019-07-16-04-03.zip.json",
+          "size" : 577,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_hotspot_2019-07-16-04-03.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:30Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_hotspot_2019-07-16-04-03.zip.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_hotspot_2019-07-16-04-03.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-16T04:15:30Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_2019-07-16-04-03.msi",
+          "size" : 30785536,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_openj9_2019-07-16-04-03.msi",
+          "downloadCount" : 7,
+          "updatedAt" : "2019-07-16T04:15:36Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_2019-07-16-04-03.msi.json",
+          "size" : 576,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_openj9_2019-07-16-04-03.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:36Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_2019-07-16-04-03.msi.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_openj9_2019-07-16-04-03.msi.sha256.txt",
+          "downloadCount" : 55,
+          "updatedAt" : "2019-07-16T04:15:37Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_2019-07-16-04-03.zip",
+          "size" : 41404935,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_openj9_2019-07-16-04-03.zip",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-16T04:15:42Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_2019-07-16-04-03.zip.json",
+          "size" : 576,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_openj9_2019-07-16-04-03.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:42Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_2019-07-16-04-03.zip.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_openj9_2019-07-16-04-03.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-16T04:15:43Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-07-16-04-03.msi",
+          "size" : 30838784,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-07-16-04-03.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:46Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-07-16-04-03.msi.json",
+          "size" : 576,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-07-16-04-03.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:47Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-07-16-04-03.msi.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-07-16-04-03.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:47Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-07-16-04-03.zip",
+          "size" : 41431620,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-07-16-04-03.zip",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-16T04:15:52Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-07-16-04-03.zip.json",
+          "size" : 576,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-07-16-04-03.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:52Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-07-16-04-03.zip.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-07-16-04-03.zip.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:53Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x86-32_windows_hotspot_2019-07-16-04-03.msi",
+          "size" : 26578944,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x86-32_windows_hotspot_2019-07-16-04-03.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:56Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x86-32_windows_hotspot_2019-07-16-04-03.msi.json",
+          "size" : 580,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x86-32_windows_hotspot_2019-07-16-04-03.msi.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:56Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x86-32_windows_hotspot_2019-07-16-04-03.msi.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x86-32_windows_hotspot_2019-07-16-04-03.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:15:57Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x86-32_windows_hotspot_2019-07-16-04-03.zip",
+          "size" : 36300470,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x86-32_windows_hotspot_2019-07-16-04-03.zip",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-07-16T04:16:01Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x86-32_windows_hotspot_2019-07-16-04-03.zip.json",
+          "size" : 580,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x86-32_windows_hotspot_2019-07-16-04-03.zip.json",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-07-16T04:16:01Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x86-32_windows_hotspot_2019-07-16-04-03.zip.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-07-16-04-03/OpenJDK11U-jre_x86-32_windows_hotspot_2019-07-16-04-03.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-07-16T04:16:02Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : null
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk11-binaries/releases/tag/jdk11u-2019-07-16-04-03",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/tag/jdk11u-2019-07-16-04-03"
+    }, {
+      "id" : "MDc6UmVsZWFzZTE4MDE3ODU4",
+      "name" : "jdk11u-2019-06-15-19-50",
+      "prerelease" : null,
+      "publishedAt" : "2019-06-15T19:52:21Z",
+      "releaseAssets" : {
+        "nodes" : [ {
+          "name" : "OpenJDK11U-jdk_aarch64_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "size" : 194147418,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_aarch64_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 10,
+          "updatedAt" : "2019-06-15T19:52:36Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_aarch64_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_aarch64_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 43,
+          "updatedAt" : "2019-06-15T19:52:37Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_aarch64_linux_openj9_2019-06-15-19-50.tar.gz",
+          "size" : 174092885,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_aarch64_linux_openj9_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-06-15T19:52:50Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_aarch64_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_aarch64_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:52:50Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_arm_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "size" : 182499929,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_arm_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 6,
+          "updatedAt" : "2019-06-15T19:53:04Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_arm_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_arm_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 17,
+          "updatedAt" : "2019-06-15T19:53:05Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_hotspot_2019-06-15-19-50.tar.gz",
+          "size" : 184693076,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_ppc64_aix_hotspot_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:53:19Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_ppc64_aix_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:53:19Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_openj9_2019-06-15-19-50.tar.gz",
+          "size" : 217946160,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_ppc64_aix_openj9_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-06-15T19:53:36Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64_aix_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_ppc64_aix_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:53:36Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "size" : 180435606,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_ppc64le_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 6,
+          "updatedAt" : "2019-06-15T19:53:50Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_ppc64le_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:53:51Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_openj9_2019-06-15-19-50.tar.gz",
+          "size" : 199167125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_ppc64le_linux_openj9_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 12,
+          "updatedAt" : "2019-06-15T19:54:05Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_ppc64le_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_ppc64le_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:54:06Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "size" : 175084967,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_s390x_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 6,
+          "updatedAt" : "2019-06-15T19:54:19Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_s390x_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:54:19Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_openj9_2019-06-15-19-50.tar.gz",
+          "size" : 198940874,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_s390x_linux_openj9_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 12,
+          "updatedAt" : "2019-06-15T19:54:33Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_s390x_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_s390x_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:54:34Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "size" : 196042674,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 18,
+          "updatedAt" : "2019-06-15T19:54:49Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:54:49Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_2019-06-15-19-50.tar.gz",
+          "size" : 197114382,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_linux_openj9_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 23,
+          "updatedAt" : "2019-06-15T19:55:04Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:55:05Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_linuxXL_2019-06-15-19-50.tar.gz",
+          "size" : 197095338,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_linux_openj9_linuxXL_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 8,
+          "updatedAt" : "2019-06-15T19:55:19Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_linux_openj9_linuxXL_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 130,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_linux_openj9_linuxXL_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:55:20Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_hotspot_2019-06-15-19-50.pkg",
+          "size" : 190240730,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_mac_hotspot_2019-06-15-19-50.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:55:34Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_hotspot_2019-06-15-19-50.pkg.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_mac_hotspot_2019-06-15-19-50.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:55:35Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_hotspot_2019-06-15-19-50.tar.gz",
+          "size" : 189891068,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_mac_hotspot_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:55:49Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_mac_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:55:49Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_2019-06-15-19-50.pkg",
+          "size" : 196311004,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_mac_openj9_2019-06-15-19-50.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:56:04Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_2019-06-15-19-50.pkg.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_mac_openj9_2019-06-15-19-50.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:56:04Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_2019-06-15-19-50.tar.gz",
+          "size" : 195949489,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_mac_openj9_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:56:25Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_mac_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:56:25Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-06-15-19-50.pkg",
+          "size" : 196298707,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-06-15-19-50.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:56:39Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-06-15-19-50.pkg.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-06-15-19-50.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:56:40Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-06-15-19-50.tar.gz",
+          "size" : 195945251,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:56:55Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_mac_openj9_macosXL_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:56:55Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_hotspot_2019-06-15-19-50.msi",
+          "size" : 177020928,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_windows_hotspot_2019-06-15-19-50.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:57:13Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_hotspot_2019-06-15-19-50.msi.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_windows_hotspot_2019-06-15-19-50.msi.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:57:13Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_hotspot_2019-06-15-19-50.zip",
+          "size" : 199859393,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_windows_hotspot_2019-06-15-19-50.zip",
+          "downloadCount" : 6,
+          "updatedAt" : "2019-06-15T19:57:29Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_hotspot_2019-06-15-19-50.zip.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_windows_hotspot_2019-06-15-19-50.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-06-15T19:57:30Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_2019-06-15-19-50.msi",
+          "size" : 179740672,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_windows_openj9_2019-06-15-19-50.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:57:43Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_2019-06-15-19-50.msi.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_windows_openj9_2019-06-15-19-50.msi.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:57:43Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_2019-06-15-19-50.zip",
+          "size" : 200740563,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_windows_openj9_2019-06-15-19-50.zip",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:57:58Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_2019-06-15-19-50.zip.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_windows_openj9_2019-06-15-19-50.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-06-15T19:57:58Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-06-15-19-50.msi",
+          "size" : 179781632,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-06-15-19-50.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:58:12Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-06-15-19-50.msi.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-06-15-19-50.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:58:12Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-06-15-19-50.zip",
+          "size" : 200724807,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-06-15-19-50.zip",
+          "downloadCount" : 6,
+          "updatedAt" : "2019-06-15T19:58:27Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-06-15-19-50.zip.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x64_windows_openj9_windowsXL_2019-06-15-19-50.zip.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:58:28Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x86-32_windows_hotspot_2019-06-15-19-50.msi",
+          "size" : 158359552,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x86-32_windows_hotspot_2019-06-15-19-50.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:58:40Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x86-32_windows_hotspot_2019-06-15-19-50.msi.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x86-32_windows_hotspot_2019-06-15-19-50.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:58:40Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x86-32_windows_hotspot_2019-06-15-19-50.zip",
+          "size" : 178297474,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x86-32_windows_hotspot_2019-06-15-19-50.zip",
+          "downloadCount" : 6,
+          "updatedAt" : "2019-06-15T19:58:53Z"
+        }, {
+          "name" : "OpenJDK11U-jdk_x86-32_windows_hotspot_2019-06-15-19-50.zip.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jdk_x86-32_windows_hotspot_2019-06-15-19-50.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-06-15T19:58:54Z"
+        }, {
+          "name" : "OpenJDK11U-jre_aarch64_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "size" : 40788199,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_aarch64_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-06-15T19:58:57Z"
+        }, {
+          "name" : "OpenJDK11U-jre_aarch64_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_aarch64_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 38,
+          "updatedAt" : "2019-06-15T19:58:58Z"
+        }, {
+          "name" : "OpenJDK11U-jre_aarch64_linux_openj9_2019-06-15-19-50.tar.gz",
+          "size" : 35479057,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_aarch64_linux_openj9_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-06-15T19:59:01Z"
+        }, {
+          "name" : "OpenJDK11U-jre_aarch64_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_aarch64_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:59:01Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_hotspot_2019-06-15-19-50.tar.gz",
+          "size" : 42571985,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_ppc64_aix_hotspot_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:05Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_ppc64_aix_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:05Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_openj9_2019-06-15-19-50.tar.gz",
+          "size" : 51175288,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_ppc64_aix_openj9_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:09Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64_aix_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_ppc64_aix_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:10Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "size" : 38492224,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_ppc64le_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-06-15T19:59:13Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 127,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_ppc64le_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:59:13Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_openj9_2019-06-15-19-50.tar.gz",
+          "size" : 42218771,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_ppc64le_linux_openj9_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-06-15T19:59:16Z"
+        }, {
+          "name" : "OpenJDK11U-jre_ppc64le_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 126,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_ppc64le_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:59:17Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "size" : 38235956,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_s390x_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-06-15T19:59:20Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_s390x_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:59:20Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_openj9_2019-06-15-19-50.tar.gz",
+          "size" : 42110526,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_s390x_linux_openj9_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 2,
+          "updatedAt" : "2019-06-15T19:59:24Z"
+        }, {
+          "name" : "OpenJDK11U-jre_s390x_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 124,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_s390x_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:59:24Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "size" : 41735706,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_linux_hotspot_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-06-15T19:59:27Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 123,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_linux_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:59:28Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_2019-06-15-19-50.tar.gz",
+          "size" : 41204391,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_linux_openj9_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 3,
+          "updatedAt" : "2019-06-15T19:59:31Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_linux_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T19:59:32Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_linuxXL_2019-06-15-19-50.tar.gz",
+          "size" : 41190893,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_linux_openj9_linuxXL_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:35Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_linux_openj9_linuxXL_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 130,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_linux_openj9_linuxXL_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:35Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_hotspot_2019-06-15-19-50.pkg",
+          "size" : 38160330,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_mac_hotspot_2019-06-15-19-50.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:38Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_hotspot_2019-06-15-19-50.pkg.sha256.txt",
+          "size" : 118,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_mac_hotspot_2019-06-15-19-50.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:39Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_hotspot_2019-06-15-19-50.tar.gz",
+          "size" : 37928940,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_mac_hotspot_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 4,
+          "updatedAt" : "2019-06-15T19:59:42Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_mac_hotspot_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:42Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_2019-06-15-19-50.pkg",
+          "size" : 40363994,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_mac_openj9_2019-06-15-19-50.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:46Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_2019-06-15-19-50.pkg.sha256.txt",
+          "size" : 117,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_mac_openj9_2019-06-15-19-50.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:46Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_2019-06-15-19-50.tar.gz",
+          "size" : 40129431,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_mac_openj9_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:49Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 120,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_mac_openj9_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:50Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-06-15-19-50.pkg",
+          "size" : 40363984,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-06-15-19-50.pkg",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:53Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-06-15-19-50.pkg.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-06-15-19-50.pkg.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:53Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-06-15-19-50.tar.gz",
+          "size" : 40124737,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-06-15-19-50.tar.gz",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:57Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-06-15-19-50.tar.gz.sha256.txt",
+          "size" : 128,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_mac_openj9_macosXL_2019-06-15-19-50.tar.gz.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T19:59:57Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_hotspot_2019-06-15-19-50.msi",
+          "size" : 30683136,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_windows_hotspot_2019-06-15-19-50.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T20:00:00Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_hotspot_2019-06-15-19-50.msi.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_windows_hotspot_2019-06-15-19-50.msi.sha256.txt",
+          "downloadCount" : 15,
+          "updatedAt" : "2019-06-15T20:00:00Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_hotspot_2019-06-15-19-50.zip",
+          "size" : 41814261,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_windows_hotspot_2019-06-15-19-50.zip",
+          "downloadCount" : 9,
+          "updatedAt" : "2019-06-15T20:00:04Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_hotspot_2019-06-15-19-50.zip.sha256.txt",
+          "size" : 122,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_windows_hotspot_2019-06-15-19-50.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-06-15T20:00:04Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_2019-06-15-19-50.msi",
+          "size" : 30777344,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_windows_openj9_2019-06-15-19-50.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T20:00:07Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_2019-06-15-19-50.msi.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_windows_openj9_2019-06-15-19-50.msi.sha256.txt",
+          "downloadCount" : 16,
+          "updatedAt" : "2019-06-15T20:00:07Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_2019-06-15-19-50.zip",
+          "size" : 41378736,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_windows_openj9_2019-06-15-19-50.zip",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T20:00:11Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_2019-06-15-19-50.zip.sha256.txt",
+          "size" : 121,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_windows_openj9_2019-06-15-19-50.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-06-15T20:00:11Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-06-15-19-50.msi",
+          "size" : 30785536,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-06-15-19-50.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T20:00:14Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-06-15-19-50.msi.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-06-15-19-50.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T20:00:15Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-06-15-19-50.zip",
+          "size" : 41370716,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-06-15-19-50.zip",
+          "downloadCount" : 5,
+          "updatedAt" : "2019-06-15T20:00:18Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-06-15-19-50.zip.sha256.txt",
+          "size" : 131,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x64_windows_openj9_windowsXL_2019-06-15-19-50.zip.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T20:00:18Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x86-32_windows_hotspot_2019-06-15-19-50.msi",
+          "size" : 26513408,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x86-32_windows_hotspot_2019-06-15-19-50.msi",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T20:00:21Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x86-32_windows_hotspot_2019-06-15-19-50.msi.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x86-32_windows_hotspot_2019-06-15-19-50.msi.sha256.txt",
+          "downloadCount" : 0,
+          "updatedAt" : "2019-06-15T20:00:21Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x86-32_windows_hotspot_2019-06-15-19-50.zip",
+          "size" : 36194530,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x86-32_windows_hotspot_2019-06-15-19-50.zip",
+          "downloadCount" : 9,
+          "updatedAt" : "2019-06-15T20:00:24Z"
+        }, {
+          "name" : "OpenJDK11U-jre_x86-32_windows_hotspot_2019-06-15-19-50.zip.sha256.txt",
+          "size" : 125,
+          "downloadUrl" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk11u-2019-06-15-19-50/OpenJDK11U-jre_x86-32_windows_hotspot_2019-06-15-19-50.zip.sha256.txt",
+          "downloadCount" : 1,
+          "updatedAt" : "2019-06-15T20:00:24Z"
+        } ],
+        "pageInfo" : {
+          "hasNextPage" : false,
+          "endCursor" : null
+        }
+      },
+      "resourcePath" : "/AdoptOpenJDK/openjdk11-binaries/releases/tag/jdk11u-2019-06-15-19-50",
+      "url" : "https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/tag/jdk11u-2019-06-15-19-50"
+    } ],
+    "pageInfo" : {
+      "hasNextPage" : false,
+      "endCursor" : null
+    }
+  }
+}
