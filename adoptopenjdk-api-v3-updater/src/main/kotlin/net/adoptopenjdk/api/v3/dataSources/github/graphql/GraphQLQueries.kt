@@ -1,0 +1,27 @@
+package net.adoptopenjdk.api.v3.dataSources.github.graphql
+
+import com.fasterxml.jackson.annotation.JsonCreator
+import com.fasterxml.jackson.annotation.JsonProperty
+import net.adoptopenjdk.api.v3.dataSources.github.graphql.models.GHAssetNode
+import net.adoptopenjdk.api.v3.dataSources.github.graphql.models.Repository
+
+/*
+    Models that encapsulate how GitHub represents its release data
+ */
+
+
+data class RateLimit @JsonCreator constructor(@JsonProperty("cost") val cost: Int,
+                                              @JsonProperty("remaining") val remaining: Int)
+
+data class PageInfo @JsonCreator constructor(@JsonProperty("hasNextPage") val hasNextPage: Boolean,
+                                             @JsonProperty("endCursor") val endCursor: String?)
+
+abstract class HasRateLimit(@JsonProperty("rateLimit") val rateLimit: RateLimit) {
+}
+
+class QueryData @JsonCreator constructor(@JsonProperty("repository") val repository: Repository?,
+                                         @JsonProperty("rateLimit") rateLimit: RateLimit) : HasRateLimit(rateLimit)
+
+class ReleaseQueryData @JsonCreator constructor(@JsonProperty("node") val assetNode: GHAssetNode?,
+                                                @JsonProperty("rateLimit") rateLimit: RateLimit) : HasRateLimit(rateLimit)
+

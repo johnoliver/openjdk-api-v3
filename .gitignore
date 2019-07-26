@@ -3,3 +3,4 @@
 target/
 adoptopenjdk-api.iml
 .idea
+*.iml
