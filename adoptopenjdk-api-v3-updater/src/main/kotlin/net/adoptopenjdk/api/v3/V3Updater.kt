@@ -25,16 +25,16 @@ class V3Updater {
     init {
         val variantData = this.javaClass.getResource("/JSON/variants.json").readText()
         variants = JsonMapper.mapper.readValue(variantData, Variants::class.java)
-    }
-
-    fun run(instantFullUpdate: Boolean) {
-
         database = ApiPersistenceFactory.get()
         try {
             repo = APIDataStore.loadDataFromDb()
         } catch (e: java.lang.Exception) {
             repo = AdoptRepos(emptyList())
         }
+    }
+
+    fun run(instantFullUpdate: Boolean) {
+
 
         val executor = Executors.newSingleThreadScheduledExecutor()
 
