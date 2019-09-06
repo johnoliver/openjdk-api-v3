@@ -119,10 +119,6 @@ class BinaryResource {
             @PathParam("vendor")
             vendor: Vendor?
     ): Response {
-        if (release_type == null) {
-            throw BadRequestException("Unrecognised type")
-        }
-
         val releaseFilter = ReleaseFilter(release_type, version, null, vendor, null)
         val binaryFilter = BinaryFilter(os, arch, image_type, jvm_impl, heap_size)
         val releases = APIDataStore.getAdoptRepos().getFilteredReleases(releaseFilter, binaryFilter).toList()
@@ -160,7 +156,7 @@ class BinaryResource {
                 return formErrorResponse(Response.Status.BAD_REQUEST, "Multiple binaries match request: ${binary_name}")
             } else {
 
-                return Response.temporaryRedirect(URI.create(binaries.get(0).`package`.name)).build()
+                return Response.temporaryRedirect(URI.create(binaries.get(0).`package`.link)).build()
             }
         }
     }
