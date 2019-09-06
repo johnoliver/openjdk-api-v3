@@ -101,7 +101,7 @@ class AssetsResource {
 
     @GET
     @Path("version/{version}")
-    @Operation(summary = "Returns release information about the specified version. Returns GA releases only.", description = "List of information about builds that match the current query ")
+    @Operation(summary = "Returns release information about the specified version.", description = "List of information about builds that match the current query ")
     @APIResponses(value = [
         APIResponse(responseCode = "200", description = "search results matching criteria",
                 content = [Content(schema = Schema(type = SchemaType.ARRAY, implementation = Release::class))]

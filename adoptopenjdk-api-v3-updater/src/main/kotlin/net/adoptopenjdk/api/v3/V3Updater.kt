@@ -25,17 +25,17 @@ class V3Updater {
     init {
         val variantData = this.javaClass.getResource("/JSON/variants.json").readText()
         variants = JsonMapper.mapper.readValue(variantData, Variants::class.java)
+    }
+
+    fun run(instantFullUpdate: Boolean) {
 
         database = ApiPersistenceFactory.get()
         try {
             repo = APIDataStore.loadDataFromDb()
         } catch (e: java.lang.Exception) {
             repo = AdoptRepos(emptyList())
-            fullUpdate()
         }
-    }
 
-    fun run(instantFullUpdate: Boolean) {
         val executor = Executors.newSingleThreadScheduledExecutor()
 
         executor.scheduleWithFixedDelay(timerTask {
@@ -43,9 +43,16 @@ class V3Updater {
             fullUpdate()
         }, if (instantFullUpdate) 0 else 1, 1, TimeUnit.DAYS)
 
+
+        var incrementalUpdateDelay = 0;
+        if (instantFullUpdate) {
+            //if doing a full update wait 30 min before starting
+            incrementalUpdateDelay = 30
+        }
         executor.scheduleWithFixedDelay(timerTask {
             incrementalUpdate()
-        }, 0, 1, TimeUnit.MINUTES)
+        }, incrementalUpdateDelay.toLong(), 1, TimeUnit.MINUTES)
+
     }
 
     private fun fullUpdate() {

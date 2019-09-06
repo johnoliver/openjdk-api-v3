@@ -13,7 +13,6 @@ import org.eclipse.microprofile.openapi.annotations.responses.APIResponses
 import org.eclipse.microprofile.openapi.annotations.tags.Tag
 import org.jboss.resteasy.annotations.jaxrs.PathParam
 import java.net.URI
-import javax.ws.rs.BadRequestException
 import javax.ws.rs.GET
 import javax.ws.rs.Path
 import javax.ws.rs.Produces
@@ -148,15 +147,17 @@ class BinaryResource {
             return formErrorResponse(Response.Status.BAD_REQUEST, "Multiple releases match request: ${versions}")
         } else {
             val binaries = releases.get(0).binaries
-            if (binaries.size == 0) {
-                return formErrorResponse(Response.Status.NOT_FOUND, "No binaries match the request")
-            } else if (binaries.size > 1) {
-                val binary_name = binaries
-                        .map { it.`package`.name }
-                return formErrorResponse(Response.Status.BAD_REQUEST, "Multiple binaries match request: ${binary_name}")
-            } else {
+            val packages = binaries
+                    .map { it.`package` }
+                    .filterNotNull()
 
-                return Response.temporaryRedirect(URI.create(binaries.get(0).`package`.link)).build()
+            if (packages.size == 0) {
+                return formErrorResponse(Response.Status.NOT_FOUND, "No binaries match the request")
+            } else if (packages.size > 1) {
+                val names = packages.map { it.name }
+                return formErrorResponse(Response.Status.BAD_REQUEST, "Multiple binaries match request: ${names}")
+            } else {
+                return Response.temporaryRedirect(URI.create(packages.first().link)).build()
             }
         }
     }
