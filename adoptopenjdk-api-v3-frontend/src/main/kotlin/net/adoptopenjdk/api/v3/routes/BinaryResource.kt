@@ -1,6 +1,7 @@
 package net.adoptopenjdk.api.v3.routes
 
 import net.adoptopenjdk.api.v3.JsonMapper
+import net.adoptopenjdk.api.v3.OpenApiDocs
 import net.adoptopenjdk.api.v3.dataSources.APIDataStore
 import net.adoptopenjdk.api.v3.dataSources.filters.BinaryFilter
 import net.adoptopenjdk.api.v3.dataSources.filters.ReleaseFilter
@@ -44,7 +45,7 @@ class BinaryResource {
             @PathParam("arch")
             arch: Architecture?,
 
-            @Parameter(name = "release_name", description = "Release e.g jdk-11.0.4+11, jdk8u172-b00-201807161800", required = true,
+            @Parameter(name = "release_name", description = OpenApiDocs.RELASE_NAME, required = true,
                     schema = Schema(defaultValue = "jdk-11.0.4+11"))
             @PathParam("release_name")
             release_name: String?,
@@ -61,7 +62,7 @@ class BinaryResource {
             @PathParam("heap_size")
             heap_size: HeapSize?,
 
-            @Parameter(name = "vendor", description = "Vendor", required = true)
+            @Parameter(name = "vendor", description = OpenApiDocs.VENDOR, required = true)
             @PathParam("vendor")
             vendor: Vendor?
     ): Response {
@@ -85,12 +86,12 @@ class BinaryResource {
         APIResponse(responseCode = "404", description = "No matching binary found")
     ])
     fun returnBinary(
-            @Parameter(name = "feature_version", description = "Feature release version e.g. 8,9,10,11,12,13", required = true,
+            @Parameter(name = "feature_version", description = OpenApiDocs.FEATURE_RELEASE, required = true,
                     schema = Schema(defaultValue = "8"))
             @PathParam("feature_version")
             version: Int?,
 
-            @Parameter(name = "release_type", description = "Release type", required = true)
+            @Parameter(name = "release_type", description = OpenApiDocs.RELEASE_TYPE, required = true)
             @PathParam("release_type")
             release_type: ReleaseType?,
 
@@ -114,7 +115,7 @@ class BinaryResource {
             @PathParam("heap_size")
             heap_size: HeapSize?,
 
-            @Parameter(name = "vendor", description = "Vendor", required = true)
+            @Parameter(name = "vendor", description = OpenApiDocs.VENDOR, required = true)
             @PathParam("vendor")
             vendor: Vendor?
     ): Response {

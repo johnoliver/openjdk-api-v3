@@ -1,5 +1,6 @@
 package net.adoptopenjdk.api.v3.routes
 
+import net.adoptopenjdk.api.v3.OpenApiDocs
 import net.adoptopenjdk.api.v3.dataSources.APIDataStore
 import net.adoptopenjdk.api.v3.dataSources.filters.BinaryFilter
 import net.adoptopenjdk.api.v3.dataSources.filters.ReleaseFilter
@@ -35,11 +36,11 @@ class AssetsResource {
         APIResponse(responseCode = "400", description = "bad input parameter")
     ])
     fun get(
-            @Parameter(name = "release_type", description = "Release type", required = true)
+            @Parameter(name = "release_type", description = OpenApiDocs.RELEASE_TYPE, required = true)
             @PathParam("release_type")
             release_type: ReleaseType?,
 
-            @Parameter(name = "feature_version", description = "Feature release version e.g. 8,11,13.", required = true,
+            @Parameter(name = "feature_version", description = OpenApiDocs.FEATURE_RELEASE, required = true,
                     schema = Schema(defaultValue = "8"))
             @PathParam("feature_version")
             version: Int?,
@@ -64,7 +65,7 @@ class AssetsResource {
             @QueryParam("heap_size")
             heap_size: HeapSize?,
 
-            @Parameter(name = "vendor", description = "Vendor", required = false)
+            @Parameter(name = "vendor", description = OpenApiDocs.VENDOR, required = false)
             @QueryParam("vendor")
             vendor: Vendor?,
 
@@ -107,7 +108,7 @@ class AssetsResource {
         APIResponse(responseCode = "400", description = "bad input parameter")
     ])
     fun getReleaseVersion(
-            @Parameter(name = "version", description = "Semantic version range (maven style) e.g \"11.0.4+11.1\", \"[1.0,2.0)\", \"(,1.0]\".", required = true)
+            @Parameter(name = "version", description = OpenApiDocs.VERSION_RANGE, required = true)
             @PathParam("version")
             version: String,
 
@@ -131,7 +132,7 @@ class AssetsResource {
             @QueryParam("heap_size")
             heap_size: HeapSize?,
 
-            @Parameter(name = "vendor", description = "Vendor", required = false)
+            @Parameter(name = "vendor", description = OpenApiDocs.VENDOR, required = false)
             @QueryParam("vendor")
             vendor: Vendor?,
 
@@ -143,7 +144,7 @@ class AssetsResource {
             @QueryParam("lts")
             lts: Boolean?,
 
-            @Parameter(name = "release_type", description = "Release type", required = false)
+            @Parameter(name = "release_type", description = OpenApiDocs.RELEASE_TYPE, required = false)
             @QueryParam("release_type")
             release_type: ReleaseType?,
 

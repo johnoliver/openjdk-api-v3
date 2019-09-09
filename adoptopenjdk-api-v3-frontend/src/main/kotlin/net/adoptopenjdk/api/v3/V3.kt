@@ -13,10 +13,14 @@ import org.jboss.resteasy.plugins.interceptors.CorsFilter
 import javax.ws.rs.ApplicationPath
 import javax.ws.rs.core.Application
 
+object ServerConfig {
+    const val SERVER = "https://api.adoptopenjdk.net"
+}
+
 
 @OpenAPIDefinition(
         servers = [
-            Server(url = "https://api.adoptopenjdk.net")
+            Server(url = ServerConfig.SERVER)
         ],
         info = Info(title = "v3", version = "3.0.0-beta"))
 @ApplicationPath("v3")
