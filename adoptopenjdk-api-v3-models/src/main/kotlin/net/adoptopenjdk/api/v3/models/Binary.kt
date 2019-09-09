@@ -57,4 +57,39 @@ class Binary {
         this.image_type = image_type
         this.jvm_impl = jvm_impl
     }
+
+    override fun equals(other: Any?): Boolean {
+        if (this === other) return true
+        if (javaClass != other?.javaClass) return false
+
+        other as Binary
+
+        if (os != other.os) return false
+        if (architecture != other.architecture) return false
+        if (image_type != other.image_type) return false
+        if (jvm_impl != other.jvm_impl) return false
+        if (`package` != other.`package`) return false
+        if (installer != other.installer) return false
+        if (heap_size != other.heap_size) return false
+        if (download_count != other.download_count) return false
+        if (updated_at != other.updated_at) return false
+        if (scm_ref != other.scm_ref) return false
+
+        return true
+    }
+
+    override fun hashCode(): Int {
+        var result = os.hashCode()
+        result = 31 * result + architecture.hashCode()
+        result = 31 * result + image_type.hashCode()
+        result = 31 * result + jvm_impl.hashCode()
+        result = 31 * result + (`package`?.hashCode() ?: 0)
+        result = 31 * result + (installer?.hashCode() ?: 0)
+        result = 31 * result + heap_size.hashCode()
+        result = 31 * result + download_count.hashCode()
+        result = 31 * result + updated_at.hashCode()
+        result = 31 * result + (scm_ref?.hashCode() ?: 0)
+        return result
+    }
+
 }

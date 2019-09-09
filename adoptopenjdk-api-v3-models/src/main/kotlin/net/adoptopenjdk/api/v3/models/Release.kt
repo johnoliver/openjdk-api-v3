@@ -79,4 +79,38 @@ class Release {
         return Release(this, binaries.filter { binaryFilter.test(it) })
     }
 
+    override fun equals(other: Any?): Boolean {
+        if (this === other) return true
+        if (javaClass != other?.javaClass) return false
+
+        other as Release
+
+        if (id != other.id) return false
+        if (release_link != other.release_link) return false
+        if (release_name != other.release_name) return false
+        if (timestamp != other.timestamp) return false
+        if (updated_at != other.updated_at) return false
+        if (binaries != other.binaries) return false
+        if (download_count != other.download_count) return false
+        if (release_type != other.release_type) return false
+        if (vendor != other.vendor) return false
+        if (version_data != other.version_data) return false
+
+        return true
+    }
+
+    override fun hashCode(): Int {
+        var result = id.hashCode()
+        result = 31 * result + release_link.hashCode()
+        result = 31 * result + release_name.hashCode()
+        result = 31 * result + timestamp.hashCode()
+        result = 31 * result + updated_at.hashCode()
+        result = 31 * result + binaries.hashCode()
+        result = 31 * result + download_count
+        result = 31 * result + release_type.hashCode()
+        result = 31 * result + vendor.hashCode()
+        result = 31 * result + version_data.hashCode()
+        return result
+    }
+
 }

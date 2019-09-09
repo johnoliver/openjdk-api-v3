@@ -32,4 +32,28 @@ open class Asset {
         this.checksum = checksum
         this.checksum_link = checksum_link
     }
+
+    override fun equals(other: Any?): Boolean {
+        if (this === other) return true
+        if (javaClass != other?.javaClass) return false
+
+        other as Asset
+
+        if (name != other.name) return false
+        if (link != other.link) return false
+        if (size != other.size) return false
+        if (checksum != other.checksum) return false
+        if (checksum_link != other.checksum_link) return false
+
+        return true
+    }
+
+    override fun hashCode(): Int {
+        var result = name.hashCode()
+        result = 31 * result + link.hashCode()
+        result = 31 * result + size.hashCode()
+        result = 31 * result + (checksum?.hashCode() ?: 0)
+        result = 31 * result + (checksum_link?.hashCode() ?: 0)
+        return result
+    }
 }

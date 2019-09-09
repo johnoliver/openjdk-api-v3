@@ -72,4 +72,23 @@ class AdoptRepos {
         return AdoptRepos(repos.plus(Pair(i, repos.get(i)!!.remove(r.id))))
     }
 
+    override fun equals(other: Any?): Boolean {
+        if (this === other) return true
+        if (javaClass != other?.javaClass) return false
+
+        other as AdoptRepos
+
+        if (repos != other.repos) return false
+        if (allReleases != other.allReleases) return false
+
+        return true
+    }
+
+    override fun hashCode(): Int {
+        var result = repos.hashCode()
+        result = 31 * result + allReleases.hashCode()
+        return result
+    }
+
+
 }

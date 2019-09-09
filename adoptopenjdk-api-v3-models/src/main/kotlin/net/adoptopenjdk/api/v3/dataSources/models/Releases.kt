@@ -64,6 +64,22 @@ class Releases {
         return Releases(nodes.minus(id))
     }
 
+    override fun equals(other: Any?): Boolean {
+        if (this === other) return true
+        if (javaClass != other?.javaClass) return false
+
+        other as Releases
+
+        if (nodes != other.nodes) return false
+
+        return true
+    }
+
+    override fun hashCode(): Int {
+        return nodes.hashCode()
+    }
+
+
     companion object {
         val TIME_SORTER = Comparator.comparing { release: Release -> release.timestamp }
     }

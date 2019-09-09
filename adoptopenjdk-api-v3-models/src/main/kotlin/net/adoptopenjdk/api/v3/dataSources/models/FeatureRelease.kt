@@ -36,4 +36,23 @@ class FeatureRelease {
         return FeatureRelease(featureVersion, releases.remove(id))
     }
 
+    override fun equals(other: Any?): Boolean {
+        if (this === other) return true
+        if (javaClass != other?.javaClass) return false
+
+        other as FeatureRelease
+
+        if (featureVersion != other.featureVersion) return false
+        if (releases != other.releases) return false
+
+        return true
+    }
+
+    override fun hashCode(): Int {
+        var result = featureVersion
+        result = 31 * result + releases.hashCode()
+        return result
+    }
+
+
 }

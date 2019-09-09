@@ -4,7 +4,6 @@ import net.adoptopenjdk.api.v3.dataSources.APIDataStore
 import net.adoptopenjdk.api.v3.dataSources.filters.BinaryFilter
 import net.adoptopenjdk.api.v3.dataSources.filters.ReleaseFilter
 import net.adoptopenjdk.api.v3.dataSources.filters.VersionRangeFilter
-import net.adoptopenjdk.api.v3.dataSources.models.FeatureRelease
 import net.adoptopenjdk.api.v3.models.*
 import org.eclipse.microprofile.openapi.annotations.Operation
 import org.eclipse.microprofile.openapi.annotations.enums.SchemaType
@@ -33,8 +32,7 @@ class AssetsResource {
         APIResponse(responseCode = "200", description = "search results matching criteria",
                 content = [Content(schema = Schema(type = SchemaType.ARRAY, implementation = Release::class))]
         ),
-        APIResponse(responseCode = "400", description = "bad input parameter",
-                content = [Content(schema = Schema(implementation = Void::class))])
+        APIResponse(responseCode = "400", description = "bad input parameter")
     ])
     fun get(
             @Parameter(name = "release_type", description = "Release type", required = true)
@@ -106,8 +104,7 @@ class AssetsResource {
         APIResponse(responseCode = "200", description = "search results matching criteria",
                 content = [Content(schema = Schema(type = SchemaType.ARRAY, implementation = Release::class))]
         ),
-        APIResponse(responseCode = "400", description = "bad input parameter",
-                content = [Content(schema = Schema(implementation = Void::class))])
+        APIResponse(responseCode = "400", description = "bad input parameter")
     ])
     fun getReleaseVersion(
             @Parameter(name = "version", description = "Semantic version range (maven style) e.g \"11.0.4+11.1\", \"[1.0,2.0)\", \"(,1.0]\".", required = true)

@@ -28,6 +28,7 @@ class AdoptReposBuilderTest : BaseTest() {
 
             assertTrue { repo.getFeatureRelease(8)!!.releases.hasReleaseId(toRemove.id) }
             assertTrue { !updated.getFeatureRelease(8)!!.releases.hasReleaseId(toRemove.id) }
+            assertTrue { updated != repo }
         }
     }
 
@@ -48,6 +49,7 @@ class AdoptReposBuilderTest : BaseTest() {
 
             assertTrue { !repo.getFeatureRelease(8)!!.releases.hasReleaseId(toAdd.id) }
             assertTrue { updated.getFeatureRelease(8)!!.releases.getReleases().contains(toAdd) }
+            assertTrue { updated != repo }
         }
     }
 
@@ -71,6 +73,19 @@ class AdoptReposBuilderTest : BaseTest() {
             assertTrue { repo.getFeatureRelease(8)!!.releases.getReleases().contains(original) }
             assertTrue { !updated.getFeatureRelease(8)!!.releases.getReleases().contains(original) }
             assertTrue { !updated.getFeatureRelease(8)!!.releases.getReleases().contains(toUpdate) }
+            assertTrue { updated != repo }
+        }
+    }
+
+    @Test
+    fun updatedReleaseIsNotUpdatedWhenThingsDontChange() {
+        runBlocking {
+            val repo = getInitialRepo()
+
+            AdoptRepositoryFactory.adoptRepository = MockRepository(repo)
+            val updated = AdoptReposBuilder.incrementalUpdate(repo)
+
+            assertTrue { updated == repo }
         }
     }
 

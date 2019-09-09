@@ -30,4 +30,36 @@ class VersionData {
         this.openjdk_version = openjdk_version
     }
 
+    override fun equals(other: Any?): Boolean {
+        if (this === other) return true
+        if (javaClass != other?.javaClass) return false
+
+        other as VersionData
+
+        if (major != other.major) return false
+        if (minor != other.minor) return false
+        if (security != other.security) return false
+        if (pre != other.pre) return false
+        if (adopt_build_number != other.adopt_build_number) return false
+        if (semver != other.semver) return false
+        if (openjdk_version != other.openjdk_version) return false
+        if (build != other.build) return false
+        if (optional != other.optional) return false
+
+        return true
+    }
+
+    override fun hashCode(): Int {
+        var result = major
+        result = 31 * result + minor
+        result = 31 * result + security
+        result = 31 * result + (pre?.hashCode() ?: 0)
+        result = 31 * result + adopt_build_number
+        result = 31 * result + semver.hashCode()
+        result = 31 * result + openjdk_version.hashCode()
+        result = 31 * result + build
+        result = 31 * result + (optional?.hashCode() ?: 0)
+        return result
+    }
+
 }
