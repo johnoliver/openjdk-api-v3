@@ -2,6 +2,7 @@ package net.adoptopenjdk.api.v3.dataSources.github.graphql.models
 
 import com.fasterxml.jackson.annotation.JsonCreator
 import com.fasterxml.jackson.annotation.JsonProperty
+import net.adoptopenjdk.api.v3.dataSources.github.graphql.models.summary.GHRepositoryDownload
 import net.adoptopenjdk.api.v3.dataSources.github.graphql.models.summary.GHRepositorySummary
 
 /*
@@ -25,4 +26,7 @@ class QuerySummaryData @JsonCreator constructor(@JsonProperty("repository") val 
 
 class ReleaseQueryData @JsonCreator constructor(@JsonProperty("node") val assetNode: GHAssetNode?,
                                                 @JsonProperty("rateLimit") rateLimit: RateLimit) : HasRateLimit(rateLimit)
+
+class QueryDownloadData @JsonCreator constructor(@JsonProperty("repository") val repository: GHRepositoryDownload?,
+                                                 @JsonProperty("rateLimit") rateLimit: RateLimit) : HasRateLimit(rateLimit)
 
