@@ -3,8 +3,8 @@ package net.adoptopenjdk.api.v3.dataSources.github.graphql.models.summary
 import com.fasterxml.jackson.annotation.JsonCreator
 import com.fasterxml.jackson.annotation.JsonProperty
 import net.adoptopenjdk.api.v3.dataSources.github.graphql.models.PageInfo
+import net.adoptopenjdk.api.v3.mapping.ReleaseMapper
 import java.time.LocalDateTime
-import java.time.format.DateTimeFormatter
 
 
 data class GHReleasesSummary @JsonCreator constructor(@JsonProperty("nodes") val releases: List<GHReleaseSummary>,
@@ -20,7 +20,7 @@ data class GHReleaseSummary @JsonCreator constructor(
         @JsonProperty("updatedAt") val updatedAt: String) {
 
     fun getUpdatedTime(): LocalDateTime {
-        return LocalDateTime.from(DateTimeFormatter.ISO_DATE_TIME.parse(updatedAt))
+        return ReleaseMapper.parseDate(updatedAt)
     }
 
 

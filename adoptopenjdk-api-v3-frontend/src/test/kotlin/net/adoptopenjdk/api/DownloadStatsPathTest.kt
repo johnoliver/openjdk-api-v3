@@ -17,7 +17,6 @@ import org.hamcrest.TypeSafeMatcher
 import org.junit.jupiter.api.BeforeAll
 import org.junit.jupiter.api.Test
 import java.time.LocalDate
-import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 import kotlin.test.assertFails
 
@@ -256,27 +255,27 @@ class DownloadStatsPathTest : BaseTest() {
     private fun createGithubData(): List<GithubDownloadStatsDbEntry> {
         return listOf(
                 GithubDownloadStatsDbEntry(
-                        LocalDateTime.now().minusDays(10),
+                        TestTime.now().minusDays(10),
                         10,
                         8
                 ),
                 GithubDownloadStatsDbEntry(
-                        LocalDateTime.now().minusDays(5),
+                        TestTime.now().minusDays(5),
                         20,
                         9
                 ),
                 GithubDownloadStatsDbEntry(
-                        LocalDateTime.now().minusDays(1),
+                        TestTime.now().minusDays(1),
                         40,
                         9
                 ),
                 GithubDownloadStatsDbEntry(
-                        LocalDateTime.now().minusDays(1).minusMinutes(1),
+                        TestTime.now().minusDays(1).minusMinutes(1),
                         25,
                         8
                 ),
                 GithubDownloadStatsDbEntry(
-                        LocalDateTime.now().minusDays(1),
+                        TestTime.now().minusDays(1),
                         30,
                         8
                 )
@@ -286,27 +285,27 @@ class DownloadStatsPathTest : BaseTest() {
     private fun createDockerStatsWithRepoName(): List<DockerDownloadStatsDbEntry> {
         return listOf(
                 DockerDownloadStatsDbEntry(
-                        LocalDateTime.now().minusDays(10),
+                        TestTime.now().minusDays(10),
                         20,
                         "a-repo-name"
                 ),
                 DockerDownloadStatsDbEntry(
-                        LocalDateTime.now().minusDays(5),
+                        TestTime.now().minusDays(5),
                         30,
                         "b-repo-name"
                 ),
                 DockerDownloadStatsDbEntry(
-                        LocalDateTime.now().minusDays(1),
+                        TestTime.now().minusDays(1),
                         40,
                         "b-repo-name"
                 ),
                 DockerDownloadStatsDbEntry(
-                        LocalDateTime.now().minusDays(1).minusMinutes(1),
+                        TestTime.now().minusDays(1).minusMinutes(1),
                         50,
                         "a-repo-name"
                 ),
                 DockerDownloadStatsDbEntry(
-                        LocalDateTime.now().minusDays(1),
+                        TestTime.now().minusDays(1),
                         60,
                         "a-repo-name"
                 )

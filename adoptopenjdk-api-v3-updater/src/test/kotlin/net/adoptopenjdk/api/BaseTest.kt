@@ -127,8 +127,8 @@ abstract class BaseTest {
                     val gHReleaseSummarys = featureRelease.releases.getReleases()
                             .map {
                                 GHReleaseSummary(it.id,
-                                        DateTimeFormatter.ISO_LOCAL_DATE_TIME.withZone(ZoneId.of("UTC")).format(it.timestamp),
-                                        DateTimeFormatter.ISO_LOCAL_DATE_TIME.withZone(ZoneId.of("UTC")).format(it.updated_at))
+                                        DateTimeFormatter.ISO_INSTANT.format(it.timestamp.atZone(ZoneId.of("Z"))),
+                                        DateTimeFormatter.ISO_INSTANT.format(it.updated_at.atZone(ZoneId.of("Z"))))
                             }
                             .toList()
 

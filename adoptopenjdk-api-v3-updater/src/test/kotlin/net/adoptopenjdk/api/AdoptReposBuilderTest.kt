@@ -9,6 +9,7 @@ import net.adoptopenjdk.api.v3.models.Vendor
 import net.adoptopenjdk.api.v3.models.VersionData
 import org.junit.jupiter.api.Test
 import java.time.LocalDateTime
+import java.time.temporal.ChronoUnit
 import kotlin.test.assertTrue
 
 
@@ -35,8 +36,10 @@ class AdoptReposBuilderTest : BaseTest() {
     fun addReleaseIsAddWhenUpdated() {
         runBlocking {
             val repo = getInitialRepo()
-            val toAdd = Release("foo", ReleaseType.ga, "a", "b", LocalDateTime.now().minusMinutes(20),
-                    LocalDateTime.now().minusMinutes(20), arrayOf(), 2, Vendor.adoptopenjdk,
+            val toAdd = Release("foo", ReleaseType.ga, "a", "b",
+                    LocalDateTime.now().minusMinutes(20).truncatedTo(ChronoUnit.SECONDS),
+                    LocalDateTime.now().minusMinutes(20).truncatedTo(ChronoUnit.SECONDS),
+                    arrayOf(), 2, Vendor.adoptopenjdk,
                     VersionData(1, 2, 3, "", 1, 4, "", ""))
 
 
@@ -56,8 +59,9 @@ class AdoptReposBuilderTest : BaseTest() {
     fun releaseLessThan10MinOldIsNotUpdated() {
         runBlocking {
             val repo = getInitialRepo()
-            val toAdd = Release("foo", ReleaseType.ga, "a", "b", LocalDateTime.now(),
-                    LocalDateTime.now(), arrayOf(), 2, Vendor.adoptopenjdk,
+            val toAdd = Release("foo", ReleaseType.ga, "a", "b",
+                    TestTime.now(),
+                    TestTime.now(), arrayOf(), 2, Vendor.adoptopenjdk,
                     VersionData(1, 2, 3, "", 1, 4, "", ""))
 
 
@@ -78,8 +82,10 @@ class AdoptReposBuilderTest : BaseTest() {
 
             val original = repo.getFeatureRelease(8)!!.releases.nodes.values.first()
 
-            val toUpdate = Release(original.id, ReleaseType.ga, "a", "b", LocalDateTime.now(),
-                    LocalDateTime.now().minusMinutes(20), arrayOf(), 2, Vendor.adoptopenjdk,
+            val toUpdate = Release(original.id, ReleaseType.ga, "a", "b",
+                    TestTime.now(),
+                    TestTime.now().minusMinutes(20),
+                    arrayOf(), 2, Vendor.adoptopenjdk,
                     VersionData(1, 2, 3, "", 1, 4, "", ""))
 
             val updatedRepo = repo.removeRelease(8, original)//.addRelease(8, toUpdate)

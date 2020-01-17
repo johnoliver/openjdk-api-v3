@@ -6,12 +6,13 @@ import net.adoptopenjdk.api.v3.dataSources.persitence.ApiPersistence
 import net.adoptopenjdk.api.v3.models.GithubDownloadStatsDbEntry
 import net.adoptopenjdk.api.v3.models.Vendor
 import java.time.LocalDateTime
+import java.time.temporal.ChronoUnit
 
 class GithubDownloadStatsCalculator {
     private val database: ApiPersistence = ApiPersistenceFactory.get()
 
     suspend fun saveStats(repos: AdoptRepos) {
-        val date: LocalDateTime = LocalDateTime.now()
+        val date: LocalDateTime = LocalDateTime.now().truncatedTo(ChronoUnit.SECONDS)
 
         val stats = repos
                 .repos

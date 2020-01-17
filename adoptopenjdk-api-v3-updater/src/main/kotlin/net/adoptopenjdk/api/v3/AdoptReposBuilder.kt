@@ -60,16 +60,16 @@ object AdoptReposBuilder {
         return summary.releases.releases
                 .filter { !excluded.contains(it.id) }
                 .filter { !pruned.releases.hasReleaseBeenUpdated(it.id, it.getUpdatedTime()) }
+                .filter { isReleaseOldEnough(it.publishedAt) } // Ignore artifacts for the first 10 min while they are still uploading
                 .mapNotNull { getReleaseById(it) }
-                .filter { isReleaseOldEnough(it.timestamp) }
     }
 
     private suspend fun getNewReleases(summary: GHRepositorySummary, currentRelease: FeatureRelease): List<Release> {
         return summary.releases.releases
                 .filter { !excluded.contains(it.id) }
                 .filter { !currentRelease.releases.hasReleaseId(it.id) }
+                .filter { isReleaseOldEnough(it.publishedAt) } // Ignore artifacts for the first 10 min while they are still uploading
                 .mapNotNull { getReleaseById(it) }
-                .filter { isReleaseOldEnough(it.timestamp) }
     }
 
     private fun isReleaseOldEnough(timestamp: LocalDateTime): Boolean {

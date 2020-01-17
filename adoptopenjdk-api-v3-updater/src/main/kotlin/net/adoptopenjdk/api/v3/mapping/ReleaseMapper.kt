@@ -6,6 +6,7 @@ import java.time.Instant
 import java.time.LocalDateTime
 import java.time.ZoneId
 import java.time.format.DateTimeFormatter
+import java.time.temporal.ChronoUnit
 
 abstract class ReleaseMapper {
     abstract suspend fun toAdoptRelease(release: GHRelease): Release?
@@ -13,7 +14,10 @@ abstract class ReleaseMapper {
 
     companion object {
         fun parseDate(date: String): LocalDateTime {
-            return Instant.from(DateTimeFormatter.ISO_INSTANT.parse(date)).atZone(ZoneId.of("UTC")).toLocalDateTime()
+            return Instant.from(DateTimeFormatter.ISO_INSTANT.parse(date))
+                    .atZone(ZoneId.of("Z"))
+                    .toLocalDateTime()
+                    .truncatedTo(ChronoUnit.SECONDS)
         }
     }
 

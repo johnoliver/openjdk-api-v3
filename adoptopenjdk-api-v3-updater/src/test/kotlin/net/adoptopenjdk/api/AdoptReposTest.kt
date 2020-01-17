@@ -26,7 +26,7 @@ class AdoptReposTest : BaseTest() {
     @Test
     fun repoEqualityCheckIsCorrect() {
         runBlocking {
-            val time = LocalDateTime.now()
+            val time = TestTime.now()
             val a = formFeatureRelease(time)
             val b = formFeatureRelease(time)
 

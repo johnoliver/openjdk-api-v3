@@ -10,7 +10,6 @@ import net.adoptopenjdk.api.v3.models.Release
 import org.awaitility.Awaitility
 import org.junit.Ignore
 import org.junit.jupiter.api.Test
-import java.time.LocalDateTime
 import java.util.concurrent.TimeUnit
 
 @Ignore("For manual execution")
@@ -27,7 +26,7 @@ class UpdateRunner : BaseTest() {
             //Reset connection
             ApiPersistenceFactory.set(null)
             val modify = repo.getFeatureRelease(8)!!.releases.nodes.values.first()
-            val r = Release(modify.id, modify.release_type, modify.release_link, modify.release_name, modify.timestamp, LocalDateTime.now(), modify.binaries, modify.download_count, modify.vendor, modify.version_data)
+            val r = Release(modify.id, modify.release_type, modify.release_link, modify.release_name, modify.timestamp, TestTime.now(), modify.binaries, modify.download_count, modify.vendor, modify.version_data)
             repo = repo.addRelease(8, r)
 
             ApiPersistenceFactory.get().updateAllRepos(repo)
