@@ -2,6 +2,7 @@ package net.adoptopenjdk.api
 
 import io.quarkus.test.junit.QuarkusTest
 import io.restassured.RestAssured
+import io.restassured.response.ValidatableResponse
 import kotlinx.coroutines.runBlocking
 import net.adoptopenjdk.api.v3.JsonMapper
 import net.adoptopenjdk.api.v3.dataSources.ApiPersistenceFactory
@@ -15,7 +16,10 @@ import org.hamcrest.Description
 import org.hamcrest.TypeSafeMatcher
 import org.junit.jupiter.api.BeforeAll
 import org.junit.jupiter.api.Test
+import java.time.LocalDate
 import java.time.LocalDateTime
+import java.time.format.DateTimeFormatter
+import kotlin.test.assertFails
 
 
 @QuarkusTest
@@ -144,6 +148,94 @@ class DownloadStatsPathTest : BaseTest() {
                             return stats.isNotEmpty() &&
                                     (stats[1] as Map<String, *>).get("total") == 170 &&
                                     (stats[1] as Map<String, *>).get("daily") == 30
+                        }
+                    })
+        }
+    }
+
+
+    @Test
+    fun dateRangeFilterWithStartAndEndIsCorrect() {
+        requestStats(
+                LocalDate.now().minusDays(6).format(DateTimeFormatter.ISO_DATE),
+                LocalDate.now().minusDays(2).format(DateTimeFormatter.ISO_DATE),
+                null,
+                { stats ->
+                    stats.size == 1 &&
+                            (stats[0] as Map<String, *>).get("total") == 50 &&
+                            (stats[0] as Map<String, *>).get("daily") == 4
+                })
+    }
+
+    @Test
+    fun dateRangeFilterWithEndIsCorrect() {
+        requestStats(
+                null,
+                LocalDate.now().format(DateTimeFormatter.ISO_DATE),
+                null,
+                { stats ->
+                    stats.size == 2 &&
+                            (stats[0] as Map<String, *>).get("total") == 50 &&
+                            (stats[0] as Map<String, *>).get("daily") == 4
+                })
+    }
+
+    @Test
+    fun dateRangeFilterWithEndAndDayIsCorrect() {
+        requestStats(
+                null,
+                LocalDate.now().format(DateTimeFormatter.ISO_DATE),
+                1,
+                { stats ->
+                    stats.size == 1 &&
+                            (stats[0] as Map<String, *>).get("total") == 170 &&
+                            (stats[0] as Map<String, *>).get("daily") == 30
+                })
+    }
+
+    @Test
+    fun throwsOnABadDate() {
+        assertFails({
+            requestStats(
+                    null,
+                    "foo",
+                    1,
+                    { stats ->
+                        stats.size == 1 &&
+                                (stats[0] as Map<String, *>).get("total") == 170 &&
+                                (stats[0] as Map<String, *>).get("daily") == 30
+                    })
+        })
+    }
+
+
+    private fun requestStats(from: String?, to: String?, days: Int?, check: (List<*>) -> Boolean): ValidatableResponse? {
+        return runBlocking {
+            mockStats()
+
+            var url = "/v3/stats/downloads/tracking?"
+            if (from != null) {
+                url += "from=$from&"
+            }
+            if (to != null) {
+                url += "to=$to&"
+            }
+            if (days != null) {
+                url += "days=$days&"
+            }
+
+            RestAssured.given()
+                    .`when`()
+                    .get(url)
+                    .then()
+                    .body(object : TypeSafeMatcher<String>() {
+
+                        override fun describeTo(description: Description?) {
+                            description!!.appendText("json")
+                        }
+
+                        override fun matchesSafely(p0: String?): Boolean {
+                            return check(JsonMapper.mapper.readValue(p0, List::class.java))
                         }
                     })
         }

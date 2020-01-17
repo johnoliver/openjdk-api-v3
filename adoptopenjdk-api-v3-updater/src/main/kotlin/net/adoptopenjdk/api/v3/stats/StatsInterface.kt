@@ -29,7 +29,7 @@ class StatsInterface {
     }
 
     private suspend fun removeBadDownloadStats() {
-        val tracking = downloadStatsInterface.getTrackingStats(10, StatsSource.all, null, null)
+        val tracking = downloadStatsInterface.getTrackingStats(10, null, null, StatsSource.all, null, null)
         tracking
                 .filter { it.daily <= 0 }
                 .forEach { entry ->

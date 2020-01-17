@@ -93,16 +93,16 @@ class MongoApiPersistence(mongoClient: MongoClient) : MongoInterface(mongoClient
                 .first()
     }
 
-    override suspend fun getGithubStatsSince(since: LocalDateTime): List<GithubDownloadStatsDbEntry> {
+    override suspend fun getGithubStats(start: LocalDateTime, end: LocalDateTime): List<GithubDownloadStatsDbEntry> {
         return githubStatsCollection
-                .find(Document("date", Document("\$gt", since)))
+                .find(betweenDates(start, end))
                 .sort(Document("date", 1))
                 .toList()
     }
 
-    override suspend fun getDockerStatsSince(since: LocalDateTime): List<DockerDownloadStatsDbEntry> {
+    override suspend fun getDockerStats(start: LocalDateTime, end: LocalDateTime): List<DockerDownloadStatsDbEntry> {
         return dockerStatsCollection
-                .find(Document("date", Document("\$gt", since)))
+                .find(betweenDates(start, end))
                 .sort(Document("date", 1))
                 .toList()
     }
@@ -127,15 +127,18 @@ class MongoApiPersistence(mongoClient: MongoClient) : MongoInterface(mongoClient
     }
 
     override suspend fun removeStatsBetween(start: LocalDateTime, end: LocalDateTime) {
-        val deleteQuery = Document("\$and",
+        val deleteQuery = betweenDates(start, end)
+        dockerStatsCollection.deleteMany(deleteQuery)
+        githubStatsCollection.deleteMany(deleteQuery)
+    }
+
+    private fun betweenDates(start: LocalDateTime, end: LocalDateTime): Document {
+        return Document("\$and",
                 BsonArray(listOf(
                         BsonDocument("date", BsonDocument("\$gt", BsonDateTime(start.toInstant(ZoneOffset.UTC).toEpochMilli()))),
                         BsonDocument("date", BsonDocument("\$lt", BsonDateTime(end.toInstant(ZoneOffset.UTC).toEpochMilli())))
                 ))
         )
-        dockerStatsCollection.deleteMany(deleteQuery)
-        githubStatsCollection.deleteMany(deleteQuery)
-
     }
 
     private fun majorVersionMatcher(featureVersion: Int) = Document("version_data.major", featureVersion)

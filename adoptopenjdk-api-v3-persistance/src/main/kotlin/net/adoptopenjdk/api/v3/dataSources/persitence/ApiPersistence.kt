@@ -13,8 +13,8 @@ interface ApiPersistence {
     suspend fun addGithubDownloadStatsEntries(stats: List<GithubDownloadStatsDbEntry>)
     suspend fun getStatsForFeatureVersion(featureVersion: Int): List<GithubDownloadStatsDbEntry>
     suspend fun getLatestGithubStatsForFeatureVersion(featureVersion: Int): GithubDownloadStatsDbEntry?
-    suspend fun getGithubStatsSince(since: LocalDateTime): List<GithubDownloadStatsDbEntry>
-    suspend fun getDockerStatsSince(since: LocalDateTime): List<DockerDownloadStatsDbEntry>
+    suspend fun getGithubStats(start: LocalDateTime, end: LocalDateTime): List<GithubDownloadStatsDbEntry>
+    suspend fun getDockerStats(start: LocalDateTime, end: LocalDateTime): List<DockerDownloadStatsDbEntry>
     suspend fun addDockerDownloadStatsEntries(stats: List<DockerDownloadStatsDbEntry>)
     suspend fun getLatestAllDockerStats(): List<DockerDownloadStatsDbEntry>
     suspend fun removeStatsBetween(start: LocalDateTime, end: LocalDateTime)
