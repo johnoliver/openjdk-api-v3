@@ -7,6 +7,7 @@ import net.adoptopenjdk.api.v3.models.DbStatsEntry
 import net.adoptopenjdk.api.v3.models.DownloadDiff
 import net.adoptopenjdk.api.v3.models.DownloadStats
 import net.adoptopenjdk.api.v3.models.GithubDownloadStatsDbEntry
+import net.adoptopenjdk.api.v3.models.JvmImpl
 import net.adoptopenjdk.api.v3.models.StatsSource
 import net.adoptopenjdk.api.v3.models.TotalStats
 import java.time.ZonedDateTime
@@ -29,7 +30,8 @@ class DownloadStatsInterface(
         to: ZonedDateTime? = null,
         source: StatsSource? = null,
         featureVersion: Int? = null,
-        dockerRepo: String? = null
+        dockerRepo: String? = null,
+        jvmImpl: JvmImpl? = null
     ): List<DownloadDiff> {
 
         // need +1 as for a diff you need num days +1 from db
@@ -52,7 +54,7 @@ class DownloadStatsInterface(
 
         // look for stats up to 10 days before the requested start, this is because for a daily diff we need the
         // previous entry before the period started
-        val stats = getStats(periodStart.minusDays(10), periodEnd, featureVersion, dockerRepo, statsSource)
+        val stats = getStats(periodStart.minusDays(10), periodEnd, featureVersion, dockerRepo, jvmImpl, statsSource)
 
         return calculateDailyDiff(stats, periodStart, periodEnd, days)
     }
@@ -62,10 +64,11 @@ class DownloadStatsInterface(
         end: ZonedDateTime,
         featureVersion: Int?,
         dockerRepo: String?,
+        jvmImpl: JvmImpl?,
         statsSource: StatsSource
     ): Collection<StatEntry> {
-        val githubGrouped = getGithubDownloadStatsByDate(start, end, featureVersion)
-        val dockerGrouped = getDockerDownloadStatsByDate(start, end, dockerRepo)
+        val githubGrouped = getGithubDownloadStatsByDate(start, end, featureVersion, jvmImpl)
+        val dockerGrouped = getDockerDownloadStatsByDate(start, end, featureVersion, dockerRepo, jvmImpl)
 
         val stats = when (statsSource) {
             StatsSource.dockerhub -> dockerGrouped
@@ -99,7 +102,7 @@ class DownloadStatsInterface(
                 .takeLast(days ?: Int.MAX_VALUE)
     }
 
-    private suspend fun getGithubDownloadStatsByDate(start: ZonedDateTime, end: ZonedDateTime, featureVersion: Int?): List<StatEntry> {
+    private suspend fun getGithubDownloadStatsByDate(start: ZonedDateTime, end: ZonedDateTime, featureVersion: Int?, jvmImpl: JvmImpl?): List<StatEntry> {
         return sumDailyStats(
                 dataStore
                         .getGithubStats(start, end)
@@ -112,11 +115,12 @@ class DownloadStatsInterface(
                                     }
                         }
                         .filter { featureVersion == null || it.feature_version == featureVersion }
-                        .sortedBy { it.date }
+                        .sortedBy { it.date },
+                jvmImpl
         )
     }
 
-    private suspend fun getDockerDownloadStatsByDate(start: ZonedDateTime, end: ZonedDateTime, dockerRepo: String?): List<StatEntry> {
+    private suspend fun getDockerDownloadStatsByDate(start: ZonedDateTime, end: ZonedDateTime, featureVersion: Int?, dockerRepo: String?, jvmImpl: JvmImpl?): List<StatEntry> {
         return sumDailyStats(
                 dataStore
                         .getDockerStats(start, end)
@@ -128,15 +132,23 @@ class DownloadStatsInterface(
                                         repoForDay.value.maxBy { it.date }!!
                                     }
                         }
-                        .filter { dockerRepo == null || it.repo == dockerRepo }
+                        .filter { (dockerRepo == null || it.repo == dockerRepo) && (featureVersion == null || it.feature_version == featureVersion) && (jvmImpl == null || it.jvm_impl == jvmImpl) }
                         .sortedBy { it.date }
         )
     }
 
-    private fun <T> sumDailyStats(dockerStats: List<DbStatsEntry<T>>): List<StatEntry> {
-        return dockerStats
+    private fun <T> sumDailyStats(stats: List<DbStatsEntry<T>>): List<StatEntry> {
+        return stats
                 .groupBy { it.date.toLocalDate() }
                 .map { grouped -> StatEntry(getLastDate(grouped.value), formTotalDownloads(grouped.value)) }
+    }
+
+    private fun sumDailyStats(githubStats: List<GithubDownloadStatsDbEntry>, jvmImpl: JvmImpl?): List<StatEntry> {
+        jvmImpl ?: return sumDailyStats(githubStats)
+
+        return githubStats
+                .groupBy { it.date.toLocalDate() }
+                .map { grouped -> StatEntry(getLastDate(grouped.value), formTotalDownloads(grouped.value, jvmImpl)) }
     }
 
     private fun <T> getLastDate(grouped: List<DbStatsEntry<T>>): ZonedDateTime {
@@ -150,6 +162,14 @@ class DownloadStatsInterface(
                 .groupBy { it.getId() }
                 .map { grouped -> grouped.value.maxBy { it.date } }
                 .map { it!!.getMetric() }
+                .sum()
+    }
+
+    private fun formTotalDownloads(stats: List<GithubDownloadStatsDbEntry>, jvmImpl: JvmImpl): Long {
+        return stats
+                .groupBy { it.getId() }
+                .map { grouped -> grouped.value.maxBy { it.date } }
+                .map { (it!!.jvmImplDownloads?.get(jvmImpl) ?: 0) }
                 .sum()
     }
 
