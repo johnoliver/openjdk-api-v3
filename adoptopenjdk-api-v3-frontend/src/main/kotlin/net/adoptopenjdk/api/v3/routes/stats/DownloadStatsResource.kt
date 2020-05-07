@@ -147,6 +147,40 @@ class DownloadStatsResource {
         }
     }
 
+    @GET
+    @Path("/monthly")
+    @Operation(summary = "Get download stats for feature verson", description = "stats", hidden = true)
+    @Schema(hidden = true)
+    fun tracking(
+        @Parameter(name = "source", description = "Stats data source", schema = Schema(defaultValue = "all"), required = false)
+        @QueryParam("source")
+        source: StatsSource?,
+        @Parameter(name = "feature_version", description = "Feature version (i.e 8, 9, 10...). Does not use offical docker repo stats", required = false)
+        @QueryParam("feature_version")
+        featureVersion: Int?,
+        @Parameter(name = "docker_repo", description = "Docker repo to filter stats by", required = false)
+        @QueryParam("docker_repo")
+        dockerRepo: String?,
+        @Parameter(name = "jvm_impl", description = "JVM Implementation to filter stats by. Does not use offical docker repo stats", required = false)
+        @QueryParam("jvm_impl")
+        jvmImplStr: String?,
+        @Parameter(name = "to", description = "Month from which to calculate stats (inclusive)", schema = Schema(example = "YYYY-MM-dd"), required = false)
+        @QueryParam("to")
+        to: String?
+    ): CompletionStage<Response> {
+        return runAsync {
+            val jvmImpl: JvmImpl? = when (jvmImplStr) {
+                "hotspot" -> JvmImpl.hotspot
+                "openj9" -> JvmImpl.openj9
+                null -> null
+                else -> throw BadRequestException("jvm_impl not recognized. Must be one of: hotspot, openj9")
+            }
+
+            val toDate = parseDate(to)?.withDayOfMonth(1)?.plusMonths(1)?.atStartOfDay()?.atZone(TimeSource.ZONE)
+            return@runAsync statsInterface.getMonthlyTrackingStats(toDate, source, featureVersion, dockerRepo, jvmImpl)
+        }
+    }
+
     private fun parseDate(date: String?): LocalDate? {
         return if (date == null) {
             null

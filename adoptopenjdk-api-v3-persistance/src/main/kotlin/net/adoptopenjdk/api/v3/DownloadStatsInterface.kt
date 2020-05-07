@@ -5,13 +5,16 @@ import net.adoptopenjdk.api.v3.dataSources.ApiPersistenceFactory
 import net.adoptopenjdk.api.v3.dataSources.persitence.ApiPersistence
 import net.adoptopenjdk.api.v3.models.DbStatsEntry
 import net.adoptopenjdk.api.v3.models.DownloadDiff
+import net.adoptopenjdk.api.v3.models.MonthlyDownloadDiff
 import net.adoptopenjdk.api.v3.models.DownloadStats
 import net.adoptopenjdk.api.v3.models.GithubDownloadStatsDbEntry
 import net.adoptopenjdk.api.v3.models.JvmImpl
 import net.adoptopenjdk.api.v3.models.StatsSource
 import net.adoptopenjdk.api.v3.models.TotalStats
 import java.time.ZonedDateTime
+import java.time.format.TextStyle
 import java.time.temporal.ChronoUnit
+import java.util.Locale
 import kotlin.math.max
 import kotlin.math.min
 
@@ -59,6 +62,22 @@ class DownloadStatsInterface(
         return calculateDailyDiff(stats, periodStart, periodEnd, days)
     }
 
+    suspend fun getMonthlyTrackingStats(
+        to: ZonedDateTime? = null,
+        source: StatsSource? = null,
+        featureVersion: Int? = null,
+        dockerRepo: String? = null,
+        jvmImpl: JvmImpl? = null
+    ): List<MonthlyDownloadDiff> {
+
+        val periodEnd = to ?: TimeSource.now()
+        val periodStart = periodEnd.minusMonths(3).withDayOfMonth(1)
+        val statsSource = source ?: StatsSource.all
+
+        val stats = getMonthlyStats(periodStart.minusDays(10), periodEnd, featureVersion, dockerRepo, jvmImpl, statsSource)
+        return calculateMonthlyDiff(stats)
+    }
+
     private suspend fun getStats(
         start: ZonedDateTime,
         end: ZonedDateTime,
@@ -75,7 +94,30 @@ class DownloadStatsInterface(
             StatsSource.github -> githubGrouped
             else -> githubGrouped.union(dockerGrouped)
         }
-        return stats
+
+        return stats.groupBy { it.dateTime.toLocalDate() }
+            .map { grouped ->
+                StatEntry(
+                        grouped.value.map { it.dateTime }.max()!!,
+                        grouped.value.map { it.count }.sum()
+                )
+            }
+            .sortedBy { it.dateTime }
+    }
+
+    private suspend fun getMonthlyStats(
+        start: ZonedDateTime,
+        end: ZonedDateTime,
+        featureVersion: Int?,
+        dockerRepo: String?,
+        jvmImpl: JvmImpl?,
+        statsSource: StatsSource
+    ): Collection<StatEntry> {
+        return getStats(start, end, featureVersion, dockerRepo, jvmImpl, statsSource)
+            .groupBy { it.dateTime.getMonth() }
+            .map { grouped ->
+                    grouped.value.maxBy { it.dateTime }!!
+            }
     }
 
     private fun calculateDailyDiff(
@@ -85,21 +127,26 @@ class DownloadStatsInterface(
         days: Int?
     ): List<DownloadDiff> {
         return stats
-                .groupBy { it.dateTime.toLocalDate() }
-                .map { grouped ->
-                    StatEntry(
-                            grouped.value.map { it.dateTime }.max()!!,
-                            grouped.value.map { it.count }.sum()
-                    )
-                }
-                .sortedBy { it.dateTime }
-                .windowed(2, 1, false) {
-                    val minDiff = max(1, ChronoUnit.MINUTES.between(it[0].dateTime, it[1].dateTime))
-                    val downloadDiff = ((it[1].count - it[0].count) * 60L * 24L) / minDiff
-                    DownloadDiff(it[1].dateTime, it[1].count, downloadDiff)
-                }
-                .filter { it.date.isAfter(periodStart) && it.date.isBefore(periodEnd) }
-                .takeLast(days ?: Int.MAX_VALUE)
+            .windowed(2, 1, false) {
+                val minDiff = max(1, ChronoUnit.MINUTES.between(it[0].dateTime, it[1].dateTime))
+                val downloadDiff = ((it[1].count - it[0].count) * 60L * 24L) / minDiff
+                DownloadDiff(it[1].dateTime, it[1].count, downloadDiff)
+            }
+            .filter { it.date.isAfter(periodStart) && it.date.isBefore(periodEnd) }
+            .takeLast(days ?: Int.MAX_VALUE)
+    }
+
+    private fun calculateMonthlyDiff(
+        stats: Collection<StatEntry>
+    ): List<MonthlyDownloadDiff> {
+        return stats
+            .windowed(2, 1, false) {
+                MonthlyDownloadDiff(
+                    it[1].dateTime.getYear().toString() + "-" + it[1].dateTime.getMonth().getDisplayName(TextStyle.SHORT, Locale.ENGLISH),
+                    it[1].count,
+                    it[1].count - it[0].count
+                )
+            }
     }
 
     private suspend fun getGithubDownloadStatsByDate(start: ZonedDateTime, end: ZonedDateTime, featureVersion: Int?, jvmImpl: JvmImpl?): List<StatEntry> {
