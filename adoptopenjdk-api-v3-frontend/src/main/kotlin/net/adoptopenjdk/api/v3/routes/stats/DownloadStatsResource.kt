@@ -169,6 +169,10 @@ class DownloadStatsResource {
         to: String?
     ): CompletionStage<Response> {
         return runAsync {
+            if (dockerRepo != null && source != StatsSource.dockerhub) {
+                throw BadRequestException("docker_repo can only be used with source=dockerhub")
+            }
+
             val jvmImpl: JvmImpl? = when (jvmImplStr) {
                 "hotspot" -> JvmImpl.hotspot
                 "openj9" -> JvmImpl.openj9
@@ -177,6 +181,7 @@ class DownloadStatsResource {
             }
 
             val toDate = parseDate(to)?.withDayOfMonth(1)?.plusMonths(1)?.atStartOfDay()?.atZone(TimeSource.ZONE)
+
             return@runAsync statsInterface.getMonthlyTrackingStats(toDate, source, featureVersion, dockerRepo, jvmImpl)
         }
     }

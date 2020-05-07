@@ -71,7 +71,7 @@ class DownloadStatsInterface(
     ): List<MonthlyDownloadDiff> {
 
         val periodEnd = to ?: TimeSource.now()
-        val periodStart = periodEnd.minusMonths(3).withDayOfMonth(1)
+        val periodStart = periodEnd.minusMonths(6).withDayOfMonth(1)
         val statsSource = source ?: StatsSource.all
 
         val stats = getMonthlyStats(periodStart.minusDays(10), periodEnd, featureVersion, dockerRepo, jvmImpl, statsSource)
