@@ -133,13 +133,7 @@ class DownloadStatsResource {
                 throw BadRequestException("docker_repo can only be used with source=dockerhub")
             }
 
-            val jvmImpl: JvmImpl? = when (jvmImplStr) {
-                "hotspot" -> JvmImpl.hotspot
-                "openj9" -> JvmImpl.openj9
-                null -> null
-                else -> throw BadRequestException("jvm_impl not recognized. Must be one of: hotspot, openj9")
-            }
-
+            val jvmImpl = parseJvmImpl(jvmImplStr)
             val fromDate = parseDate(from)?.atStartOfDay()?.atZone(TimeSource.ZONE)
             val toDate = parseDate(to)?.plusDays(1)?.atStartOfDay()?.atZone(TimeSource.ZONE)
 
@@ -173,13 +167,7 @@ class DownloadStatsResource {
                 throw BadRequestException("docker_repo can only be used with source=dockerhub")
             }
 
-            val jvmImpl: JvmImpl? = when (jvmImplStr) {
-                "hotspot" -> JvmImpl.hotspot
-                "openj9" -> JvmImpl.openj9
-                null -> null
-                else -> throw BadRequestException("jvm_impl not recognized. Must be one of: hotspot, openj9")
-            }
-
+            val jvmImpl = parseJvmImpl(jvmImplStr)
             val toDate = parseDate(to)?.withDayOfMonth(1)?.plusMonths(1)?.atStartOfDay()?.atZone(TimeSource.ZONE)
 
             return@runAsync statsInterface.getMonthlyTrackingStats(toDate, source, featureVersion, dockerRepo, jvmImpl)
@@ -195,6 +183,15 @@ class DownloadStatsResource {
             } catch (e: Exception) {
                 throw BadRequestException("Cannot parse date $date")
             }
+        }
+    }
+
+    private fun parseJvmImpl(jvmImpl: String?): JvmImpl? {
+        return when (jvmImpl) {
+            "hotspot" -> JvmImpl.hotspot
+            "openj9" -> JvmImpl.openj9
+            null -> null
+            else -> throw BadRequestException("jvm_impl not recognized. Must be one of: hotspot, openj9")
         }
     }
 

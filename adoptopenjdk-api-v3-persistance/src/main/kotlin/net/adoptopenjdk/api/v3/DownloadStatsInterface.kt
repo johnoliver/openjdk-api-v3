@@ -11,10 +11,9 @@ import net.adoptopenjdk.api.v3.models.GithubDownloadStatsDbEntry
 import net.adoptopenjdk.api.v3.models.JvmImpl
 import net.adoptopenjdk.api.v3.models.StatsSource
 import net.adoptopenjdk.api.v3.models.TotalStats
+import java.time.YearMonth
 import java.time.ZonedDateTime
-import java.time.format.TextStyle
 import java.time.temporal.ChronoUnit
-import java.util.Locale
 import kotlin.math.max
 import kotlin.math.min
 
@@ -142,7 +141,7 @@ class DownloadStatsInterface(
         return stats
             .windowed(2, 1, false) {
                 MonthlyDownloadDiff(
-                    it[1].dateTime.getYear().toString() + "-" + it[1].dateTime.getMonth().getDisplayName(TextStyle.SHORT, Locale.ENGLISH),
+                    YearMonth.of(it[1].dateTime.getYear(), it[1].dateTime.getMonthValue()),
                     it[1].count,
                     it[1].count - it[0].count
                 )
@@ -179,7 +178,11 @@ class DownloadStatsInterface(
                                         repoForDay.value.maxBy { it.date }!!
                                     }
                         }
-                        .filter { (dockerRepo == null || it.repo == dockerRepo) && (featureVersion == null || it.feature_version == featureVersion) && (jvmImpl == null || it.jvm_impl == jvmImpl) }
+                        .filter {
+                            (dockerRepo == null || it.repo == dockerRepo) &&
+                            (featureVersion == null || it.feature_version == featureVersion) &&
+                            (jvmImpl == null || it.jvm_impl == jvmImpl)
+                        }
                         .sortedBy { it.date }
         )
     }
