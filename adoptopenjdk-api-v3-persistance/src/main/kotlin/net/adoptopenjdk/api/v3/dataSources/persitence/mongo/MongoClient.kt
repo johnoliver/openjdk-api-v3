@@ -18,6 +18,9 @@ object MongoClientFactory {
     }
 
     fun set(impl: MongoClient?) {
+        if (MongoClientFactory.impl != null) {
+            MongoClientFactory.impl!!.close();
+        }
         MongoClientFactory.impl = impl
     }
 }
@@ -51,5 +54,9 @@ class MongoClient {
 
         client = KMongo.createClient(uri).coroutine
         database = client.getDatabase(dbName)
+    }
+
+    fun close() {
+        client.close()
     }
 }
