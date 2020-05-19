@@ -81,7 +81,6 @@ abstract class BaseTest {
             startFongo()
             mockRepo()
             LOGGER.info("Done startup")
-            LOGGER.info("Foo1")
         }
 
         @JvmStatic
@@ -159,10 +158,9 @@ abstract class BaseTest {
         @JvmStatic
         @AfterAll
         fun closeMongo() {
-            LOGGER.info("Foo2")
+            mongodExecutable!!.stop()
             ApiPersistenceFactory.set(null)
             MongoClientFactory.set(null)
-            mongodExecutable!!.stop()
         }
     }
 

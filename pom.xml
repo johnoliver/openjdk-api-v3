@@ -8,7 +8,7 @@
     <artifactId>adoptopenjdk-api-v3</artifactId>
     <version>3.0.0-SNAPSHOT</version>
     <properties>
-        <surefire-plugin.version>2.22.0</surefire-plugin.version>
+        <surefire-plugin.version>3.0.0-M3</surefire-plugin.version>
         <maven.compiler.target>11</maven.compiler.target>
         <kotlin.version>1.3.71</kotlin.version>
         <maven.compiler.source>11</maven.compiler.source>
@@ -219,6 +219,14 @@
     </repositories>
     <build>
         <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-surefire-plugin</artifactId>
+                <version>${surefire-plugin.version}</version>
+                <configuration>
+                    <reuseForks>false</reuseForks>
+                </configuration>
+            </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-jar-plugin</artifactId>
