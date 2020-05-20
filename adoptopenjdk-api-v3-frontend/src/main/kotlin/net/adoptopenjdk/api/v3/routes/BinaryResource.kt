@@ -216,6 +216,8 @@ class BinaryResource {
             .thenBy { it.version_data.build }
             .thenBy { it.version_data.adopt_build_number }
             .thenBy { it.version_data.optional }
+            .thenBy { it.updated_at }
+            .thenBy { it.timestamp }
 
         val release = releases.sortedWith(comparator).lastOrNull()
 
