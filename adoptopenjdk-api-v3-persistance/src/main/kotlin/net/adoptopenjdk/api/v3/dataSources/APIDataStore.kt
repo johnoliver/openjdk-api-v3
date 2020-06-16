@@ -68,28 +68,6 @@ object APIDataStore {
         return releaseInfo
     }
 
-    fun loadReleaseInfo(): ReleaseInfo {
-        releaseInfo = runBlocking {
-            val releaseInfo = try {
-                ApiPersistenceFactory.get().getReleaseInfo()
-            } catch (e: Exception) {
-                LOGGER.error("Failed to read db", e)
-                null
-            }
-
-            // Default for first time when DB is still being populated
-            releaseInfo ?: ReleaseInfo(
-                arrayOf(8, 9, 10, 11, 12, 13, 14),
-                arrayOf(8, 11),
-                11,
-                14,
-                15,
-                15
-            )
-        }
-        return releaseInfo
-    }
-
     @VisibleForTesting
     fun loadDataFromDb(): AdoptRepos {
         binaryRepos = runBlocking {
