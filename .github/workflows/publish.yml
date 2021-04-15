@@ -34,6 +34,6 @@ jobs:
           ls
           cp -r target/mvn-repo/ /tmp/mvn-repo
           git checkout --orphan maven
-          rsync /tmp/mvn-repo ./mvn-repo
+          rsync -r /tmp/mvn-repo/ ./mvn-repo
           git add mvn-repo
           git commit -a -m "add artifacts"
