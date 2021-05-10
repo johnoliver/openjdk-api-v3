@@ -255,6 +255,16 @@
                 <artifactId>cdi-api</artifactId>
                 <version>2.0.SP1</version>
             </dependency>
+            <dependency>
+                <groupId>com.expediagroup</groupId>
+                <artifactId>graphql-kotlin-client</artifactId>
+                <version>4.1.0</version>
+            </dependency>
+            <dependency>
+                <groupId>com.expediagroup</groupId>
+                <artifactId>graphql-kotlin-client-jackson</artifactId>
+                <version>4.1.0</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
     <dependencies>

@@ -35,7 +35,7 @@ abstract class BaseTest {
         @JvmStatic
         @BeforeAll
         fun startDb() {
-            System.setProperty("GITHUB_TOKEN", "stub-token")
+            //System.setProperty("GITHUB_TOKEN", "stub-token")
         }
     }
 

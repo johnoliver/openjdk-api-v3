@@ -17,9 +17,9 @@ class HttpClientFactory {
     companion object {
         val REQUEST_CONFIG = RequestConfig
             .copy(RequestConfig.DEFAULT)
-            .setConnectTimeout(5000)
-            .setSocketTimeout(5000)
-            .setConnectionRequestTimeout(5000)
+            .setConnectTimeout(500000)
+            .setSocketTimeout(500000)
+            .setConnectionRequestTimeout(500000)
             .build()!!
 
         const val NON_REDIRECTING = "non-redirect"
