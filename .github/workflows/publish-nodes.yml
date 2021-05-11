@@ -41,3 +41,6 @@ jobs:
           ls -R mvn-repo
           git add mvn-repo
           git status
+          git add mvn-repo
+          git commit -a -m "add node artifacts"
+          git push origin maven
