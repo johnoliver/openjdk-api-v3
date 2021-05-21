@@ -18,7 +18,7 @@ import org.jboss.weld.junit5.auto.EnableAutoWeld
     value = [
         InMemoryApiPersistence::class,
         InMemoryInternalDbStore::class,
-        APIDataStore::class,
+        APIDataStore::class
     ]
 )
 open class FrontendTest {
