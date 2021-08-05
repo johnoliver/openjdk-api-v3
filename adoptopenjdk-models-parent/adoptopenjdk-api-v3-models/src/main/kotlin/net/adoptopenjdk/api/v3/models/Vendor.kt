@@ -39,7 +39,7 @@ enum class Vendor {
          * Use to double check that we will not accept a vendor that is not available for this ecosystem
          */
         fun getValue(value: String): Vendor {
-            return assertValidVendor(valueOf(value))
+            return assertValidVendor(valueOf(VendorSchemaRef.applyVendorMapping(value)))
         }
     }
 }

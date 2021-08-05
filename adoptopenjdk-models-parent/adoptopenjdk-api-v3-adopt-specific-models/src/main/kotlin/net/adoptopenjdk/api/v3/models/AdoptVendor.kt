@@ -15,5 +15,10 @@ class AdoptVendor {
 
         // Duplicate of above array as we cannot reference this in an annotation, keep these lists in sync
         val VENDOR_VALUES = arrayOf("adoptopenjdk", "openjdk", "eclipse", "alibaba", "ibm")
+
+        // mapping of vendor renames, i.e rename adoptium to eclipse
+        val VENDOR_MAPPING = mapOf(
+            "adoptium" to "eclipse"
+        )
     }
 }
