@@ -5,6 +5,6 @@
 curl -sLo 2.1.1.Final.zip "https://github.com/quarkusio/quarkus/archive/refs/tags/2.1.1.Final.zip"
 unzip -q 2.1.1.Final.zip
 cd quarkus-2.1.1.Final/
-patch -p 1 < /tmp/patch
+patch -p 1 < ../release.patch
 cd independent-projects/resteasy-reactive/server/vertx
 ../../../../mvnw clean install
