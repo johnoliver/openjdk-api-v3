@@ -7,10 +7,10 @@ if [ "$(ls /tmp/artifacts/ 2>/dev/null)" ]; then
 fi
 
 cd /tmp/src/quarkus-patch
-dnf -y install git
+sudo dnf -y install git
 chmod +x ./patch-quarkus.sh
 ./patch-quarkus.sh
-dnf -y autoremove git
+sudo dnf -y autoremove git
 
 cd /tmp/src
 ./mvnw -B clean install
